@@ -1,0 +1,17 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "LuckRain7's index",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "dev": "vuepress dev docs",
+    "deploy": "bash deploy.sh"
+  },
+  "author": "LuckRain7",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.3.1"
+  }
+}
