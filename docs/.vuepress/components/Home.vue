@@ -12,16 +12,12 @@
       <div class="hero">
         <div class="images">
           <img src="/index/home.png" alt="" />
-          <a
-            v-for="(item, index) in SocialData"
-            :key="index"
-            class="shield"
-            :href="item.url"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img :src="item.img" />
-          </a>
+          <div style="width: 300px; margin: 0 auto;">
+            <a href="/index/About.html" class="shield">About</a>
+            <a href="/index/Project.html" class="shield">Project</a>
+            <a href="/index/Tools.html" class="shield">Tool</a>
+            <a href="/index/Social.html" class="shield">Social</a>
+          </div>
         </div>
       </div>
     </div>
@@ -87,8 +83,6 @@ export default {
 /* 徽标样式 */
 .images .shield {
   margin: 0 10px;
-}
-.images .shield img {
-  height: 21px;
+  font-size: 17px;
 }
 </style>

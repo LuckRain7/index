@@ -14,7 +14,7 @@ sidebar: auto
 
 [web-crawler - 🐞 基于 Node 的爬虫 Example](https://github.com/LuckRain7/web-crawler)
 
-[growth-record - 📚 记录日常学习的各种代码 DEMO]()
+[growth-record - 📚 记录日常学习的各种代码 DEMO](https://github.com/LuckRain7/growth-record)
 
 ## 2. Gitee
 
@@ -25,3 +25,9 @@ sidebar: auto
 - [关于手机端适配问题](https://luckrain.gitee.io/ppt/webapp/dist/webapp.html)
 
 - [服务器安全建议](https://luckrain.gitee.io/ppt/safe/dist/index.html)
+
+## Dev
+
+[LuckRain7 / lucky-ui（自制 ui 库）](https://github.com/LuckRain7/lucky-ui)
+
+[LuckRain7 / information-resource-planning（信息资源规划学习记录）](https://luckrain7.github.io/information-resource-planning/)

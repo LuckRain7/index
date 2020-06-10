@@ -20,12 +20,12 @@ module.exports = {
     sidebarDepth: 1,
 
     // 导航栏设置
-    nav: [
-      { text: "关于", link: "/About.html" },
-      { text: "项目", link: "/Project.html" },
-      { text: "工具", link: "/Tools.html" },
-      { text: "社交平台", link: "/Social.html" },
-    ],
+    // nav: [
+    //   { text: "关于", link: "/About.html" },
+    //   { text: "项目", link: "/Project.html" },
+    //   { text: "工具", link: "/Tools.html" },
+    //   { text: "社交平台", link: "/Social.html" },
+    // ],
     displayAllHeaders: false,
     activeHeaderLinks: true,
   },
