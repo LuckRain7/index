@@ -11,7 +11,7 @@
       <!-- hero层 -->
       <div class="hero">
         <div class="images">
-          <img src="/home.png" alt="" />
+          <img src="/index/home.png" alt="" />
           <a
             v-for="(item, index) in SocialData"
             :key="index"
