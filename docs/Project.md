@@ -20,6 +20,8 @@ sidebar: auto
 
 [Web-FEDSE - 高级前端工程师课程笔记](https://gitee.com/LuckRain/Web-FEDSE) | [Page](https://luckrain.gitee.io/web-fedse/)
 
-## 3. Coding
+## 3. PPT
 
-Page 被墙
+- [关于手机端适配问题](https://luckrain.gitee.io/ppt/webapp/dist/webapp.html)
+
+- [服务器安全建议](https://luckrain.gitee.io/ppt/safe/dist/index.html)

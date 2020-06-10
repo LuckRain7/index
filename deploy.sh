@@ -27,7 +27,7 @@ npm run docs:build
 cd docs/.vuepress/dist
 
 # 如果是发布到自定义域名
-echo 'rain7.top' > CNAME
+# echo 'rain7.top' > CNAME
 
 git init
 git add -A
@@ -37,10 +37,7 @@ git commit -m 'deploy'
 # Gitee
 # git push  -f git@gitee.com:LuckRain/blog.git master
 
-# coding
-# git push  -f git@e.coding.net:luckrain7/luckrain7.git master
-
-# GitHub
-git push  -f git@github.com:LuckRain7/MyBlog.git master:gh-pages
+# Gitee
+git push -f git@gitee.com:LuckRain/index.git master:gh-pages
 
 cd -

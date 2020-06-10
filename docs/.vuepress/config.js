@@ -8,7 +8,7 @@ module.exports = {
   title: "LuckRain7",
   description: "",
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
-  // base: "/index",
+  base: "/index",
   markdown: {},
   locales: {
     "/": {
