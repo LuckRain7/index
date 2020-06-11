@@ -19,7 +19,7 @@
   width: 100%;
   height: auto;
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: wrap;  
   /* justify-content: space-around; */
   justify-content: flex-start;
 }
@@ -34,6 +34,7 @@
   background-color: #ffffffab;
   border: 1px solid #f0ebebe8;
   box-shadow: 10px 10px 5px #f0ebebe8;
+  overflow: hidden;
 }
 </style>
 

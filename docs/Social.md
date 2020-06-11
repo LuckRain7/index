@@ -1,4 +1,4 @@
-# 社交平台
+# Social
 
 [微信公众平台入口](https://mp.weixin.qq.com/)
 

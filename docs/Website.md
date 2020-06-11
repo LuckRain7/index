@@ -2,7 +2,7 @@
 sidebar: auto
 ---
 
-# Tool
+# Website
 
 ## 常用网站
 

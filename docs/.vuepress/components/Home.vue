@@ -12,16 +12,23 @@
       <div class="hero">
         <div class="images">
           <img src="/index/home.png" alt="" />
-          <div style="width: 300px; margin: 0 auto;">
+          <div style="width: 370px; margin: 0 auto;">
             <a href="/index/About.html" class="shield">About</a>
             <a href="/index/Project.html" class="shield">Project</a>
-            <a href="/index/Tools.html" class="shield">Tool</a>
+            <a href="/index/Website.html" class="shield">Website</a>
             <a href="/index/Social.html" class="shield">Social</a>
+            <a href="/index/Time.html" class="shield">Time</a>
           </div>
         </div>
       </div>
     </div>
-    <div class="homt-item"></div>
+    <div class="homt-item">
+      <div class="content-main">
+        <p>Hello World</p>
+        <p style="text-indent: 2em;">I wish the world peace and love.</p>
+        <p style="text-indent: 12em;">LuckRain7</p>
+      </div>
+    </div>
   </div>
 </template>
 <script>
@@ -83,6 +90,14 @@ export default {
 /* 徽标样式 */
 .images .shield {
   margin: 0 10px;
+  font-size: 17px;
+}
+
+/* 文字 */
+.content-main {
+  width: 90%;
+  margin: 30px auto;
+  color: #999999;
   font-size: 17px;
 }
 </style>
