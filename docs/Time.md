@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # Time
 
 ## 2020
