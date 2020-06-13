@@ -8,7 +8,7 @@ sidebar: auto
 
 [Knowledge-Sharing - 🔥LuckRain7 的前端知识分享 😊（欢迎 star，持续更新）](https://github.com/LuckRain7/Knowledge-Sharing)
 
-[LuckRain7/MyBlog - 😊 LuckRain7 自整理的资源博客](https://rain7.top/)
+[MyBlog - 😊 LuckRain7 自整理的资源博客](https://rain7.top/)
 
 [arcgis-api-for-javascript-vue - Vue + ArcGIS API for JavaScript 教程](https://github.com/LuckRain7/arcgis-api-for-javascript-vue)
 

@@ -19,22 +19,30 @@
   width: 100%;
   height: auto;
   display: flex;
-  flex-wrap: wrap;  
+  flex-wrap: wrap;
   /* justify-content: space-around; */
   justify-content: flex-start;
 }
 
 .my-link .link-item {
-  width: 32%;
+  width: 30%;
   height: 40px;
   margin-top: 10px;
-  margin-right: 3px;
+  margin-right: 1%;
   line-height: 40px;
   text-align: center;
   background-color: #ffffffab;
   border: 1px solid #f0ebebe8;
-  box-shadow: 10px 10px 5px #f0ebebe8;
+  box-shadow: 1px 1px 1px green;
   overflow: hidden;
+}
+
+.link-item:hover {
+  background-color: #4aca91;
+  color: white !important;
+}
+.link-item:hover a {
+  color: white !important;
 }
 </style>
 
@@ -130,6 +138,10 @@ export default {
           {
             title: "Chrome 网上应用店",
             url: "https://chrome.google.com/webstore/category/extensions",
+          },
+          {
+            title: "草民电影网",
+            url: "https://www.cmdy5.com/",
           },
         ],
       },
