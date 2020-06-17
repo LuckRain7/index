@@ -12,17 +12,16 @@
     <!-- <ul class="level level0" id="tree1"></ul> -->
     <br />
     <ul class="level level0" id="tree1">
-      <template v-for="(item, index) in treeData">
-        <Item :item="item" :key="index"></Item>
-      </template>
+      <Item v-for="(item, index) in treeData" :item="item" :key="index"></Item>
     </ul>
   </div>
 </template>
 
 <script>
-import Data from "./data.js";
+import Data from "../../../data/Code.js";
 import item from "./item.vue";
-import { addListener, removeListener } from "../utils/Dom.js";
+// import { addListener, removeListener } from "../utils/Dom.js";
+import { addListener } from "../utils/Dom.js";
 export default {
   name: "LTree",
 
@@ -75,10 +74,10 @@ export default {
     });
   },
 
-  beforeDestroy() {
-    // 删除事件委托
-    removeListener(this.$tree1, "click", this.clickHandle);
-  },
+  // beforeDestroy() {
+  //   // 删除事件委托
+  //   removeListener(this.$tree1, "click", this.clickHandle);
+  // },
 };
 </script>
 

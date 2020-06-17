@@ -1,7 +1,7 @@
 /*
- *  Description:
+ *  Description: 代码相关导航
  *  Author: LuckRain7
- *  Date: 2020-05-17 13:20:57
+ *  Date: 2020-06-14 09:36:19
  */
 export default [
   {
@@ -60,6 +60,10 @@ export default [
       {
         name: "Parcel - JavaScript 模块打包器",
         url: "https://parceljs.org/",
+      },
+      {
+        name: "Snowpack - 面向现代的Web开发",
+        url: "https://www.snowpack.dev/",
       },
     ],
   },
@@ -187,6 +191,16 @@ export default [
       {
         name: "uni-app 官网",
         url: "https://uniapp.dcloud.io/README",
+      },
+    ],
+  },
+  // 微前端
+  {
+    name: "微前端",
+    children: [
+      {
+        name: "qiankun - 可能是你见过最完善的微前端解决方案🧐",
+        url: "https://qiankun.umijs.org/zh",
       },
     ],
   },

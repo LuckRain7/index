@@ -9,21 +9,24 @@
       <span v-if="item.url">📝</span> {{ item.name }}
     </a>
     <!-- if -->
-    <template v-if="item.children">
+    <div v-if="item.children">
       <em :class="['icon', item.open ? 'open' : '']"></em>
       <!-- level level${this.count} -->
       <ul
         :class="['level', 'level1']"
         :style="{ display: item.open ? 'block' : 'none' }"
       >
-        <template v-for="(child, ind) in item.children">
-          <tree-item :item="child" :key="ind"></tree-item>
-        </template>
+        <!-- 循环 -->
+        <TreeItem
+          v-for="(child, ind) in item.children"
+          :item="child"
+          :key="ind"
+        ></TreeItem>
       </ul>
-    </template>
+    </div>
 
     <!-- else -->
-    <template v-else></template>
+    <div v-else></div>
   </li>
 </template>
 <script>
