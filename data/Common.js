@@ -19,41 +19,57 @@ export default {
       url: "https://www.bilibili.com/",
     },
     {
-      title: "MDN Web 文档",
+      title: "🎓 MDN Web 文档",
       url: "https://developer.mozilla.org/zh-CN/",
-    },
-    {
-      title: "奶牛快传",
-      url: "https://cowtransfer.com/",
-    },
-    {
-      title: "百度学术",
-      url: "http://xueshu.baidu.com/",
-    },
-    {
-      title: "有道词典",
-      url: "http://dict.youdao.com/",
-    },
-    {
-      title: "SDAU-机构设置",
-      url: "http://www.sdau.edu.cn/13/list.htm",
-    },
-    {
-      title: "山东农业大学图书馆",
-      url: "http://library.sdau.edu.cn/",
-    },
-    {
-      title: "pc6-下载站",
-      url: "http://www.pc6.com/",
-    },
-    {
-      title: "扩展迷",
-      url: "https://extfans.com/",
     },
 
     {
-      title: "腾讯课堂",
+      title: "🎓 百度学术",
+      url: "http://xueshu.baidu.com/",
+    },
+    {
+      title: "🎓 有道词典",
+      url: "http://dict.youdao.com/",
+    },
+    {
+      title: "🎓 SDAU-机构设置",
+      url: "http://www.sdau.edu.cn/13/list.htm",
+    },
+    {
+      title: "🎓 山东农业大学图书馆",
+      url: "http://library.sdau.edu.cn/",
+    },
+    {
+      title: "🎓 腾讯课堂",
       url: "http://ke.qq.com/index.html",
+    },
+    {
+      title: "🔧 奶牛快传",
+      url: "https://cowtransfer.com/",
+    },
+    {
+      title: "🔧 pc6-下载站",
+      url: "http://www.pc6.com/",
+    },
+    {
+      title: "🔧 扩展迷",
+      url: "https://extfans.com/",
+    },
+    {
+      title: "🔧 BootCDN - CDN 加速服务",
+      url: "http://www.bootcdn.cn/",
+    },
+    {
+      title: "🔧 百度脑图",
+      url: "https://naotu.baidu.com/",
+    },
+    {
+      title: "🔧 精准云工具",
+      url: "https://jingzhunyun.com/",
+    },
+    {
+      title: "🔧 微词云",
+      url: "https://www.weiciyun.com/",
     },
     {
       title: "有道云笔记",
@@ -75,10 +91,7 @@ export default {
       title: "InfoQ",
       url: "http://www.infoq.com/cn/",
     },
-    {
-      title: "BootCDN - CDN 加速服务",
-      url: "http://www.bootcdn.cn/",
-    },
+
     {
       title: "HelloGitHub 分享",
       url: "https://hellogithub.com/",
@@ -93,7 +106,7 @@ export default {
       url: "https://chrome.google.com/webstore/category/extensions",
     },
     {
-      title: "草民电影网",
+      title: "【娱乐】草民电影网",
       url: "https://www.cmdy5.com/",
     },
   ],
