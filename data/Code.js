@@ -142,6 +142,28 @@ export default [
         name: "Less 中文网",
         url: "http://lesscss.cn",
       },
+      {
+        name: "[TOOLS] The Matrix Resolutions",
+        url: "https://meyerweb.com/eric/tools/matrix/",
+      },
+      {
+        name:
+          "[TOOLS] Tridiv | CSS 3D Editor - Making 3D in CSS has never been easier",
+        url: "http://tridiv.com",
+      },
+      {
+        name: "[TOOLS] F2e.name web 前端工程师 CSS3动画手册",
+        url: "http://f2e.name/",
+      },
+      {
+        name: "[TOOLS] CSS-Matrix3d GitHub",
+        url: "https://github.com/Zhangdroid/CSS-Matrix3d",
+      },
+      {
+        name:
+          "[TOOLS] CSS3 Generator ｜　CSS3を生成するGenerator（ジェネレーター）です。",
+        url: "http://ds-overdesign.com/",
+      },
     ],
   },
 
