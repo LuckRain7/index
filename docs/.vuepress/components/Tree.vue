@@ -1,6 +1,11 @@
 <!--
  * @Description:  
  * @Author: LuckRain7
+ * @Date: 2020-06-23 20:56:35
+-->
+<!--
+ * @Description:  
+ * @Author: LuckRain7
  * @Date: 2020-05-05 22:24:47
 // TODO -----------------------------
 // TODO 多个tree组件的冲突问题 优化样式 
@@ -8,26 +13,24 @@
  -->
 
 <template>
-  <div class="l-tree">
-    <!-- <ul class="level level0" id="tree1"></ul> -->
-    <br />
-    <ul class="level level0" id="tree1">
-      <Item v-for="(item, index) in treeData" :item="item" :key="index"></Item>
+  <div class="my-tree">
+    <ul :id="id" class="my-tree-ul">
+      <Treeitem
+        v-for="(item, index1) in treeData"
+        :key="index1"
+        :item="item"
+      ></Treeitem>
     </ul>
   </div>
 </template>
 
 <script>
 import Data from "../../../data/Code.js";
-import item from "./item.vue";
-// import { addListener, removeListener } from "../utils/Dom.js";
+import Treeitem from "./Treeitem.vue";
 import { addListener } from "../utils/Dom.js";
-export default {
-  name: "LTree",
 
-  components: {
-    Item: item,
-  },
+export default {
+  name: "Tree",
 
   data() {
     return { count: 0 };
@@ -40,24 +43,33 @@ export default {
         return Data;
       },
     },
+    id: {
+      type: String, // 使用id的进行重复标识
+      default: function () {
+        return "tree-test1";
+      },
+    },
   },
+
+  components: { Treeitem: Treeitem },
 
   methods: {
     elOpen(target) {
-      target.setAttribute("class", "icon open");
+      target.setAttribute("class", "tree-icon open");
       this.openAndHide(target, "block");
     },
     elHide(target) {
-      target.setAttribute("class", "icon");
+      target.setAttribute("class", "tree-icon");
       this.openAndHide(target, "none");
     },
     openAndHide(target, type) {
-      target.nextElementSibling.style.transition = "all 1s";
-      target.nextElementSibling.style.display = type;
+      target.nextElementSibling.nextElementSibling.style.display = type;
     },
     clickHandle(ev) {
       let target = ev.target;
-      if (target.tagName === "EM") {
+      console.dir(target.tagName);
+
+      if (target.tagName === "I") {
         // 获取对象 class 属性
         let classArray = target.getAttribute("class");
         // open 属性切换
@@ -68,72 +80,40 @@ export default {
 
   mounted() {
     this.$nextTick(() => {
-      this.$tree1 = document.querySelector("#tree1");
+      this.$tree = document.querySelector(`#${this.id}`);
       // 事件委托
-      addListener(this.$tree1, "click", this.clickHandle);
+      addListener(this.$tree, "click", this.clickHandle);
     });
   },
-
-  // beforeDestroy() {
-  //   // 删除事件委托
-  //   removeListener(this.$tree1, "click", this.clickHandle);
-  // },
 };
 </script>
 
-<style lang="css">
-.l-tree .container {
-  box-sizing: border-box;
-  margin: 20px auto;
-  padding: 10px;
-  width: 600px;
-  border: 1px dashed #aaa;
-}
-.l-tree .level {
-  display: none;
-  font-size: 15px;
-  margin-left: 0px;
-}
-.l-tree .level.level0 {
-  display: block;
-  margin-left: 0;
-}
-.l-tree .level li {
-  position: relative;
-  padding-left: 16px;
-  line-height: 30px;
+<style>
+.my-tree li {
+  margin-left: 26px;
   list-style: none;
 }
-.l-tree .level li .icon {
-  position: absolute;
-  left: 0;
-  top: 9px;
-  box-sizing: border-box;
-  width: 12px;
-  height: 12px;
-  line-height: 8px;
-  text-align: center;
-  border: 1px solid #aaa;
-  background: #eee;
+
+.my-tree a {
+  color: #2c3e50;
+  text-decoration: none !important;
   cursor: pointer;
 }
-.l-tree .level li .icon:after {
-  display: block;
-  content: "+";
-  font-size: 12px;
+.my-tree a :hover {
+  text-decoration: none !important;
+  color: #3eaf7c !important;
+  cursor: pointer;
+}
+.my-tree a:active {
+  text-decoration: none !important;
+  color: #3eaf7c !important;
+  cursor: pointer;
+}
+.my-tree i {
   font-style: normal;
 }
-.l-tree .level li .icon.open:after {
-  content: "-";
-}
-.l-tree .level li .title {
-  color: #000;
-}
-.l-tree .level ul {
-  /* padding-left: 10px; */
-  padding-left: 1px;
-}
-.l-tree .level a {
-  border: none !important;
+
+.my-tree .tree-icon {
+  cursor: pointer;
 }
 </style>

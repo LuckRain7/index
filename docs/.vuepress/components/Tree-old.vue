@@ -1,0 +1,146 @@
+<!--
+ * @Description:  
+ * @Author: LuckRain7
+ * @Date: 2020-05-05 22:24:47
+// TODO -----------------------------
+// TODO 多个tree组件的冲突问题 优化样式 
+// TODO -----------------------------
+ -->
+
+<template>
+  <div class="l-tree">
+    <!-- <ul class="level level0" id="tree1"></ul> -->
+    <br />
+    <ul class="level level0" id="tree1">
+      <Item v-for="(item, index) in treeData" :item="item" :key="index"></Item>
+    </ul>
+  </div>
+</template>
+
+<script>
+import Data from "../../../data/Code.js";
+import item from "./item.vue";
+// import { addListener, removeListener } from "../utils/Dom.js";
+import { addListener } from "../utils/Dom.js";
+export default {
+  name: "LTree",
+
+  components: {
+    Item: item,
+  },
+
+  data() {
+    return { count: 0 };
+  },
+
+  props: {
+    treeData: {
+      type: Array,
+      default: function () {
+        return Data;
+      },
+    },
+  },
+
+  methods: {
+    elOpen(target) {
+      target.setAttribute("class", "icon open");
+      this.openAndHide(target, "block");
+    },
+    elHide(target) {
+      target.setAttribute("class", "icon");
+      this.openAndHide(target, "none");
+    },
+    openAndHide(target, type) {
+      target.nextElementSibling.style.transition = "all 1s ease 1s";
+      target.nextElementSibling.style.display = type;
+    },
+    clickHandle(ev) {
+      let target = ev.target;
+      // if (target.tagName === "EM") {
+      //   // 获取对象 class 属性
+      //   let classArray = target.getAttribute("class");
+      //   // open 属性切换
+      //   classArray.includes("open") ? this.elHide(target) : this.elOpen(target);
+      // }
+      if (target.tagName === "I") {
+        // 获取对象 class 属性
+        let classArray = target.getAttribute("class");
+        // open 属性切换
+        classArray.includes("open") ? this.elHide(target) : this.elOpen(target);
+      }
+    },
+  },
+
+  mounted() {
+    this.$nextTick(() => {
+      this.$tree1 = document.querySelector("#tree1");
+      // 事件委托
+      addListener(this.$tree1, "click", this.clickHandle);
+    });
+  },
+
+  // beforeDestroy() {
+  //   // 删除事件委托
+  //   removeListener(this.$tree1, "click", this.clickHandle);
+  // },
+};
+</script>
+
+<style lang="css">
+.l-tree .container {
+  box-sizing: border-box;
+  margin: 20px auto;
+  padding: 10px;
+  width: 600px;
+  border: 1px dashed #aaa;
+}
+.l-tree .level {
+  display: none;
+  font-size: 15px;
+  margin-left: 0px;
+}
+.l-tree .level.level0 {
+  display: block;
+  margin-left: 0;
+}
+.l-tree .level li {
+  position: relative;
+  padding-left: 16px;
+  line-height: 30px;
+  list-style: none;
+  /* margin-left: 20px; */
+}
+.l-tree .level li .icon {
+  position: absolute;
+  left: 0;
+  top: 9px;
+  /* box-sizing: border-box; */
+  width: 12px;
+  height: 12px;
+  line-height: 8px;
+  text-align: center;
+  /* border: 1px solid #aaa; */
+  /* background: #eee; */
+  cursor: pointer;
+}
+/* .l-tree .level li .icon:after {
+  display: block;
+  content: "+";
+  font-size: 12px;
+  font-style: normal;
+}
+.l-tree .level li .icon.open:after {
+  content: "-";
+} */
+.l-tree .level li .title {
+  color: #000;
+}
+.l-tree .level ul {
+  /* padding-left: 10px; */
+  padding-left: 1px;
+}
+.l-tree .level a {
+  border: none !important;
+}
+</style>

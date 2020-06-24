@@ -5,12 +5,20 @@
 -->
 <template>
   <li>
-    <a :href="item.url" class="title" rel="noopener noreferrer" target="_blank">
+    <a
+      :href="item.url"
+      class="title"
+      rel="noopener noreferrer"
+      target="_blank"
+      style="margin-left: 7px;"
+    >
       <span v-if="item.url">📝</span> {{ item.name }}
     </a>
+
     <!-- if -->
-    <div v-if="item.children">
-      <em :class="['icon', item.open ? 'open' : '']"></em>
+    <div v-if="item.children" class="ssss">
+      <i :class="['icon', item.open ? 'open' : '']">📁 </i>
+
       <!-- level level${this.count} -->
       <ul
         :class="['level', 'level1']"

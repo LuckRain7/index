@@ -7,25 +7,20 @@ export default {
   title: "常用网站",
   children: [
     {
-      title: "Google",
+      title: "⭐ Google",
       url: "https://www.google.com",
     },
     {
-      title: "前端开发日报-前端开发博客",
+      title: "⭐ 前端开发日报-前端开发博客",
       url: "http://caibaojian.com/c/news",
     },
     {
-      title: "哔哩哔哩 (゜-゜)つロ 干杯",
+      title: "⭐ 哔哩哔哩 (゜-゜)つロ 干杯",
       url: "https://www.bilibili.com/",
     },
     {
       title: "🎓 MDN Web 文档",
       url: "https://developer.mozilla.org/zh-CN/",
-    },
-
-    {
-      title: "🎓 百度学术",
-      url: "http://xueshu.baidu.com/",
     },
     {
       title: "🎓 有道词典",
@@ -72,41 +67,42 @@ export default {
       url: "https://www.weiciyun.com/",
     },
     {
-      title: "有道云笔记",
+      title: "🔧 有道云笔记",
       url: "http://note.youdao.com/",
     },
     {
-      title: "Magi - 搜索",
+      title: "🔧 Magi - 搜索",
       url: "https://magi.com/",
     },
     {
-      title: "NPM",
+      title: "🔧 NPM",
       url: "https://www.npmjs.com/",
     },
     {
-      title: "VS Code",
+      title: "🔧 VS Code",
       url: "https://marketplace.visualstudio.com/vscode",
     },
     {
-      title: "InfoQ",
-      url: "http://www.infoq.com/cn/",
-    },
-
-    {
-      title: "HelloGitHub 分享",
-      url: "https://hellogithub.com/",
-    },
-    {
-      title: "虎跃网 VPN",
+      title: "🔧 虎跃网 VPN",
       url: "https://www.notion.so/5ea5f1cc9a8644718d0317a45c3ec0f3",
       now: "https://www.huyue.world/",
     },
     {
-      title: "Chrome 网上应用店",
+      title: "🔧 Chrome 网上应用店",
       url: "https://chrome.google.com/webstore/category/extensions",
     },
     {
-      title: "【娱乐】草民电影网",
+      title: "📘 InfoQ",
+      url: "http://www.infoq.com/cn/",
+    },
+
+    {
+      title: "📘 HelloGitHub 分享",
+      url: "https://hellogithub.com/",
+    },
+
+    {
+      title: "📺 草民电影网",
       url: "https://www.cmdy5.com/",
     },
   ],

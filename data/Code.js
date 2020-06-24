@@ -17,6 +17,10 @@ export default [
         url: "https://chu1204505056.gitee.io/cn.vuejs.org/",
       },
       {
+        name: "Vue3 - 非官方文档",
+        url: "https://vue-composition-api-rfc.netlify.app/zh/api.html",
+      },
+      {
         name: "vue-router",
         url: "https://router.vuejs.org/zh/",
       },
@@ -143,26 +147,30 @@ export default [
         url: "http://lesscss.cn",
       },
       {
-        name: "[TOOLS] The Matrix Resolutions",
+        name: "[TOOL] The Matrix Resolutions",
         url: "https://meyerweb.com/eric/tools/matrix/",
       },
       {
         name:
-          "[TOOLS] Tridiv | CSS 3D Editor - Making 3D in CSS has never been easier",
+          "[TOOL] Tridiv | CSS 3D Editor - Making 3D in CSS has never been easier",
         url: "http://tridiv.com",
       },
       {
-        name: "[TOOLS] F2e.name web 前端工程师 CSS3动画手册",
+        name: "[TOOL] F2e.name web 前端工程师 CSS3动画手册",
         url: "http://f2e.name/",
       },
       {
-        name: "[TOOLS] CSS-Matrix3d GitHub",
+        name: "[TOOL] CSS-Matrix3d GitHub",
         url: "https://github.com/Zhangdroid/CSS-Matrix3d",
       },
       {
         name:
-          "[TOOLS] CSS3 Generator ｜　CSS3を生成するGenerator（ジェネレーター）です。",
+          "[TOOL] CSS3 Generator ｜　CSS3を生成するGenerator（ジェネレーター）です。",
         url: "http://ds-overdesign.com/",
+      },
+      {
+        name: "[TOOL] CSS Grid Generator",
+        url: "https://cssgrid-generator.netlify.app/",
       },
     ],
   },
@@ -197,12 +205,22 @@ export default [
     name: "工具库",
     children: [
       {
-        name: "Lodash",
+        name: "Lodash -  强大的工具库",
         url: "https://lodash.com/",
       },
       {
         name: "Mock.js - 数据接口模拟",
         url: "http://mockjs.com/",
+      },
+      // 工具库/工具网站
+      {
+        name: "网站",
+        children: [
+          {
+            name: "30 seconds of code - 收集了许多有用的代码小片段",
+            url: "https://www.30secondsofcode.org/",
+          },
+        ],
       },
     ],
   },
