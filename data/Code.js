@@ -4,6 +4,7 @@
  *  Date: 2020-06-14 09:36:19
  */
 export default [
+  // Vue
   {
     name: "Vue",
     // open: true,
@@ -41,15 +42,21 @@ export default [
         url: "https://www.vuepress.cn/",
       },
       {
-        name: "Ant Design Vue",
-        url: "https://www.antdv.com/docs/vue/introduce-cn/",
-      },
-      {
-        name: "Element - UI",
-        url: "https://element.eleme.cn/#/zh-CN",
+        name: "UI",
+        children: [
+          {
+            name: "Ant Design Vue",
+            url: "https://www.antdv.com/docs/vue/introduce-cn/",
+          },
+          {
+            name: "Element - UI",
+            url: "https://element.eleme.cn/#/zh-CN",
+          },
+        ],
       },
     ],
   },
+  // 打包工具
   {
     name: "打包工具",
     children: [
@@ -71,6 +78,7 @@ export default [
       },
     ],
   },
+  // React
   {
     name: "React",
     children: [
@@ -116,7 +124,7 @@ export default [
       },
     ],
   },
-
+  // 数据可视化
   {
     name: "数据可视化",
     children: [
@@ -134,7 +142,7 @@ export default [
       },
     ],
   },
-
+  // CSS
   {
     name: "CSS",
     children: [
@@ -147,34 +155,43 @@ export default [
         url: "http://lesscss.cn",
       },
       {
-        name: "[TOOL] The Matrix Resolutions",
-        url: "https://meyerweb.com/eric/tools/matrix/",
+        name: "Bootstrap 中文网",
+        url: "https://www.bootcss.com/",
       },
       {
-        name:
-          "[TOOL] Tridiv | CSS 3D Editor - Making 3D in CSS has never been easier",
-        url: "http://tridiv.com",
-      },
-      {
-        name: "[TOOL] F2e.name web 前端工程师 CSS3动画手册",
-        url: "http://f2e.name/",
-      },
-      {
-        name: "[TOOL] CSS-Matrix3d GitHub",
-        url: "https://github.com/Zhangdroid/CSS-Matrix3d",
-      },
-      {
-        name:
-          "[TOOL] CSS3 Generator ｜　CSS3を生成するGenerator（ジェネレーター）です。",
-        url: "http://ds-overdesign.com/",
-      },
-      {
-        name: "[TOOL] CSS Grid Generator",
-        url: "https://cssgrid-generator.netlify.app/",
+        name: "Tool",
+        children: [
+          {
+            name: "The Matrix Resolutions",
+            url: "https://meyerweb.com/eric/tools/matrix/",
+          },
+          {
+            name:
+              "Tridiv | CSS 3D Editor - Making 3D in CSS has never been easier",
+            url: "http://tridiv.com",
+          },
+          {
+            name: "F2e.name web 前端工程师 CSS3动画手册",
+            url: "http://f2e.name/",
+          },
+          {
+            name: "CSS-Matrix3d GitHub",
+            url: "https://github.com/Zhangdroid/CSS-Matrix3d",
+          },
+          {
+            name:
+              "CSS3 Generator ｜　CSS3を生成するGenerator（ジェネレーター）です。",
+            url: "http://ds-overdesign.com/",
+          },
+          {
+            name: "CSS Grid Generator",
+            url: "https://cssgrid-generator.netlify.app/",
+          },
+        ],
       },
     ],
   },
-
+  // Node
   {
     name: "Node",
     children: [

@@ -1,20 +1,25 @@
 <template>
-  <div class="rain-website">
-    <div class="website-item">
-      <h3>常用网站</h3>
-      <Link />
-    </div>
-    <div class="website-item">
-      <h3>Code</h3>
-      <Tree :treeData="Code" :id="text1"></Tree>
-    </div>
-    <div class="website-item">
-      <h3>Other</h3>
-      <Tree :treeData="Other" :id="text2"></Tree>
-    </div>
-    <div class="website-item">
-      <h3>科研</h3>
-      <Tree :treeData="KeYan" :id="text3"></Tree>
+  <div>
+    <div class="rain-website">
+      <div class="website-item">
+        <h3>常用网站</h3>
+        <Link />
+      </div>
+
+      <div class="website-item">
+        <h3>Code</h3>
+        <Tree :treeData="Code" :idname="text1"></Tree>
+      </div>
+
+      <div class="website-item">
+        <h3>Other</h3>
+        <Tree :treeData="Other" :idname="text2"></Tree>
+      </div>
+
+      <div class="website-item">
+        <h3>科研</h3>
+        <Tree :treeData="KeYan" :idname="text3"></Tree>
+      </div>
     </div>
   </div>
 </template>
@@ -40,7 +45,6 @@ export default {
   components: {
     Link: Link,
     Tree: Tree,
-    KeYan: KeYan,
   },
 };
 </script>
@@ -58,10 +62,13 @@ export default {
   flex-direction: row;
   justify-content: flex-start;
 }
-.website-item {
+.rain-website .website-item {
   height: 100%;
   width: 25%;
   min-width: 375px;
   margin: 0 auto;
+}
+.rain-website .website-item h3 {
+  margin-top: 70px;
 }
 </style>

@@ -58,4 +58,18 @@ export default [
     name: "鱼塘热榜",
     url: "https://mo.fish/",
   },
+  // 软件
+  {
+    name: "工具网站",
+    children: [
+      {
+        name: "地图选择器",
+        url: "http://datav.aliyun.com/tools/atlas/",
+      },
+    ],
+  },
+  {
+    name: "Hello Github",
+    url: "https://hellogithub.com/",
+  },
 ];

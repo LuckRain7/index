@@ -25,7 +25,9 @@
 </template>
 
 <script>
+// import Data from "../../../data/Code.js";
 import Treeitem from "./Treeitem.vue";
+import { addListener } from "../utils/Dom.js";
 
 export default {
   name: "Tree",
@@ -72,27 +74,13 @@ export default {
         classArray.includes("open") ? this.elHide(target) : this.elOpen(target);
       }
     },
-
-    addListener(target, type, handler) {
-      if (target.addEventListener) {
-        target.addEventListener(type, handler, false);
-      } else if (target.attachEvent) {
-        target.attachEvent("on" + type, handler);
-      } else {
-        target["on" + type] = handler;
-      }
-    },
   },
 
   mounted() {
     this.$nextTick(() => {
+      this.$tree = document.querySelector(`#${this.id}`);
       // 事件委托
-
-      this.addListener(
-        document.querySelector(`#${this.idname}`),
-        "click",
-        this.clickHandle
-      );
+      addListener(this.$tree, "click", this.clickHandle);
     });
   },
 };
