@@ -4,8 +4,4 @@ export default [
     name: "百度学术",
     url: "https://xueshu.baidu.com/",
   },
-  {
-    name: "百度学术",
-    url: "https://xueshu.baidu.com/",
-  },
 ];

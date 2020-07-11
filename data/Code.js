@@ -1,9 +1,13 @@
 /*
- *  Description: 代码相关导航
+ *  Description: 相关导航
  *  Author: LuckRain7
  *  Date: 2020-06-14 09:36:19
  */
+
+import Blog from "./other/Blog.js";
+
 export default [
+  Blog, // 博客
   // Vue
   {
     name: "Vue",
@@ -258,6 +262,84 @@ export default [
       {
         name: "qiankun - 可能是你见过最完善的微前端解决方案🧐",
         url: "https://qiankun.umijs.org/zh",
+      },
+    ],
+  },
+  // 代码仓库
+  {
+    name: "代码仓库",
+    children: [
+      {
+        name: "GitHub",
+        url: "https://github.com/",
+      },
+      {
+        name: "Gitee",
+        url: "http://git.oschina.net/",
+      },
+      {
+        name: "Coding",
+        url: "https://coding.net",
+      },
+      {
+        name: "腾讯工蜂社区版",
+        url: "https://git.code.tencent.com/explore",
+      },
+      {
+        name: "阿里云代码托管",
+        url: "https://code.aliyun.com/",
+      },
+    ],
+  },
+  // 图标库
+  {
+    name: "Icon",
+    children: [
+      {
+        name: "Iconfont-矢量图标库",
+        url: "https://www.iconfont.cn/",
+      },
+      {
+        name: "Font Awesome",
+        url: "https://fontawesome.com/",
+      },
+    ],
+  },
+  // 云服务
+  {
+    name: "Yun",
+    children: [
+      {
+        name: "阿里云",
+        url: "https://www.aliyun.com/",
+      },
+      {
+        name: "七牛云存储",
+        url: "https://portal.qiniu.com/",
+      },
+    ],
+  },
+  // 摸鱼
+  {
+    name: "摸鱼",
+    children: [
+      {
+        name: "鱼塘热榜",
+        url: "https://mo.fish/",
+      },
+      {
+        name: "Hello Github",
+        url: "https://hellogithub.com/",
+      },
+    ],
+  },
+  // 软件
+  {
+    name: "工具网站",
+    children: [
+      {
+        name: "地图选择器",
+        url: "http://datav.aliyun.com/tools/atlas/",
       },
     ],
   },

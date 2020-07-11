@@ -11,31 +11,19 @@ set -e
 # git add .
 # git commit -m 'update'
 
-# git push github master
+
 # git push gitee master
 
 # 生成静态文件
 npm run docs:build
 
-# git add .
-# git commit -m 'update'
-
-# git push github master
-# git push gitee master
-
 # 进入生成的文件夹
 cd docs/.vuepress/dist
 
-# 如果是发布到自定义域名
-# echo 'rain7.top' > CNAME
 
 git init
 git add -A
 git commit -m 'deploy'
-
-
-# Gitee
-# git push  -f git@gitee.com:LuckRain/blog.git master
 
 # Gitee
 git push -f git@gitee.com:LuckRain/index.git master:gh-pages

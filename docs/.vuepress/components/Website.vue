@@ -7,11 +7,11 @@
       </div>
 
       <div class="website-item">
-        <h3>Code</h3>
+        <h3>网站分类</h3>
         <Tree :treeData="Code" :idname="text1"></Tree>
       </div>
 
-      <div class="website-item">
+      <!-- <div class="website-item">
         <h3>Other</h3>
         <Tree :treeData="Other" :idname="text2"></Tree>
       </div>
@@ -19,7 +19,7 @@
       <div class="website-item">
         <h3>科研</h3>
         <Tree :treeData="KeYan" :idname="text3"></Tree>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>
@@ -28,14 +28,14 @@
 import Link from "./Link.vue";
 import Tree from "./Tree.vue";
 import Code from "../../../data/Code.js";
-import Other from "../../../data/other.js";
-import KeYan from "../../../data/KeYan.js";
+// import Other from "../../../data/other.js";
+// import KeYan from "../../../data/KeYan.js";
 export default {
   data() {
     return {
       Code: Code,
-      Other: Other,
-      KeYan: KeYan,
+      // Other: Other,
+      // KeYan: KeYan,
       text1: "t1",
       text2: "t2",
       text3: "t3",
@@ -64,7 +64,7 @@ export default {
 }
 .rain-website .website-item {
   height: 100%;
-  width: 25%;
+  width: 50%;
   min-width: 375px;
   margin: 0 auto;
 }
