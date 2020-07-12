@@ -11,15 +11,6 @@
         <Tree :treeData="Code" :idname="text1"></Tree>
       </div>
 
-      <!-- <div class="website-item">
-        <h3>Other</h3>
-        <Tree :treeData="Other" :idname="text2"></Tree>
-      </div>
-
-      <div class="website-item">
-        <h3>科研</h3>
-        <Tree :treeData="KeYan" :idname="text3"></Tree>
-      </div> -->
     </div>
   </div>
 </template>
@@ -46,6 +37,12 @@ export default {
     Link: Link,
     Tree: Tree,
   },
+
+  mounted() {
+    let header = document.querySelector('.navbar')
+    header.style.zIndex = 100;
+    console.log(header);
+  },
 };
 </script>
 
@@ -67,6 +64,8 @@ export default {
   width: 50%;
   min-width: 375px;
   margin: 0 auto;
+  background-color: white;
+  z-index: 99;
 }
 .rain-website .website-item h3 {
   margin-top: 70px;
