@@ -5,6 +5,7 @@
  */
 
 import Blog from "./other/Blog.js";
+import Images from './other/Images.js'
 
 export default [
   Blog, // 博客
@@ -265,6 +266,8 @@ export default [
       },
     ],
   },
+  // 图片工具
+  Images,
   // 代码仓库
   {
     name: "代码仓库",

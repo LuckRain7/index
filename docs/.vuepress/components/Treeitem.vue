@@ -13,7 +13,11 @@
       <span v-if="item.url">📝</span> {{ item.name }}
     </a>
 
-    <div :style="{ display: item.open ? 'block' : 'none' }">
+    <!-- <div
+      :style="{ display: item.open ? 'block' : 'block' }"
+      class="my-content-div"
+    > -->
+    <div class="my-content-div">
       <li v-if="item.children">
         <Treeitem
           v-for="(item2, index2) in item.children"
@@ -32,3 +36,27 @@ export default {
   props: { item: Object },
 };
 </script>
+<style lang="css">
+.my-content-div {
+  display: none;
+  /* transform: scaleY(0);
+  transition: transform 0.8s; */
+  /* transition: max-height 0.3s ease-out; */
+  transition: all ease 1s;
+
+  /* transition: all 1s ease 0.1s; */
+}
+
+.active {
+  display: block;
+  height: auto;
+  /* transform: scaleY(1) ;
+  transition: transform 0.8s; */
+  /* transition: height 1s ease;
+  transform-origin: top center; */
+  transition: all ease 1s;
+}
+
+
+
+</style>
