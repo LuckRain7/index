@@ -2,7 +2,6 @@
 sidebar: auto
 ---
 
-
 # WebSite2
 
 ## 常用网站
@@ -160,6 +159,8 @@ sidebar: auto
 [DEV Community 👩‍💻👨‍💻](https://dev.to/)
 
 [Posts :: kitsonkelly.com — A recovering 7ft tall cactus](https://kitsonkelly.com/posts)
+
+[Freshman — Articles and tutorials on Software development](https://freshman.tech/)
 
 ## 资源
 
@@ -494,7 +495,7 @@ https://picjumbo.com
 135 编译器
 
 <style>
-p, ul, ol {line-height: 0.7;}
+p {line-height: 0.7;}
 p{margin-left:25px;}
 .theme-default-content.content__default{
     max-width:1000px;
