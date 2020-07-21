@@ -220,6 +220,14 @@ sidebar: auto
 
 [秘塔写作猫(帮你推敲用语、斟酌文法、改写文风)](https://xiezuocat.com/)
 
+[Table Convert Online - 一个功能强大的在线表格编辑器](https://tableconvert.com/)
+
+[Neumorphism/Soft UI CSS shadow generator -  可视化实现新拟态效果](https://neumorphism.io/)
+
+[CSS Battle - 在线比拼 CSS](https://cssbattle.dev/)
+
+[EnjoyCSS - 在线CSS代码可视化工具]()
+
 ## 设计
 
 [uiGradients - Beautiful colored gradients（渐变色）](https://uigradients.com/)
@@ -284,6 +292,19 @@ sidebar: auto
 
 [泼辣有图 | Polayoutu - Free Chinese stock photos](https://www.polayoutu.com/)
 
+[ICONSVG - 在线自定义设计SVG图标素材](https://iconsvg.xyz/)
+
+[OpenMoji - 免费表情符号库](https://www.openmoji.org/)
+
+[Share Icon - 免费矢量素材图库](https://www.shareicon.net/)
+
+[Feathericons - 极简 ICON 图标集](https://feathericons.com/)
+
+
+## HTML
+
+[HTML5UP + CSS 3 免费模版](https://html5up.net/)
+
 ## JavaScript
 
 [Front-end Web Development, Chewed Up ← Alligator.io （快速理解那些看似困难的前端代码片段 全英文）](https://alligator.io/)
@@ -291,6 +312,18 @@ sidebar: auto
 [kangax （检查 JavaScript 版本）](https://kangax.github.io/compat-table/es6/)
 
 [127 个有帮助的代码判断（需稳定的网络环境）](https://medium.com/better-programming/127-helpful-javascript-snippets-you-can-learn-in-30-seconds-or-less-part-6-of-6-862a6403d334)
+
+[JS Tips - JS 技巧](https://www.jstips.co/)
+
+[JSweekly - 技术周刊](https://javascriptweekly.com/)
+
+[CDNJS - JavaScript 资料库](https://cdnjs.com/libraries)
+
+[Beautiful Open - 收集各类卓越设计的开源项目，大到CMS内容管理系统，小到常用的Javascript库](https://beautifulopen.com/)
+
+[JavaScript Fun - 代码库集合](https://www.javascript.fun/)
+
+[JS Bin - 另一个轻量级在线编辑器网站，界面简洁干净，临时想调试简单的 HTML 或 JS 代码可以考虑去这里试一试。](https://jsbin.com/)
 
 ## CSS
 
@@ -303,6 +336,8 @@ sidebar: auto
 [A Visual Guide to CSS3 Flexbox Properties ― Scotch.io （可视化布局）](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 
 [css-protips (CSS 专业技巧)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
+
+[CSS-Tricks （学习 CSS）](https://css-tricks.com/) 
 
 ## Node
 
@@ -422,7 +457,7 @@ sidebar: auto
 
 [coderplanets(页面还好)](https://coderplanets.com/home/posts)
 
-CSS-Tricks （学习 CSS） https://css-tricks.com/
+
 
 [Feeds Pub( RSS 阅读器)](https://feeds.pub/)
 
