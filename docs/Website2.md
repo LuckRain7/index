@@ -226,7 +226,13 @@ sidebar: auto
 
 [CSS Battle - 在线比拼 CSS](https://cssbattle.dev/)
 
-[EnjoyCSS - 在线 CSS 代码可视化工具]()
+[DeepL（人工智能语言辅助）](https://www.deepl.com/home)
+
+[百度翻译](https://fanyi.baidu.com/)
+
+[Magi（基于机器学习的信息抽取和检索系统）](https://magi.com/)
+
+[大圣盘](https://www.dashengpan.com/)
 
 ## 设计
 
@@ -273,6 +279,12 @@ sidebar: auto
 [图标下载，ICON(SVG/PNG/ICO/ICNS)图标搜索下载 - Easyicon](https://www.easyicon.net/)
 
 [Feature Icons - 开源图标库 提供一些 24x24 的常用图标](https://github.com/feathericons/feather)
+
+[MarkDown 排版](https://mdnice.com/)
+
+[稿定设计-做图做视频必备*在线设计神器*海量版权素材模板](https://www.gaoding.com/)
+
+[微 Fotor 在线设计工具*免费设计素材和模板*在线平面设计网站](https://www.fotor.com.cn/templates/wxcode/)
 
 ## 图片
 
@@ -324,6 +336,8 @@ sidebar: auto
 
 [JS Bin - 另一个轻量级在线编辑器网站，界面简洁干净，临时想调试简单的 HTML 或 JS 代码可以考虑去这里试一试。](https://jsbin.com/)
 
+[《Node.js 技术栈》，旨在为大家提供一个较详细的学习教程，侧重点更倾向于 Node.js 服务端所涉及的技术栈](https://www.nodejs.red/#/)
+
 ## CSS
 
 [CSS Reference - A free visual guide to CSS （CSS 学习指南 全英文）](https://cssreference.io/)
@@ -337,32 +351,6 @@ sidebar: auto
 [css-protips (CSS 专业技巧)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
 
 [CSS-Tricks （学习 CSS）](https://css-tricks.com/)
-
-## Node
-
-[《Node.js 技术栈》，旨在为大家提供一个较详细的学习教程，侧重点更倾向于 Node.js 服务端所涉及的技术栈](https://www.nodejs.red/#/)
-
-## 会议
-
-[成都 Web 开发者大会](https://web-conf.dev/#2020/)
-
-[History of Programming Languages（编程语言历史大会）](https://hopl4.sigplan.org/)
-
-[Web 全栈大会](https://leinue.github.io/webfullstack-2019/index.html)
-
-[2050](https://2050.org.cn/)
-
-## 生活技巧
-
-[Topbook | 高效生活视频书](https://topbook.cc/overview)
-
-## 微信
-
-[MarkDown 排版](https://mdnice.com/)
-
-[稿定设计-做图做视频必备*在线设计神器*海量版权素材模板](https://www.gaoding.com/)
-
-[微 Fotor 在线设计工具*免费设计素材和模板*在线平面设计网站](https://www.fotor.com.cn/templates/wxcode/)
 
 ## 有趣的网站
 
@@ -388,7 +376,33 @@ sidebar: auto
 
 [Shakespearean Insulter](http://www.pangloss.com/seidel/Shaker/index.html?)
 
-## 系统美化
+[Topbook | 高效生活视频书](https://topbook.cc/overview)
+
+[codefence - an easily embeddable interactive code editor（截图不错）](https://codefence.io/)
+
+## 其他
+
+[成都 Web 开发者大会](https://web-conf.dev/#2020/)
+
+[History of Programming Languages（编程语言历史大会）](https://hopl4.sigplan.org/)
+
+[Web 全栈大会](https://leinue.github.io/webfullstack-2019/index.html)
+
+[2050](https://2050.org.cn/)
+
+[黑客派 - 为未来而构建的开发者社区，找到你所需的技术解决方案、记录和分享我们的程序人生](https://hacpai.com/)
+
+[CNode：Node.js 专业中文社区](https://cnodejs.org/)
+
+[iSlide- 让 PPT 设计简单起来~ | 中文官网](https://www.islide.cc/)
+
+[声享 - 在线制作 PPT，让分享更有价值](https://ppt.baomitu.com/)
+
+[gossip - 一个高效创建和演示炫酷幻灯片的用户界面！](https://github.com/pearmini/gossip)
+
+[24k 导航\_简单事,高效做！！！](https://www.24kdh.com/)
+
+[小呆导航](https://webjike.com/)
 
 [致美化 - 最专业的桌面美化交流平台 - 漫锋网](https://zhutix.com/)
 
@@ -397,42 +411,6 @@ sidebar: auto
 [Wallpaper Abyss - HD Wallpapers, Background Images](https://wall.alphacoders.com/)
 
 [Simple Desktops](http://simpledesktops.com/)
-
-## 翻译
-
-[DeepL（人工智能语言辅助）](https://www.deepl.com/home)
-
-[百度翻译](https://fanyi.baidu.com/)
-
-## 搜索
-
-[Magi（基于机器学习的信息抽取和检索系统）)](https://magi.com/)
-
-[大圣盘](https://www.dashengpan.com/)
-
-## 技术社区
-
-[黑客派 - 为未来而构建的开发者社区，找到你所需的技术解决方案、记录和分享我们的程序人生](https://hacpai.com/)
-
-[CNode：Node.js 专业中文社区](https://cnodejs.org/)
-
-## 网页代码运行
-
-[codefence - an easily embeddable interactive code editor（截图不错）](https://codefence.io/)
-
-## PPT
-
-[iSlide- 让 PPT 设计简单起来~ | 中文官网](https://www.islide.cc/)
-
-[声享 - 在线制作 PPT，让分享更有价值](https://ppt.baomitu.com/)
-
-[gossip - 一个高效创建和演示炫酷幻灯片的用户界面！](https://github.com/pearmini/gossip)
-
-## 导航网站
-
-[24k 导航\_简单事,高效做！！！](https://www.24kdh.com/)
-
-[小呆导航](https://webjike.com/)
 
 ## 数据库
 
@@ -480,7 +458,7 @@ Repl.it - The world's leading online coding platform https://repl.it/
 
 HTML Reference - A free guide to all HTML elements and attributes. （HTML 指南） https://htmlreference.io/
 
-[镜像站](https://kkroot.com/)
+[Mac Window 系统镜像站](https://kkroot.com/)
 
 https://www.pexels.com
 
@@ -526,10 +504,15 @@ https://picjumbo.com
 
 135 编译器
 
-<style>
-p {line-height: 0.7;}
+<style scoped>
+p{line-height: 0.7;}
 p{margin-left:25px;}
 .theme-default-content.content__default{
     max-width:1000px;
+}
+.theme-default-content:not(.custom) > h1, .theme-default-content:not(.custom) > h2, .theme-default-content:not(.custom) > h3, .theme-default-content:not(.custom) > h4, .theme-default-content:not(.custom) > h5, .theme-default-content:not(.custom) > h6 {
+     margin-top: 0rem; 
+     padding-top: 0rem; 
+    margin-bottom: 0;
 }
 </style>
