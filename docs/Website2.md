@@ -222,11 +222,11 @@ sidebar: auto
 
 [Table Convert Online - 一个功能强大的在线表格编辑器](https://tableconvert.com/)
 
-[Neumorphism/Soft UI CSS shadow generator -  可视化实现新拟态效果](https://neumorphism.io/)
+[Neumorphism/Soft UI CSS shadow generator - 可视化实现新拟态效果](https://neumorphism.io/)
 
 [CSS Battle - 在线比拼 CSS](https://cssbattle.dev/)
 
-[EnjoyCSS - 在线CSS代码可视化工具]()
+[EnjoyCSS - 在线 CSS 代码可视化工具]()
 
 ## 设计
 
@@ -292,14 +292,13 @@ sidebar: auto
 
 [泼辣有图 | Polayoutu - Free Chinese stock photos](https://www.polayoutu.com/)
 
-[ICONSVG - 在线自定义设计SVG图标素材](https://iconsvg.xyz/)
+[ICONSVG - 在线自定义设计 SVG 图标素材](https://iconsvg.xyz/)
 
 [OpenMoji - 免费表情符号库](https://www.openmoji.org/)
 
 [Share Icon - 免费矢量素材图库](https://www.shareicon.net/)
 
 [Feathericons - 极简 ICON 图标集](https://feathericons.com/)
-
 
 ## HTML
 
@@ -319,7 +318,7 @@ sidebar: auto
 
 [CDNJS - JavaScript 资料库](https://cdnjs.com/libraries)
 
-[Beautiful Open - 收集各类卓越设计的开源项目，大到CMS内容管理系统，小到常用的Javascript库](https://beautifulopen.com/)
+[Beautiful Open - 收集各类卓越设计的开源项目，大到 CMS 内容管理系统，小到常用的 Javascript 库](https://beautifulopen.com/)
 
 [JavaScript Fun - 代码库集合](https://www.javascript.fun/)
 
@@ -337,7 +336,7 @@ sidebar: auto
 
 [css-protips (CSS 专业技巧)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
 
-[CSS-Tricks （学习 CSS）](https://css-tricks.com/) 
+[CSS-Tricks （学习 CSS）](https://css-tricks.com/)
 
 ## Node
 
@@ -456,8 +455,6 @@ sidebar: auto
 [Java 知识分享网-免费 Java 资源下载](http://www.java1234.com/)
 
 [coderplanets(页面还好)](https://coderplanets.com/home/posts)
-
-
 
 [Feeds Pub( RSS 阅读器)](https://feeds.pub/)
 
