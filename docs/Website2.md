@@ -162,6 +162,8 @@ sidebar: auto
 
 [Freshman — Articles and tutorials on Software development](https://freshman.tech/)
 
+[Scott Helme - training on Hacking and Encryption.](https://scotthelme.co.uk/)
+
 ## 资源
 
 [基于 IPFS 的电子书搜索引擎](https://i-book.in/)
@@ -235,6 +237,8 @@ sidebar: auto
 [大圣盘](https://www.dashengpan.com/)
 
 [svg-to-png - 图片转换 svg 转 png](https://cloudconvert.com/svg-to-png)
+
+[3D Book Image CSS Generator - 在线工具，让一张平面图片变成 3D 书籍封面。](https://3d-book-css.netlify.app/)
 
 ## 设计
 
