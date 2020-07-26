@@ -240,6 +240,10 @@ sidebar: auto
 
 [3D Book Image CSS Generator - 在线工具，让一张平面图片变成 3D 书籍封面。](https://3d-book-css.netlify.app/)
 
+[白描 - 一个在线的文字识别 OCR 服务，可以免费对图片和 PDF 文件进行文字识别。](https://web.baimiaoapp.com/)
+
+
+
 ## 设计
 
 [uiGradients - Beautiful colored gradients（渐变色）](https://uigradients.com/)
