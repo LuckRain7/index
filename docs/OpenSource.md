@@ -28,6 +28,12 @@
 
 [node best practices - 一个收集 Node 最佳实践的仓库。](https://github.com/i0natan/nodebestpractices)
 
+[来自尼泊尔的前端开发者 Laxman Bhattarai 在 GitHub 上开源了一个项目：Awesome Flutter ❤️ tips and tricks。里面收集了一些 Flutter 相关的开发技巧，目前开源一周已获得 1300+ Star，分享给有需要的同学。](https://github.com/erluxman/awesomefluttertips)
+
+[i-hate-regex](https://github.com/geongeorge/i-hate-regex)
+
+[word_cloud - 基于 Python 的词云库](https://github.com/amueller/word_cloud)
+
 ## 开源教程
 
 [Go 高级编程[中文] - 开源电子书，涵盖 CGO、Go 汇编语言、RPC 实现、Web 框架实现、分布式系统等高阶主题。](https://github.com/chai2010/advanced-go-programming-book)

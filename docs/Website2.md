@@ -54,6 +54,8 @@ sidebar: auto
 
 [草民电影网](https://www.cmdy5.com/)
 
+[i Hate Regex - 可快速检索并匹配到合适的正则表达式，帮你完成如用户名、邮箱、日期、手机号码、密码等常见规则的验证。](https://ihateregex.io/)
+
 ## 查询
 
 [MDN 最强前端 API 查询！](https://developer.mozilla.org/zh-CN/)
