@@ -45,7 +45,7 @@
 .home-one .one-img {
   margin-top: 160px;
   float: right;
-  background: url(/code1.jpg);
+  background: url(/index/code1.jpg);
   height: 540px;
   width: 80%;
   z-index: 99;
@@ -67,7 +67,7 @@
 
 .home-there .there-img {
   float: left;
-  background: url(/code2.jpg);
+  background: url(/index/code2.jpg);
   height: 540px;
   width: 80%;
   z-index: 99;
