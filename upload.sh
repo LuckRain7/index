@@ -5,7 +5,7 @@ git add .
 
 git commit -m "docs: update"
 
-git push
+git push git@gitee.com:LuckRain/index.git master
 
 git push git@github.com:LuckRain7/index.git master
 

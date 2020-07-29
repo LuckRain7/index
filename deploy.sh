@@ -24,4 +24,10 @@ git commit -m 'deploy'
 # Gitee
 git push -f git@gitee.com:LuckRain/index.git master:gh-pages
 
+# GitHub
+git push git@github.com:LuckRain7/index.git master:gh-pages
+
+# 打开浏览器
+open https://gitee.com/LuckRain/index/pages
+
 cd -
