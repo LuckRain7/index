@@ -2,12 +2,6 @@
 sidebar: auto
 ---
 
-
-
----
-sidebar: auto
----
-
 # WebSite2
 
 ## 常用网站
@@ -198,7 +192,7 @@ sidebar: auto
 
 [caniuse（检查前端技术的跨浏览器兼容性）](https://caniuse.com/)
 
-[一键 AI 抠图 ](https://www.remove.bg/zh)
+[一键 AI 抠图](https://www.remove.bg/zh)
 
 [在线 PS 工具/可以转换 Sketch 文件](https://www.photopea.com/)
 
@@ -250,8 +244,6 @@ sidebar: auto
 
 [白描 - 一个在线的文字识别 OCR 服务，可以免费对图片和 PDF 文件进行文字识别。](https://web.baimiaoapp.com/)
 
-
-
 ## 设计
 
 [uiGradients - Beautiful colored gradients（渐变色）](https://uigradients.com/)
@@ -300,9 +292,11 @@ sidebar: auto
 
 [MarkDown 排版](https://mdnice.com/)
 
-[稿定设计-做图做视频必备*在线设计神器*海量版权素材模板](https://www.gaoding.com/)
+[稿定设计 - 做图做视频必备*在线设计神器*海量版权素材模板](https://www.gaoding.com/)
 
 [微 Fotor 在线设计工具*免费设计素材和模板*在线平面设计网站](https://www.fotor.com.cn/templates/wxcode/)
+
+
 
 ## 图片
 
@@ -521,4 +515,27 @@ https://picjumbo.com
 秀米
 
 135 编译器
+
+[XD中文网](https://xd.94xy.com/)
+
+[XD资源网 - 提供AdobeXD最新软件,素材模板下载,教程视频,工具插件](https://www.xdccpro.com/)
+
+https://www.xdguru.com/
+
+https://psdrepo.com/
+
+https://xdresources.col
+
+https://wwww.uistore.desigpl
+
+https://figmatemplate.com/
+
+https://unblast.com/
+
+https://www.ujpixels.com
+
+https://freebiesui.com
+
+https://uispace.net/
+
 

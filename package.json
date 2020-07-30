@@ -7,7 +7,7 @@
     "dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "build": "vuepress build docs",
-    "go": "bash upload.sh && bash deploy.sh"
+    "go": "bash upload.sh & bash deploy.sh"
   },
   "author": "LuckRain7",
   "license": "ISC",
