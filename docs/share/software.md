@@ -28,7 +28,7 @@ MarkDown 编辑器
 
 网址：[ http://cmder.net/ ](http://cmder.net/)
 
-![cmder](/img/cmder.png)
+![cmder](/index/img/cmder.png)
 
 配置：
 
@@ -44,7 +44,7 @@ MarkDown 编辑器
 
 网址：[ https://letsencrypt.org/ ](https://letsencrypt.org/)
 
-![Let's Encrypt](/img/Let'sEncrypt.png)
+![Let's Encrypt](/index/img/Let'sEncrypt.png)
 
 ## WIRESHARK
 
@@ -52,7 +52,7 @@ MarkDown 编辑器
 
 网址：[ https://www.wireshark.org/ ](https://www.wireshark.org/)
 
-![WIRESHARK](/img/WIRESHARK.png)
+![WIRESHARK](/index/img/WIRESHARK.png)
 
 ## Fiddler
 
@@ -60,15 +60,13 @@ HTTP 调试抓包工具
 
 网址：[ https://www.telerik.com/fiddler ](https://www.telerik.com/fiddler)
 
-![Fiddler](/img/Fiddler.png)
+![Fiddler](/index/img/Fiddler.png)
 
-## Postman
+## [Postman](https://www.postman.com/)
 
-> 接口调试神器，后端大佬们接口还没写好的时候，这个工具用来给前端小伙伴 mock 一下 api，还是蛮不错的哦~
->
-> 网址：[[ https://www.postman.com/ ]](https://www.postman.com/)
+接口调试神器，后端大佬们接口还没写好的时候，这个工具用来给前端小伙伴 mock 一下 api，还是蛮不错的哦~
 
-![Postman](/img/Postman.png)
+![Postman](/index/img/Postman.png)
 
 ## Lighthouse
 
@@ -82,7 +80,7 @@ HTTP 调试抓包工具
 >
 > 网址：[https://studio3t.com/ ](https://studio3t.com/)
 
-![Studio 3T](/img/Studio3T.png)
+![Studio 3T](/index/img/Studio3T.png)
 
 ## Terminus
 
@@ -90,7 +88,7 @@ HTTP 调试抓包工具
 >
 > 网址：[https://github.com/Eugeny/terminus](https://github.com/Eugeny/terminus)
 
-![Terminus](/img/termius.png)
+![Terminus](/index/img/termius.png)
 
 ## ScreenToGif
 
@@ -98,7 +96,7 @@ HTTP 调试抓包工具
 >
 > 网址：[https://www.screentogif.com/?l=zh_cn](https://www.screentogif.com/?l=zh_cn)
 
-![ScreenToGif](/img/ScreenToGif.png)
+![ScreenToGif](/index/img/ScreenToGif.png)
 
 ## 待整理
 

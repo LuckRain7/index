@@ -166,6 +166,14 @@ sidebar: auto
 
 [Scott Helme - training on Hacking and Encryption.](https://scotthelme.co.uk/)
 
+[SWYX'S SITE!](https://www.swyx.io/)
+
+[Learn to code | freeCodeCamp.org](https://www.freecodecamp.org/)
+
+[Live Science: The Most Interesting Articles, Mysteries & Discoveries](https://www.livescience.com/)
+
+[Forbes - 英文新闻网站](https://www.forbes.com/#4f7e23622254)
+
 ## 资源
 
 [基于 IPFS 的电子书搜索引擎](https://i-book.in/)
@@ -244,9 +252,11 @@ sidebar: auto
 
 [白描 - 一个在线的文字识别 OCR 服务，可以免费对图片和 PDF 文件进行文字识别。](https://web.baimiaoapp.com/)
 
+[Gradio - 该网站提供一系列可以在线使用的 AI 工具，比如识别物体、识别手写数字、老照片着色、绘画生成等等。](https://hub.gradio.app/)
+
 ## 设计
 
-[uiGradients - Beautiful colored gradients（渐变色）](https://uigradients.com/)
+[uiGradients - Beautiful colored gradients 一个收集渐变色样式的网站](https://uigradients.com/)
 
 [玄色 - 中国传统颜色手册 | Chinese Color Cheatsheet ](https://colors.ichuantong.cn/)
 
@@ -296,8 +306,6 @@ sidebar: auto
 
 [微 Fotor 在线设计工具*免费设计素材和模板*在线平面设计网站](https://www.fotor.com.cn/templates/wxcode/)
 
-
-
 ## 图片
 
 [Carbon（代码图片生成）](https://carbon.now.sh/)
@@ -323,6 +331,8 @@ sidebar: auto
 [Share Icon - 免费矢量素材图库](https://www.shareicon.net/)
 
 [Feathericons - 极简 ICON 图标集](https://feathericons.com/)
+
+[Cool Backgrounds - 自动生成背景图片的工具网站，现在提供五种风格，每种都可以定制，看上去赏心悦目](https://coolbackgrounds.io/)
 
 ## HTML
 
@@ -392,6 +402,8 @@ sidebar: auto
 
 [codefence - an easily embeddable interactive code editor（截图不错）](https://codefence.io/)
 
+[timelineofearth - 网页展示地球演化的 46 亿年](http://timelineofearth.com/)
+
 ## 其他
 
 [成都 Web 开发者大会](https://web-conf.dev/#2020/)
@@ -452,15 +464,29 @@ sidebar: auto
 
 [Js Tips - A JavaScript tip per day!](https://www.jstips.co/en/javascript/)
 
-web.dev（Google 开发者） https://web.dev/
+[EXIF.tools - EXIF 是照片包含的元数据，这个网站可以查看照片的元数据。](https://exif.tools/)
 
-Pony Foo — Web platform, JavaScript, modularity, front-end architecture, performance, and more!（内容提供网站） https://ponyfoo.com/
+[Science Fiction Interfaces - 该网站收集科幻影视作品里面出现的计算机界面设计。](http://sciencefictioninterfaces.tumblr.com/)
 
-Learn to code | freeCodeCamp.org https://www.freecodecamp.org/
+[计算机科学家 Tim Bray 的博客](https://www.tbray.org/ongoing/)
 
-Hashnode - Welcome to your developer community https://hashnode.com/
+[木材数据库 - 该网站收集全世界各种木材的信息。链接给出的是全世界硬度最高的十种木材。](https://www.wood-database.com/wood-articles/top-ten-hardest-woods/)
 
-DEV Community 👩‍💻👨‍💻 （分享社区） https://dev.to/
+[漫威 API - 漫威公司将自己的漫画资源做成 API 开放。](https://developer.marvel.com/)
+
+[世界各国护照效力排名](https://www.passportindex.org/)
+
+[web.dev（Google 开发者）](https://web.dev/)
+
+[Pony Foo — Web platform, JavaScript, modularity, front-end architecture, performance, and more!（内容提供网站）](https://ponyfoo.com/)
+
+[Hashnode - Welcome to your developer community](https://hashnode.com/)
+
+[DEV Community 👩‍💻👨‍💻 （分享社区） ](https://dev.to/)
+
+[stackshare.io - 收集各大网站使用的技术栈](https://stackshare.io/stacks)
+
+
 
 Flavio Copes （博客） https://flaviocopes.com/
 
@@ -516,9 +542,9 @@ https://picjumbo.com
 
 135 编译器
 
-[XD中文网](https://xd.94xy.com/)
+[XD 中文网](https://xd.94xy.com/)
 
-[XD资源网 - 提供AdobeXD最新软件,素材模板下载,教程视频,工具插件](https://www.xdccpro.com/)
+[XD 资源网 - 提供 AdobeXD 最新软件,素材模板下载,教程视频,工具插件](https://www.xdccpro.com/)
 
 https://www.xdguru.com/
 
@@ -537,5 +563,3 @@ https://www.ujpixels.com
 https://freebiesui.com
 
 https://uispace.net/
-
-

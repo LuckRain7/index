@@ -29,10 +29,7 @@ sidebar: auto
 
 [JavaScript 进阶问题列表](https://github.com/lydiahallie/javascript-questions/blob/master/zh-CN/README-zh_CN.md)
 
-
 [谷粒-Chrome 插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
-
-
 
 [TNFE-Weekly - 每周为你提供高质量的关于小程序、h5 等前端领域的文章和项目](https://github.com/Tnfe/TNFE-Weekly)
 
@@ -69,8 +66,6 @@ sidebar: auto
 [Gitea - 类似于 GitHub 和 GitLab 的开源项目，用于个人架设 Git 代码托管服务，使用 Go 语言实现。](https://gitea.io/en-us/)
 
 [Chakra UI - 一个 React 组件库，UI 很优雅。](https://chakra-ui.com/)
-
-
 
 [roughViz.js - 一个生成手绘风格的网页图表的 JS 库。](https://github.com/jwilber/roughViz)
 
@@ -128,6 +123,10 @@ sidebar: auto
 
 [[ Deno ] Deno 官方仓库](https://github.com/denoland/deno)
 
+[[ Tool ] percollate - 命令行抓取网页，生成 PDF 文件的工具。](https://github.com/danburzo/percollate)
+
+
+
 ## 开源教程
 
 [Go 高级编程[中文] - 开源电子书，涵盖 CGO、Go 汇编语言、RPC 实现、Web 框架实现、分布式系统等高阶主题。](https://github.com/chai2010/advanced-go-programming-book)
@@ -144,5 +143,4 @@ sidebar: auto
 
 [施普林格的免费书籍](https://hnarayanan.github.io/springer-books/)
 
-
-
+[数据挖掘教材 - 《数据挖掘》（第二版）这本书本身没有全部开源，这个网页提供了所有章节的 PPT 教辅材料和实验代码。](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
