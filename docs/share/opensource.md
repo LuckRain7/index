@@ -148,4 +148,3 @@ sidebar: auto
 [Python 数据科学手册 - 使用 Python 工具进行数据科学研究的教程，现在全书开源了](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 [Grokking Deep Learning - 深度学习入门教材的在线阅读](https://livebook.manning.com/#!/book/grokking-deep-learning/)
-
