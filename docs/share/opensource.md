@@ -125,8 +125,6 @@ sidebar: auto
 
 [[ Tool ] percollate - 命令行抓取网页，生成 PDF 文件的工具。](https://github.com/danburzo/percollate)
 
-
-
 ## 开源教程
 
 [Go 高级编程[中文] - 开源电子书，涵盖 CGO、Go 汇编语言、RPC 实现、Web 框架实现、分布式系统等高阶主题。](https://github.com/chai2010/advanced-go-programming-book)
@@ -144,3 +142,10 @@ sidebar: auto
 [施普林格的免费书籍](https://hnarayanan.github.io/springer-books/)
 
 [数据挖掘教材 - 《数据挖掘》（第二版）这本书本身没有全部开源，这个网页提供了所有章节的 PPT 教辅材料和实验代码。](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
+
+[计算机理论导论 - 哈佛大学本科生的《计算机理论》课程的教材，已经开源](https://introtcs.org/public/index.html)
+
+[Python 数据科学手册 - 使用 Python 工具进行数据科学研究的教程，现在全书开源了](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+[Grokking Deep Learning - 深度学习入门教材的在线阅读](https://livebook.manning.com/#!/book/grokking-deep-learning/)
+

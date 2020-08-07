@@ -64,6 +64,10 @@ sidebar: auto
 
 [Devdocs](https://devdocs.io/)
 
+[Gitenberg - 一个公共领域的英文电子书的搜索引擎](https://www.gitenberg.org/)
+
+[Yandex 图片搜索 - 俄罗斯的搜索引擎 Yandex，我觉得体验不错，尤其是相似图片搜索，比谷歌好用。国内好像还没有被屏蔽](https://yandex.com/images/)
+
 ## 网站（博客、学习...）
 
 ### 中文
@@ -308,6 +312,8 @@ sidebar: auto
 
 [Pxcook - 高效易用的自动标注工具, 生成前端代码, 设计研发协作利器](https://www.fancynode.com.cn/pxcook)
 
+[设计工具收集 - 该网站收集各种设计工具和设计资源，没有设计师的时候，可以使用它们](https://nodesign.dev/)
+
 ## 图片
 
 [Carbon（代码图片生成）](https://carbon.now.sh/)
@@ -488,7 +494,11 @@ sidebar: auto
 
 [stackshare.io - 收集各大网站使用的技术栈](https://stackshare.io/stacks)
 
+[Motherboard DB - 电脑主板的数据库](https://motherboarddb.com/)
 
+[AudioMass - 一个在线的音频处理工具，可以对声音的波形进行各种加工，添加特效](https://audiomass.co/)
+
+[WOWA - 一个收集免费音乐的网站，可以下载用来制作视频的背景音乐。该网站的目标是成为免费音乐的 Unsplash](https://www.wowa.me/)
 
 Flavio Copes （博客） https://flaviocopes.com/
 
