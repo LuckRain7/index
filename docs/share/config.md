@@ -1,28 +1,29 @@
 ---
 sidebar: auto
 ---
+
 # 配置文件
 
-##  .prettierrc
+## .prettierrc
 
-> 官网：[ https://prettier.io/ ]( https://prettier.io/ )
+> 官网：[ https://prettier.io/ ](https://prettier.io/)
 >
 > 代码格式化配置
 
 ```json
 {
-    "singleQuote": true, //单引号
-    "semi": false, //是否需要分号
-    "tabWidth": 2, // tab缩进大小,默认为2
-    "bracketSpacing":true, // 对象中的空格 默认true
-    "printWidth": 100, //每行最多多少个字符换行
-    "trailingComma": "es5", // 对象属性最后有 "," 
+  "singleQuote": true, //单引号
+  "semi": false, //是否需要分号
+  "tabWidth": 2, // tab缩进大小,默认为2
+  "bracketSpacing": true, // 对象中的空格 默认true
+  "printWidth": 100, //每行最多多少个字符换行
+  "trailingComma": "es5" // 对象属性最后有 ","
 }
 ```
 
-##  .gitignore
+## .gitignore
 
-> git忽略文件
+> git 忽略文件
 
 ```
 # Logs
@@ -133,3 +134,8 @@ dist
 
 ```
 
+## eslint
+
+```javascript
+/* eslint no-unused-vars: "none" */
+```

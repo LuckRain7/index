@@ -1,26 +1,27 @@
 ---
 sidebar: auto
 ---
+
 # GIT
 
-##  一、git 是什么？ 
+## 一、git 是什么？
 
- Git是目前世界上最先进的分布式版本控制系统（没有之一）。 
+Git 是目前世界上最先进的分布式版本控制系统（没有之一）。
 
 ## 二、git 原理
 
-还是去看看阮老师写的吧，链接：  [Git 原理入门- 阮一峰]( http://www.ruanyifeng.com/blog/2018/10/git-internals.html )
+还是去看看阮老师写的吧，链接： [Git 原理入门- 阮一峰](http://www.ruanyifeng.com/blog/2018/10/git-internals.html)
 
 ## 三、git 目录
 
-.git目录下有几个重要的文件/文件夹
+.git 目录下有几个重要的文件/文件夹
 
-- config   文件，主要存储项目的一些配置信息
-- objects 文件夹， 存储git对象
-- HEAD    文件，记录当前的头指针
-- index    文件，存储暂存区的信息
-- refs       文件夹， 存储分支的指针
--  hooks    文件夹，存储钩子文件
+- config 文件，主要存储项目的一些配置信息
+- objects 文件夹， 存储 git 对象
+- HEAD 文件，记录当前的头指针
+- index 文件，存储暂存区的信息
+- refs 文件夹， 存储分支的指针
+- hooks 文件夹，存储钩子文件
 
 ![git-catalog](/img/git-catalog.png)
 
@@ -64,34 +65,34 @@ git config user.email "[email address]"
 
 git reset --hard HEAD^ #版本回退到上一个版本
 git reset --hard [commitId] #取消回退，commitId为你想要回到的未来版本号
+
+git rm --cached "[filepath]" # 将该文件从缓存中删除
 ```
 
-### git remote 
+### git remote
 
-> 管理远程仓库 
+> 管理远程仓库
 
 ```bash
 #查看远程仓库
-git remote 
+git remote
 #查看关联的远程仓库的详细信息
-git remote -v 
+git remote -v
 #添加远程仓库的关联
-git remote add origin [远程仓库地址] 
+git remote add origin [远程仓库地址]
 #删除远程仓库的关联
-git remote remove [远程仓库名称] 
+git remote remove [远程仓库名称]
 #更新远程仓库的分支
-git remote update origin --prune 
+git remote update origin --prune
 ```
 
 ### git rebase
 
-> rebase操作可以把本地未push的分叉提交历史整理成直线；
+> rebase 操作可以把本地未 push 的分叉提交历史整理成直线；
 >
-> rebase的目的是使得我们在查看历史提交的变化时更容易，因为分叉的提交需要三方对比。
+> rebase 的目的是使得我们在查看历史提交的变化时更容易，因为分叉的提交需要三方对比。
 
-
-
-## 五、git的常见应用
+## 五、git 的常见应用
 
 ### 1、本地项目上传至多个远程库
 
@@ -106,15 +107,15 @@ git push gitee master
 git push github master
 ```
 
-### 2、git远程分支强制覆盖本地分支
+### 2、git 远程分支强制覆盖本地分支
 
 ```bash
-git fetch --all  
-git reset --hard [origin/master] 
+git fetch --all
+git reset --hard [origin/master]
 git pull
 ```
 
-#### 3、Git忽略规则(.gitignore配置）不生效解决方案
+#### 3、Git 忽略规则(.gitignore 配置）不生效解决方案
 
 清除缓存 重新提交
 
@@ -125,7 +126,7 @@ git commit -m 'update .gitignore'
 git push
 ```
 
-## 六、Git提交规范
+## 六、Git 提交规范
 
 ```
 feat：新功能（feature）
@@ -137,11 +138,9 @@ test：增加测试
 chore：构建过程或辅助工具的变动
 ```
 
-
-
 ## 参考文章
 
-[Git常用命令总结](https://www.jianshu.com/p/cdccfef91ae1 )
+[Git 常用命令总结](https://www.jianshu.com/p/cdccfef91ae1)
 
 [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 

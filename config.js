@@ -1,13 +1,10 @@
-/*
- *  Description:
- *  Author: LuckRain7
- *  Date: 2020-05-03 22:32:11
- */
+
 /*
  *  Description:
  *  Author: LuckRain7
  *  Date: 2020-03-15 17:40:55
  */
+
 
 module.exports = {
   title: "震雨 luckrain7's 博客",
