@@ -119,3 +119,7 @@ HTTP 调试抓包工具
 - [Ipic - 图床我是配合 Typora 一起使用的大家 Markdown 是不是复制图片进来都是本地的地址，发到网上就会失效的，但是跟 Typora 搞基的这个工具他可以在你复制进来的时候直接传到网上了，你再去任何平台发表都可以随心所欲了。]()
 
 [monknow - 新标签页](https://www.monknow.com/zh-CN)
+
+[Notion - 将笔记、知识库和任务管理无缝整合的协作平台，颜值超高超好用。](https://www.notion.so/desktop)
+
+[CleanMyMac X - 清理 Mac，协作软件的不二之选，十分强大！！](https://macpaw.com/cleanmymac)

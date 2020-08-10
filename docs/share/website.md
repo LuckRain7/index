@@ -500,6 +500,10 @@ sidebar: auto
 
 [WOWA - 一个收集免费音乐的网站，可以下载用来制作视频的背景音乐。该网站的目标是成为免费音乐的 Unsplash](https://www.wowa.me/)
 
+[xclient - 里面汇聚了很多 mac 软件，并且都提供破解的方式，小伙伴们可以自取所需~](https://xclient.info/)
+
+[Sketch - 企业产品级设计](https://www.sketch.com/get/)
+
 Flavio Copes （博客） https://flaviocopes.com/
 
 Front-End Front — Basically, front-end news （英文新闻） https://frontendfront.com/
