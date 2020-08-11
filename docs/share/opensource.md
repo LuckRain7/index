@@ -125,6 +125,10 @@ sidebar: auto
 
 [[ Tool ] percollate - 命令行抓取网页，生成 PDF 文件的工具。](https://github.com/danburzo/percollate)
 
+[[ Tool ] form-create - 一个可以通过 JSON 自动生成具有动态渲染、数据收集、验证和提交功能的表单生成器。结合内置多种常用表单组件和自定义组件，轻松搞定复杂的表单，支持 iview、element-ui、and-design-vue](https://github.com/xaboy/form-create)
+
+[[ Tool ] jexcel - 一个轻量级、功能强大的电子表格库。轻松实现复杂数据的表格管理，支持 JS 数组、JSON、CSV 等数据，并且可以实现 excel 文件的直接复制和粘贴](https://github.com/paulhodel/jexcel)
+
 ## 开源教程
 
 [Go 高级编程[中文] - 开源电子书，涵盖 CGO、Go 汇编语言、RPC 实现、Web 框架实现、分布式系统等高阶主题。](https://github.com/chai2010/advanced-go-programming-book)
