@@ -67,6 +67,8 @@ git reset --hard HEAD^ #版本回退到上一个版本
 git reset --hard [commitId] #取消回退，commitId为你想要回到的未来版本号
 
 git rm --cached "[filepath]" # 将该文件从缓存中删除
+
+git push --all origin -u # 推送所有分支到远程仓库
 ```
 
 ### git remote
@@ -74,15 +76,15 @@ git rm --cached "[filepath]" # 将该文件从缓存中删除
 > 管理远程仓库
 
 ```bash
-#查看远程仓库
+# 查看远程仓库
 git remote
-#查看关联的远程仓库的详细信息
+# 查看关联的远程仓库的详细信息
 git remote -v
-#添加远程仓库的关联
+# 添加远程仓库的关联
 git remote add origin [远程仓库地址]
-#删除远程仓库的关联
+# 删除远程仓库的关联
 git remote remove [远程仓库名称]
-#更新远程仓库的分支
+# 更新远程仓库的分支
 git remote update origin --prune
 ```
 
