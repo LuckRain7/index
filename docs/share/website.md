@@ -130,6 +130,8 @@ sidebar: auto
 
 ### 英文
 
+[Better Dev 周刊 - 每周一期的开发者周刊（英文）](https://betterdev.link/)
+
 [Blog - Advanced Web Machinery](https://advancedweb.hu/)
 
 [AppSignal blog: The latest on everything AppSignal](https://blog.appsignal.com/)
@@ -257,6 +259,8 @@ sidebar: auto
 [白描 - 一个在线的文字识别 OCR 服务，可以免费对图片和 PDF 文件进行文字识别。](https://web.baimiaoapp.com/)
 
 [Gradio - 该网站提供一系列可以在线使用的 AI 工具，比如识别物体、识别手写数字、老照片着色、绘画生成等等。](https://hub.gradio.app/)
+
+[ScreenDump - 一个在线截屏工具。用户只要输入网址，就会显示各种设备的网页截屏，相当方便](https://screendump.techulus.com/)
 
 ## 设计
 

@@ -123,3 +123,11 @@ HTTP 调试抓包工具
 [Notion - 将笔记、知识库和任务管理无缝整合的协作平台，颜值超高超好用。](https://www.notion.so/desktop)
 
 [CleanMyMac X - 清理 Mac，协作软件的不二之选，十分强大！！](https://macpaw.com/cleanmymac)
+
+[Motrix - 一款桌面端下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源](https://motrix.app/zh-CN/)
+
+[notable - 一个用 Markdown 语法做笔记的桌面软件](https://github.com/fabiospampinato/notable)
+
+<div align="center">
+    <img  width="70%"  src="https://notable.app/static/images/screenshots/main_mac.png" alt="notable"/>
+</div>

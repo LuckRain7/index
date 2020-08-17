@@ -89,7 +89,7 @@ sidebar: auto
 
 [HoServer 是基于 Node.js 开发开箱即用的后台服务和管理平台脚手架，可视化对象定义，一行代码实现增删改查所有接口，内置用户、权限等基本功能。基于 HoServer 可在短时间内开发出高质量的 RESTful API 服务和管理平台，助您大幅缩短项目开发周期，降低开发成本。是您产品占领窗口快速推向市场、接项目提升客户满意度的利器。](https://github.com/hello-react/HoServer)
 
-[一个开源看板软件，类似 Trello。](https://github.com/wekan/wekan)
+[一个开源看板软件，类似 Trello](https://github.com/wekan/wekan)
 
 [TablePlus(一个支持多种关系型数据库的图形界面的数据库管理工具)](https://tableplus.com/)
 
@@ -129,6 +129,14 @@ sidebar: auto
 
 [[ Tool ] jexcel - 一个轻量级、功能强大的电子表格库。轻松实现复杂数据的表格管理，支持 JS 数组、JSON、CSV 等数据，并且可以实现 excel 文件的直接复制和粘贴](https://github.com/paulhodel/jexcel)
 
+[[ Tool ] public-apis - 这个仓库收集免费的 API，已经有 100 多个了](https://github.com/toddmotto/public-apis)
+
+[[ Icon ] RemixIcon - 一套免费高质量的开源图标库，目前有 1500 多枚图标，提供矢量图和字体图标文件，可用于商业用途](https://github.com/Remix-Design/RemixIcon)
+
+[[ CSS ] mvp.css - 一个最简化的 CSS 库，不提供任何自定义的类，只给出最基本的 HTML 元素的样式，适合在它的基础上添加自定义的样式](https://andybrewer.github.io/mvp/)
+
+[[ JavaScript ] Danfo.js - 一个提供跟 Pandas 相同功能的 JS 数学计算库](https://github.com/opensource9ja/danfojs)
+
 ## 开源教程
 
 [Go 高级编程[中文] - 开源电子书，涵盖 CGO、Go 汇编语言、RPC 实现、Web 框架实现、分布式系统等高阶主题。](https://github.com/chai2010/advanced-go-programming-book)
@@ -152,3 +160,13 @@ sidebar: auto
 [Python 数据科学手册 - 使用 Python 工具进行数据科学研究的教程，现在全书开源了](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 [Grokking Deep Learning - 深度学习入门教材的在线阅读](https://livebook.manning.com/#!/book/grokking-deep-learning/)
+
+[Mastering Modular JavaScript(精通 JavaScript 模块) - 开源电子书，介绍如何编写模块化的 JavaScript 代码](https://github.com/mjavascript/mastering-modular-javascript)
+
+[React.js 小书 - 国人编写的 React 入门教程](http://huziketang.mangojuice.top/books/react/)
+
+[Fundamentals of Data Visualization(数据可视化基础) - O'Reilly 新书《数据可视化基础》一书的在线预览版](https://serialmentor.com/dataviz/)
+
+## 有趣
+
+[chinese-programmer-wrong-pronunciation - 中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
