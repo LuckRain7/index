@@ -31,7 +31,7 @@ sidebar: auto
 
     - 发布/订阅
 
-    - 深入理解 promise
+    - [深入理解 promise](https://juejin.im/post/6862316820439760903)
 
     - generator函数及异步应用
 

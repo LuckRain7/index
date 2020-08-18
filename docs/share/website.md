@@ -182,6 +182,8 @@ sidebar: auto
 
 [Forbes - 英文新闻网站](https://www.forbes.com/#4f7e23622254)
 
+[Flavio Copes](https://flaviocopes.com/)
+
 ## 资源
 
 [基于 IPFS 的电子书搜索引擎](https://i-book.in/)
@@ -294,9 +296,7 @@ sidebar: auto
 
 [CSS3 渐变效果工具](https://www.bestvist.com/css-gradient)
 
-[中国色](http://zhongguose.com/)
-
-[日本色](http://nipponcolors.com/)
+[中国色](http://zhongguose.com/) | [日本色](http://nipponcolors.com/)
 
 [unDraw 免费可商用自定义颜色图表库](https://undraw.co/illustrations)
 
@@ -460,7 +460,7 @@ sidebar: auto
 
 [自来水水质数据库](https://www.iswatersafetodrink.in/China)
 
-[开源语音数据库项目 - Mozilla 基金会为了开发语音识别技术， 做了一个开源语音数据库项目，邀请全世界用户为这个数据库朗读句子，或者听他人的录音，[判断](https://voice.mozilla.org/zh-CN/listen)朗读是否准确。](https://voice.mozilla.org/zh-CN/speak)
+[开源语音数据库项目 - Mozilla 基金会为了开发语音识别技术， 做了一个开源语音数据库项目，邀请全世界用户为这个数据库朗读句子，或者听他人的录音，判断朗读是否准确](https://voice.mozilla.org/zh-CN/speak) | [判断](https://voice.mozilla.org/zh-CN/listen)
 
 [Our World in Data - 该网站收集一些世界性问题的数据，比如人口、健康、食物、能源等等](https://ourworldindata.org/)
 
@@ -469,6 +469,8 @@ sidebar: auto
 [全球空气污染地图 - 实时查看全球各个地点的 PM2.5 指数，看上去整个美国西海岸的空气质量，都比较一般](https://www.purpleair.com/map)
 
 [Earth Wind - 一个查看全球风向的网站](https://earth.nullschool.net/#current/wind/surface/level/orthographic=-240.00,0.00,320)
+
+[航班实时追踪 - 国内做的全球航班实时位置展示，国内航班的覆盖是全球最好的](http://flightadsb.variflight.com/)
 
 ## 待整理
 
@@ -534,15 +536,11 @@ sidebar: auto
 
 [Mac Window 系统镜像站](https://kkroot.com/)
 
-[航班实时追踪 - 国内做的全球航班实时位置展示，国内航班的覆盖是全球最好的](http://flightadsb.variflight.com/)
-
 [Java 开发者需要知道的 20 个库 - 本文介绍 Java 语言 20 个常用的库，比如 log4j、JUnit、JSoup 等](https://javarevisited.blogspot.com/2018/01/top-20-libraries-and-apis-for-java-programmers.html)
 
-[Bootswatch - Bootstrap 是最常用的 CSS 框架，这个网站收集免费的 Bootstrap 主题。类似的网站还有 [bulmaswatch](https://jenil.github.io/bulmaswatch/)，收集 Bluma 框架的免费主题。](https://bootswatch.com/)
+[Bootswatch - Bootstrap 是最常用的 CSS 框架，这个网站收集免费的 Bootstrap 主题。类似的网站还有 bulmaswatch，收集 Bluma 框架的免费主题。](https://bootswatch.com/) [bulmaswatch](https://jenil.github.io/bulmaswatch/)
 
-Flavio Copes （博客） https://flaviocopes.com/
-
-Front-End Front — Basically, front-end news （英文新闻） https://frontendfront.com/
+[Front-End Front — Basically, front-end news - 英文新闻](https://frontendfront.com/)
 
 Repl.it - The world's leading online coding platform https://repl.it/
 
