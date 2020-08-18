@@ -68,6 +68,8 @@ sidebar: auto
 
 [Yandex 图片搜索 - 俄罗斯的搜索引擎 Yandex，我觉得体验不错，尤其是相似图片搜索，比谷歌好用。国内好像还没有被屏蔽](https://yandex.com/images/)
 
+[Tools for FrontEnd developers - 收集前端开发各方面的工具](http://frontendtools.com/)
+
 ## 网站（博客、学习...）
 
 ### 中文
@@ -196,7 +198,7 @@ sidebar: auto
 
 ## 工具
 
-[Squoosh 谷歌在线图片压缩](https://squoosh.app/)
+[Squoosh - 谷歌在线图片压缩](https://squoosh.app/)
 
 [ProcessOn 在线画图](https://www.processon.com/)
 
@@ -262,6 +264,10 @@ sidebar: auto
 
 [ScreenDump - 一个在线截屏工具。用户只要输入网址，就会显示各种设备的网页截屏，相当方便](https://screendump.techulus.com/)
 
+[dbdiagram.io - 制作数据库关系图的在线工具](https://dbdiagram.io/home)
+
+[My Brand New Logo - 你提供产品的描述，该网站会自动生成 Logo 图案](https://mybrandnewlogo.com/)
+
 ## 设计
 
 [uiGradients - Beautiful colored gradients 一个收集渐变色样式的网站](https://uigradients.com/)
@@ -317,6 +323,8 @@ sidebar: auto
 [Pxcook - 高效易用的自动标注工具, 生成前端代码, 设计研发协作利器](https://www.fancynode.com.cn/pxcook)
 
 [设计工具收集 - 该网站收集各种设计工具和设计资源，没有设计师的时候，可以使用它们](https://nodesign.dev/)
+
+[I love IMG - 该网站提供各种在线的图像编辑工具，比如图像缩放、压缩、裁剪、水印等](https://www.iloveimg.com/)
 
 ## 图片
 
@@ -452,6 +460,16 @@ sidebar: auto
 
 [自来水水质数据库](https://www.iswatersafetodrink.in/China)
 
+[开源语音数据库项目 - Mozilla 基金会为了开发语音识别技术， 做了一个开源语音数据库项目，邀请全世界用户为这个数据库朗读句子，或者听他人的录音，[判断](https://voice.mozilla.org/zh-CN/listen)朗读是否准确。](https://voice.mozilla.org/zh-CN/speak)
+
+[Our World in Data - 该网站收集一些世界性问题的数据，比如人口、健康、食物、能源等等](https://ourworldindata.org/)
+
+[TravelAdapter.xyz - 该网站收集各国的电压、插头和插座资料](https://traveladapter.xyz/)
+
+[全球空气污染地图 - 实时查看全球各个地点的 PM2.5 指数，看上去整个美国西海岸的空气质量，都比较一般](https://www.purpleair.com/map)
+
+[Earth Wind - 一个查看全球风向的网站](https://earth.nullschool.net/#current/wind/surface/level/orthographic=-240.00,0.00,320)
+
 ## 待整理
 
 [大涛子客栈](https://www.yangtao.site/vuepress/)
@@ -508,6 +526,20 @@ sidebar: auto
 
 [Sketch - 企业产品级设计](https://www.sketch.com/get/)
 
+[SAFE - 这个项目在印度尼西亚婆罗州的热带雨林里面，放置了十几个录音设备，然后将每个小时录到的声音放到网上，让访问者听到每天不同时辰的大自然的声音](http://acoustics.safeproject.net/)
+
+[code2flow - 一个符合直觉的，从伪码生成流程图的工具](https://code2flow.com/)
+
+[Best of JavaScript - 该网站列出 2018 年各个方向上最受关注的 JavaScript 项目](https://risingstars.js.org/2018/zh/)
+
+[Mac Window 系统镜像站](https://kkroot.com/)
+
+[航班实时追踪 - 国内做的全球航班实时位置展示，国内航班的覆盖是全球最好的](http://flightadsb.variflight.com/)
+
+[Java 开发者需要知道的 20 个库 - 本文介绍 Java 语言 20 个常用的库，比如 log4j、JUnit、JSoup 等](https://javarevisited.blogspot.com/2018/01/top-20-libraries-and-apis-for-java-programmers.html)
+
+[Bootswatch - Bootstrap 是最常用的 CSS 框架，这个网站收集免费的 Bootstrap 主题。类似的网站还有 [bulmaswatch](https://jenil.github.io/bulmaswatch/)，收集 Bluma 框架的免费主题。](https://bootswatch.com/)
+
 Flavio Copes （博客） https://flaviocopes.com/
 
 Front-End Front — Basically, front-end news （英文新闻） https://frontendfront.com/
@@ -515,8 +547,6 @@ Front-End Front — Basically, front-end news （英文新闻） https://fronten
 Repl.it - The world's leading online coding platform https://repl.it/
 
 HTML Reference - A free guide to all HTML elements and attributes. （HTML 指南） https://htmlreference.io/
-
-[Mac Window 系统镜像站](https://kkroot.com/)
 
 https://www.pexels.com
 

@@ -5,3 +5,4 @@ yarn.loc
 dist
 /dist
 dist/
+.DS_Store

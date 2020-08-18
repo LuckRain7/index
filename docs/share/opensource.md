@@ -39,7 +39,7 @@ sidebar: auto
 
 [ArchiveBox - The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...](https://github.com/pirate/ArchiveBox)
 
-[Devices.css - Modern devices in pure CSS (包含 iphone css 实现)](https://github.com/picturepan2/devices.css)
+[[ CSS ] Devices.css - Modern devices in pure CSS (包含 iphone css 实现)](https://github.com/picturepan2/devices.css)
 
 [Blazing fast flame graph tool for V8 and Node(性能分析火焰图)](https://github.com/mapbox/flamebearer)
 
@@ -93,7 +93,7 @@ sidebar: auto
 
 [TablePlus(一个支持多种关系型数据库的图形界面的数据库管理工具)](https://tableplus.com/)
 
-[pattern.css(一个纯 CSS 库，提供各种形状的背景图案)](https://github.com/bansal-io/pattern.css)
+[[ CSS ] pattern.css(一个纯 CSS 库，提供各种形状的背景图案)](https://github.com/bansal-io/pattern.css)
 
 [Hero Patterns | Free repeatable SVG background patterns for your web projects](http://www.heropatterns.com/)
 
@@ -111,9 +111,11 @@ sidebar: auto
 
 [Valine - 一个静态网站的评论系统，不需要后端，数据储存在 LeanCloud](https://valine.js.org/)
 
-[vdoing - VuePress 的一款主题，可以用于个人博客或知识管理。](https://github.com/xugaoyi/vuepress-theme-vdoing)
-
 [Link Lock - 一个开源的网址加密服务，允许用户为任意 URL 设定密码。它的特点是纯静态网页实现，不需要后端服务器，采用 AES 加密算法。 ](https://github.com/jstrieb/link-lock)
+
+[booster - 滴滴推出的针对移动应用的质量优化工具包](https://github.com/didi/booster)
+
+[[ VuePress ] vdoing - VuePress 的一款主题，可以用于个人博客或知识管理。](https://github.com/xugaoyi/vuepress-theme-vdoing)
 
 [[WebGIS] ArcGIS-API-For-Javacsript - ](https://github.com/CarpenterGISer/ArcGIS-API-For-Javacsript)
 
@@ -133,9 +135,17 @@ sidebar: auto
 
 [[ Icon ] RemixIcon - 一套免费高质量的开源图标库，目前有 1500 多枚图标，提供矢量图和字体图标文件，可用于商业用途](https://github.com/Remix-Design/RemixIcon)
 
+[[ Icon ] ikonate - 一套开源的 SVG 图标](https://github.com/mikolajdobrucki/ikonate)
+
 [[ CSS ] mvp.css - 一个最简化的 CSS 库，不提供任何自定义的类，只给出最基本的 HTML 元素的样式，适合在它的基础上添加自定义的样式](https://andybrewer.github.io/mvp/)
 
+[[ CSS ] instagram.css - 一个 CSS 开源库，提供纯 CSS 的 Instagram 滤镜实现](https://github.com/picturepan2/instagram.css)
+
 [[ JavaScript ] Danfo.js - 一个提供跟 Pandas 相同功能的 JS 数学计算库](https://github.com/opensource9ja/danfojs)
+
+[[ Java ] halo - 优秀的开源 Java 博客系统，国产软件，有良好的中文支持](https://github.com/halo-dev/halo)
+
+[[ React ] Base web - uber 公司开源的 React 组件库，风格比较简单干净](https://baseweb.design/)
 
 ## 开源教程
 
@@ -167,6 +177,22 @@ sidebar: auto
 
 [Fundamentals of Data Visualization(数据可视化基础) - O'Reilly 新书《数据可视化基础》一书的在线预览版](https://serialmentor.com/dataviz/)
 
+[libpku - 北京大学各种课程资料收集，目前已经接近 100 门课，让你在网上读北大](https://lib-pku.github.io/)
+
+[魔方数学 - 麻省理工学院的课程材料，介绍魔方里面包含的数学](https://web.mit.edu/sp.268/www/rubik.pdf)（PDF）
+
+[黑客工具课程 - 麻省理工学院的入门课程，介绍 Linux 系统使用者需要掌握的各种基本工具，适合刚入门的初级用户](https://hacker-tools.github.io/lectures/)
+
+[Seeing Theory - 概率和统计学入门教程，有网页图形版和免费的 PDF 电子书下载](https://seeing-theory.brown.edu/#firstPage)
+
+[《几何原本》在线版 - 在线还原 1847 年的欧几里得《几何原本》的彩色版本](https://www.c82.net/euclid/)
+
+[MOOC 课程搜索引擎 - 该引擎可以搜索全世界的开放课程，目前包含 1.2 万门课程，里面也有中文课程](https://www.classcentral.com/)
+
 ## 有趣
+
+[github-rank - Github 中国用户排名](https://github.com/jaywcjlove/github-rank)
+
+[Dork-Admin - 这是一个中文仓库，盘点世界上比较重大的数据泄漏事件](https://github.com/No-Github/Dork-Admin)
 
 [chinese-programmer-wrong-pronunciation - 中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
