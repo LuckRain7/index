@@ -143,9 +143,15 @@ sidebar: auto
 
 [[ JavaScript ] Danfo.js - 一个提供跟 Pandas 相同功能的 JS 数学计算库](https://github.com/opensource9ja/danfojs)
 
+[[ JavaScript ] 33 个 JS 程序员需要知道的概念 - 按照主题，收集 JS 学习资源的仓库。](https://github.com/leonardomso/33-js-concepts)
+
 [[ Java ] halo - 优秀的开源 Java 博客系统，国产软件，有良好的中文支持](https://github.com/halo-dev/halo)
 
 [[ React ] Base web - uber 公司开源的 React 组件库，风格比较简单干净](https://baseweb.design/)
+
+[[ TypeScript ] prime - TypeScript 写的内容管理系统，最大特点是使用 GraphQL API](https://github.com/birkir/prime)
+
+[openbiox.org - 一个开源的生物信息学的中文社区，源码托管在 GitHub](https://community.openbiox.org/)
 
 ## 开源教程
 
@@ -188,6 +194,20 @@ sidebar: auto
 [《几何原本》在线版 - 在线还原 1847 年的欧几里得《几何原本》的彩色版本](https://www.c82.net/euclid/)
 
 [MOOC 课程搜索引擎 - 该引擎可以搜索全世界的开放课程，目前包含 1.2 万门课程，里面也有中文课程](https://www.classcentral.com/)
+
+[数据科学的原理与技巧 - 加州大学伯克利分校的本科生入门教材，全英文，介绍数据科学原理，内容较简单，需要统计学和 Python 基础。](https://www.textbook.ds100.org/)
+
+[Crypto 101 - 免费的加密学入门书籍，介绍基础原理，针对各种水平的读者](https://www.crypto101.io/)
+
+[CSS Animation 101 - 开源电子书《CSS Animation 101》，从零开始介绍 CSS 动画](https://github.com/cssanimation/css-animation-101)
+
+[GraphQL 之路 - 开源电子书，介绍如何使用 React.js 和 Node.js 开发 GraphQL 应用。](https://www.robinwieruch.de/the-road-to-graphql-book/)
+
+[机器学习解释 - 开源电子书，尝试用通俗的语言解释机器学习。](https://christophm.github.io/interpretable-ml-book/)
+
+[麻省理工学院的统计学课件 - 麻省理工学院本科生统计学课程的 PPT 课件](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
+
+[没有博士学位者的 TensorFlow 和深度学习教程 - 谷歌发布的英文教程，没有高深的数学，向初学者介绍 TensorFlow 和深度学习](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/)
 
 ## 有趣
 

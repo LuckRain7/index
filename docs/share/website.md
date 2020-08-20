@@ -58,6 +58,8 @@ sidebar: auto
 
 ## 查询
 
+[wiby - 一个极简的搜索引擎，加载速度很快。](https://wiby.org/)
+
 [MDN 最强前端 API 查询！](https://developer.mozilla.org/zh-CN/)
 
 [在线手册中心](https://docs.pythontab.com/)
@@ -131,6 +133,12 @@ sidebar: auto
 [唐霜的博客\_编程的时候我叫“否子戈”！](https://www.tangshuang.net/)
 
 ### 英文
+
+[SciUrls.com](https://sciurls.com/) for all science fans. It's a fun little website that aggregates news from top 20 science websites and has a super fast search.
+
+[TechUrls.com](https://techurls.com/). It's a fun little website that aggregates news from top 20 tech websites and has a super fast search.
+
+[DevUrls.com](https://devurls.com/). It's a fun little website that aggregates news from top 30 programming websites and has a super fast search.
 
 [Better Dev 周刊 - 每周一期的开发者周刊（英文）](https://betterdev.link/)
 
@@ -325,6 +333,10 @@ sidebar: auto
 [设计工具收集 - 该网站收集各种设计工具和设计资源，没有设计师的时候，可以使用它们](https://nodesign.dev/)
 
 [I love IMG - 该网站提供各种在线的图像编辑工具，比如图像缩放、压缩、裁剪、水印等](https://www.iloveimg.com/)
+
+[Coolors - The super fast color schemes generator! - 创建完美的调色板或得到灵感来自成千上万的漂亮的配色方案](https://coolors.co/)
+
+[登录页设计 - 登录页的各种页面设计，可以免费下载模板。](https://cruip.com/)
 
 ## 图片
 
@@ -541,6 +553,26 @@ sidebar: auto
 [Bootswatch - Bootstrap 是最常用的 CSS 框架，这个网站收集免费的 Bootstrap 主题。类似的网站还有 bulmaswatch，收集 Bluma 框架的免费主题。](https://bootswatch.com/) [bulmaswatch](https://jenil.github.io/bulmaswatch/)
 
 [Front-End Front — Basically, front-end news - 英文新闻](https://frontendfront.com/)
+
+[Killed by Google - 该网站收集谷歌关闭的所有自家产品](https://killedbygoogle.com/)
+
+[State of CSS 2019 - 针对全世界开发者的 CSS 调查](https://stateofjs.typeform.com/to/TxDuh6)（英文）
+
+[WikiHow - 一个收集如何解决生活中各种问题的网站，比如"如何换轮胎"、"如何调整电脑字体大小"等等。](https://zh.wikihow.com/首页)
+
+[gitignore.io - 生成 gitignore 文件的网站](https://gitignore.io/)
+
+还有一批挺棒的在线工具 [a network of online tools websites](https://catonmat.net/online-text-tools)
+
+[No More goole - 该网站收集各种谷歌服务的替代品，让你可以不使用谷歌](https://nomoregoogle.com/)
+
+[draw.io - 在线图表制作工具](https://www.draw.io/)
+
+[Sketch 2 Code - 微软的在线工具，将手绘草图转成 HTML 代码。](https://sketch2code.azurewebsites.net/)
+
+[深度学习 - fast.ai 免费的深度学习课程。（英文）](https://www.kdnuggets.com/2018/07/fast-ai-deep-learning-part-1-notes.html)
+
+[Compiler Explorer - 一个在线的编译器学习工具，可以显示高级语言对应的汇编代码，支持多种语言。](https://godbolt.org/)
 
 Repl.it - The world's leading online coding platform https://repl.it/
 
