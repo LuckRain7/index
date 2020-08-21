@@ -1,5 +1,19 @@
 # 好文章收集
 
+[CSS 生成艺术 - 作者介绍如何用 CSS 生成各种形状的图形。](https://generative-art-with-css.commons.host/)
+
+[CRDT 算法是否适合多人实时编辑？](https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/)（英文）
+
+CRDT 算法用于分布式服务实现数据同步，比如同一篇文档的多人实时编辑。[Yjs](https://github.com/yjs/yjs) 是 CRDT 的一个实现，本文是它的作者对这个算法的解释，内容有一定深度。
+
+[TypeScript 简明介绍](https://www.warambil.com/typescript-why-is-so-important)（英文）
+
+一篇针对初学者的 TypeScript 介绍，写得相当简洁。
+
+[HTML smuggling 解释](https://outflank.nl/blog/2018/08/14/html-smuggling-explained/)（英文）
+
+很多人不知道，JavaScript 可以脚本生成 exe 文件，让用户下载。本文介绍如何在网页里面嵌入一个恶意的可执行文件。
+
 [vue文字横向滚动公告](https://segmentfault.com/a/1190000022160405)
 
 [【THE LAST TIME】this：call、apply、bind](https://juejin.im/post/5da7cdff6fb9a04de7735742)

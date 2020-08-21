@@ -15,6 +15,8 @@ sidebar: auto
 
 -->
 
+[Luckysheet - 一个网页表格库，类似 Excel 的效果。](https://github.com/mengshukeji/Luckysheet)
+
 [Plausible Insights - Simple, lightweight analytics for your website (一个 Google Analytics 的开源替代品，可以自己架设网站访问统计。)](https://github.com/plausible-insights/plausible)
 
 [Squoosh! Make images smaller using best-in-class codecs, right in the browser.（谷歌开源图像压缩）](https://github.com/GoogleChromeLabs/squoosh)
@@ -117,41 +119,49 @@ sidebar: auto
 
 [[ VuePress ] vdoing - VuePress 的一款主题，可以用于个人博客或知识管理。](https://github.com/xugaoyi/vuepress-theme-vdoing)
 
-[[WebGIS] ArcGIS-API-For-Javacsript - ](https://github.com/CarpenterGISer/ArcGIS-API-For-Javacsript)
+[ WebGIS ][ arcgis-api-for-javacsript - ](https://github.com/CarpenterGISer/ArcGIS-API-For-Javacsript)
 
-[[NodeJS] node best practices - 一个收集 Node 最佳实践的仓库。](https://github.com/i0natan/nodebestpractices)
+[ Node ][ node best practices - 一个收集 node 最佳实践的仓库。](https://github.com/i0natan/nodebestpractices)
 
-[[NodeJS] Node.js Best Practices (Node.js 最佳实践)](https://github.com/goldbergyoni/nodebestpractices)
+[ Node ][ node.js best practices (node.js 最佳实践)](https://github.com/goldbergyoni/nodebestpractices)
 
 [[ Deno ] Deno 官方仓库](https://github.com/denoland/deno)
 
 [[ Tool ] percollate - 命令行抓取网页，生成 PDF 文件的工具。](https://github.com/danburzo/percollate)
 
-[[ Tool ] form-create - 一个可以通过 JSON 自动生成具有动态渲染、数据收集、验证和提交功能的表单生成器。结合内置多种常用表单组件和自定义组件，轻松搞定复杂的表单，支持 iview、element-ui、and-design-vue](https://github.com/xaboy/form-create)
+[ Tool ][ form-create - 一个可以通过 JSON 自动生成具有动态渲染、数据收集、验证和提交功能的表单生成器。结合内置多种常用表单组件和自定义组件，轻松搞定复杂的表单，支持 iview、element-ui、and-design-vue](https://github.com/xaboy/form-create)
 
-[[ Tool ] jexcel - 一个轻量级、功能强大的电子表格库。轻松实现复杂数据的表格管理，支持 JS 数组、JSON、CSV 等数据，并且可以实现 excel 文件的直接复制和粘贴](https://github.com/paulhodel/jexcel)
+[ Tool ][ jexcel - 一个轻量级、功能强大的电子表格库。轻松实现复杂数据的表格管理，支持 js 数组、json、csv 等数据，并且可以实现 excel 文件的直接复制和粘贴](https://github.com/paulhodel/jexcel)
 
-[[ Tool ] public-apis - 这个仓库收集免费的 API，已经有 100 多个了](https://github.com/toddmotto/public-apis)
+[ Tool ][ public-apis - 这个仓库收集免费的 api，已经有 100 多个了](https://github.com/toddmotto/public-apis)
 
-[[ Icon ] RemixIcon - 一套免费高质量的开源图标库，目前有 1500 多枚图标，提供矢量图和字体图标文件，可用于商业用途](https://github.com/Remix-Design/RemixIcon)
+[ Tool ][ umami - 一个开源的网站访问统计服务](https://umami.is/)
 
-[[ Icon ] ikonate - 一套开源的 SVG 图标](https://github.com/mikolajdobrucki/ikonate)
+[ Icon ][ remixicon - 一套免费高质量的开源图标库，目前有 1500 多枚图标，提供矢量图和字体图标文件，可用于商业用途](https://github.com/Remix-Design/RemixIcon)
 
-[[ CSS ] mvp.css - 一个最简化的 CSS 库，不提供任何自定义的类，只给出最基本的 HTML 元素的样式，适合在它的基础上添加自定义的样式](https://andybrewer.github.io/mvp/)
+[ Icon ][ ikonate - 一套开源的 svg 图标](https://github.com/mikolajdobrucki/ikonate)
 
-[[ CSS ] instagram.css - 一个 CSS 开源库，提供纯 CSS 的 Instagram 滤镜实现](https://github.com/picturepan2/instagram.css)
+[ CSS ][ mvp.css - 一个最简化的 css 库，不提供任何自定义的类，只给出最基本的 html 元素的样式，适合在它的基础上添加自定义的样式](https://andybrewer.github.io/mvp/)
 
-[[ JavaScript ] Danfo.js - 一个提供跟 Pandas 相同功能的 JS 数学计算库](https://github.com/opensource9ja/danfojs)
+[ CSS ][ instagram.css - 一个 css 开源库，提供纯 css 的 instagram 滤镜实现](https://github.com/picturepan2/instagram.css)
 
-[[ JavaScript ] 33 个 JS 程序员需要知道的概念 - 按照主题，收集 JS 学习资源的仓库。](https://github.com/leonardomso/33-js-concepts)
+[ JavaScript ][ danfo.js - 一个提供跟 pandas 相同功能的 js 数学计算库](https://github.com/opensource9ja/danfojs)
+
+[ JavaScript ][ 33 个 js 程序员需要知道的概念 - 按照主题，收集 js 学习资源的仓库。](https://github.com/leonardomso/33-js-concepts)
 
 [[ Java ] halo - 优秀的开源 Java 博客系统，国产软件，有良好的中文支持](https://github.com/halo-dev/halo)
 
 [[ React ] Base web - uber 公司开源的 React 组件库，风格比较简单干净](https://baseweb.design/)
 
-[[ TypeScript ] prime - TypeScript 写的内容管理系统，最大特点是使用 GraphQL API](https://github.com/birkir/prime)
+[ TypeScript ][ prime - typescript 写的内容管理系统，最大特点是使用 graphql api](https://github.com/birkir/prime)
+
+[ TypeScript ][ ts-migrate - airbnb 公司新的开源项目，可以将 javascript 代码转成 typescript 代码。](https://github.com/airbnb/ts-migrate)
 
 [openbiox.org - 一个开源的生物信息学的中文社区，源码托管在 GitHub](https://community.openbiox.org/)
+
+[COVID-19 舆论新闻可视化 - 山东大学 VisLab 的一个可视化项目，分析疫情对舆论和新闻的影响。](https://github.com/pearmini/ncovis-2020)
+
+[js-cloudimage-360-view - 一个可以 360 度旋转观看图片的 JS 库，用于在网页上展示商品。](https://github.com/scaleflex/js-cloudimage-360-view)
 
 ## 开源教程
 
@@ -208,6 +218,10 @@ sidebar: auto
 [麻省理工学院的统计学课件 - 麻省理工学院本科生统计学课程的 PPT 课件](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
 
 [没有博士学位者的 TensorFlow 和深度学习教程 - 谷歌发布的英文教程，没有高深的数学，向初学者介绍 TensorFlow 和深度学习](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/)
+
+[An Introduction to Statistical Learning - 免费英文电子书，可以作为非数学专业学生的统计学教材，侧重机器学习的统计基础，提供 R 语言的例子。](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+
+[PC Assembly Language - 介绍汇编语言的本科生入门教材，有中文译本，免费下载。](https://pacman128.github.io/pcasm/)
 
 ## 有趣
 

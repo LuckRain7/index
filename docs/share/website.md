@@ -7,20 +7,12 @@ sidebar: auto
 ## 常用网站
 
 [Google](https://www.google.com/)
-
-[前端开发日报-前端开发博客](http://caibaojian.com/c/news)
-
-[哔哩哔哩 (゜-゜)つロ 干杯](https://www.bilibili.com/)
+| [前端开发日报-前端开发博客](http://caibaojian.com/c/news)
+| [龙猫学术导航](http://www.6453.net/)
 
 [MDN Web 文档](https://developer.mozilla.org/zh-CN/)
 
-[有道词典](http://dict.youdao.com/)
-
-[SDAU-机构设置](http://www.sdau.edu.cn/13/list.htm)
-
-[山东农业大学图书馆](http://library.sdau.edu.cn/)
-
-[腾讯课堂](http://ke.qq.com/index.html)
+[有道词典](http://dict.youdao.com/)http://library.sdau.edu.cn/)
 
 [奶牛快传](https://cowtransfer.com/)
 
@@ -44,15 +36,11 @@ sidebar: auto
 
 [VS Code](https://marketplace.visualstudio.com/vscode)
 
-[虎跃网 VPN](https://www.notion.so/5ea5f1cc9a8644718d0317a45c3ec0f3)
-
 [Chrome 网上应用店](https://chrome.google.com/webstore/category/extensions)
 
 [InfoQ](http://www.infoq.com/cn/)
 
 [HelloGitHub 分享](https://hellogithub.com/)
-
-[草民电影网](https://www.cmdy5.com/)
 
 [i Hate Regex - 可快速检索并匹配到合适的正则表达式，帮你完成如用户名、邮箱、日期、手机号码、密码等常见规则的验证。](https://ihateregex.io/)
 
@@ -131,6 +119,10 @@ sidebar: auto
 [商业分析 (BA) 周刊](https://www.yuque.com/baclub/weekly)
 
 [唐霜的博客\_编程的时候我叫“否子戈”！](https://www.tangshuang.net/)
+
+[中国第五届 CSS 开发者大会](https://css.w3ctech.com/)
+
+[Yuan Chuan - 资深前端工程师，css-doodle 作者。](https://yuanchuan.dev/)
 
 ### 英文
 
@@ -277,6 +269,8 @@ sidebar: auto
 [dbdiagram.io - 制作数据库关系图的在线工具](https://dbdiagram.io/home)
 
 [My Brand New Logo - 你提供产品的描述，该网站会自动生成 Logo 图案](https://mybrandnewlogo.com/)
+
+[isoflow - 一个绘制示意图的在线工具](https://isoflow.io/)
 
 ## 设计
 
@@ -436,6 +430,8 @@ sidebar: auto
 
 [timelineofearth - 网页展示地球演化的 46 亿年](http://timelineofearth.com/)
 
+[QRpicture - 一个在线工具，把图片变成可以扫描的二维码。](https://www.qrpicture.com/)
+
 ## 其他
 
 [成都 Web 开发者大会](https://web-conf.dev/#2020/)
@@ -483,6 +479,10 @@ sidebar: auto
 [Earth Wind - 一个查看全球风向的网站](https://earth.nullschool.net/#current/wind/surface/level/orthographic=-240.00,0.00,320)
 
 [航班实时追踪 - 国内做的全球航班实时位置展示，国内航班的覆盖是全球最好的](http://flightadsb.variflight.com/)
+
+## 学习
+
+[SQL Teaching(英文) - 一个针对初学者的 SQL 简单教程，通过在网页上运行示例来学习 SQL。](https://www.sqlteaching.com/)
 
 ## 待整理
 
@@ -573,6 +573,14 @@ sidebar: auto
 [深度学习 - fast.ai 免费的深度学习课程。（英文）](https://www.kdnuggets.com/2018/07/fast-ai-deep-learning-part-1-notes.html)
 
 [Compiler Explorer - 一个在线的编译器学习工具，可以显示高级语言对应的汇编代码，支持多种语言。](https://godbolt.org/)
+
+[COVID-19 舆论新闻可视化 - 山东大学 VisLab 的一个可视化项目，分析疫情对舆论和新闻的影响。](https://pearmini.gitee.io/ncovis-2020/#/)
+
+[斑码：一款强大、现代的可视化编辑器。](https://zebrastudio.tech/)
+
+[Story Creator - 一个在线的视频编辑器，可以用来在浏览器里面编辑一些简单视频。](https://storycreatorapp.com/)
+
+[awesome-uikit - 该仓库收集前端各种 JS 框架，Web 组件库和后台管理模板。](https://github.com/jaywcjlove/awesome-uikit)
 
 Repl.it - The world's leading online coding platform https://repl.it/
 
