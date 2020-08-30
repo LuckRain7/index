@@ -9,40 +9,29 @@ sidebar: auto
 [Google](https://www.google.com/)
 | [前端开发日报-前端开发博客](http://caibaojian.com/c/news)
 | [龙猫学术导航](http://www.6453.net/)
-
-[MDN Web 文档](https://developer.mozilla.org/zh-CN/)
-
-[有道词典](http://dict.youdao.com/)http://library.sdau.edu.cn/)
+| [MDN Web 文档](https://developer.mozilla.org/zh-CN/)
+| [有道词典](http://dict.youdao.com/)
 
 [奶牛快传](https://cowtransfer.com/)
-
-[pc6-下载站](http://www.pc6.com/)
-
-[扩展迷](https://extfans.com/)
-
-[BootCDN - CDN 加速服务](http://www.bootcdn.cn/)
-
-[百度脑图](https://naotu.baidu.com/)
+| [pc6-下载站](http://www.pc6.com/)
+| [扩展迷](https://extfans.com/)
+| [BootCDN - CDN 加速服务](http://www.bootcdn.cn/)
+| [百度脑图](https://naotu.baidu.com/)
 
 [精准云工具](https://jingzhunyun.com/)
-
-[微词云](https://www.weiciyun.com/)
-
-[有道云笔记](http://note.youdao.com/)
-
-[Magi - 搜索](https://magi.com/)
-
-[NPM](https://www.npmjs.com/)
+| [微词云](https://www.weiciyun.com/)
+| [有道云笔记](http://note.youdao.com/)
+| [Magi - 搜索](https://magi.com/)
+| [NPM](https://www.npmjs.com/)
 
 [VS Code](https://marketplace.visualstudio.com/vscode)
-
-[Chrome 网上应用店](https://chrome.google.com/webstore/category/extensions)
-
-[InfoQ](http://www.infoq.com/cn/)
-
-[HelloGitHub 分享](https://hellogithub.com/)
+| [Chrome 网上应用店](https://chrome.google.com/webstore/category/extensions)
+| [InfoQ](http://www.infoq.com/cn/)
+| [HelloGitHub 分享](https://hellogithub.com/)
 
 [i Hate Regex - 可快速检索并匹配到合适的正则表达式，帮你完成如用户名、邮箱、日期、手机号码、密码等常见规则的验证。](https://ihateregex.io/)
+
+[MarkDown 排版](https://mdnice.com/)
 
 ## 查询
 
@@ -71,14 +60,10 @@ sidebar: auto
 [AlloyTeam|腾讯全端 AlloyTeam 团队](http://www.alloyteam.com/)
 
 [奇舞团 - 360](https://75.team/)
-
-[凹凸实验室](https://aotu.io/)
-
-[JDC 京东设计中心](http://jdc.jd.com/)
-
-[携程 UED](http://ued.ctrip.com/)
-
-[美团技术团队](https://tech.meituan.com/)
+| [凹凸实验室](https://aotu.io/)
+| [JDC 京东设计中心](http://jdc.jd.com/)
+| [携程 UED](http://ued.ctrip.com/)
+| [美团技术团队](https://tech.meituan.com/)
 
 [WecTeam](https://wecteam.io/)
 
@@ -316,8 +301,6 @@ sidebar: auto
 
 [Feature Icons - 开源图标库 提供一些 24x24 的常用图标](https://github.com/feathericons/feather)
 
-[MarkDown 排版](https://mdnice.com/)
-
 [稿定设计 - 做图做视频必备*在线设计神器*海量版权素材模板](https://www.gaoding.com/)
 
 [微 Fotor 在线设计工具*免费设计素材和模板*在线平面设计网站](https://www.fotor.com.cn/templates/wxcode/)
@@ -331,6 +314,8 @@ sidebar: auto
 [Coolors - The super fast color schemes generator! - 创建完美的调色板或得到灵感来自成千上万的漂亮的配色方案](https://coolors.co/)
 
 [登录页设计 - 登录页的各种页面设计，可以免费下载模板。](https://cruip.com/)
+
+[CSS 渐变魔法 - 该网站收集各种 CSS 渐变图像，可以复制到自己的项目。](https://www.gradientmagic.com/)
 
 ## 图片
 
@@ -562,7 +547,7 @@ sidebar: auto
 
 [gitignore.io - 生成 gitignore 文件的网站](https://gitignore.io/)
 
-还有一批挺棒的在线工具 [a network of online tools websites](https://catonmat.net/online-text-tools)
+[a network of online tools websites - 还有一批挺棒的在线工具](https://catonmat.net/online-text-tools)
 
 [No More goole - 该网站收集各种谷歌服务的替代品，让你可以不使用谷歌](https://nomoregoogle.com/)
 

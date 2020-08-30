@@ -1,19 +1,21 @@
 ---
 sidebar: auto
 ---
+
 # CSS
-##  box-shadow
+
+## box-shadow
 
 语法：` box-shadow: h-shadow v-shadow blur spread color inset`
 
-| 属性       | 值                                                  |
-| ---------- | --------------------------------------------------- |
-| * h-shadow | 水平阴影的位置。10px：阴影在右侧；-10px：阴影在左侧 |
-| * v-shadow | 垂直阴影的位置。10px：阴影在下侧；-10px：阴影在上侧 |
-| blur       | 模糊距离。值越大，阴影越模糊                        |
-| spread     | 阴影的大小。值越大，阴影越大                        |
-| color      | 阴影的颜色。                                        |
-| inset      | 定义阴影为内部阴影（一般都是外侧阴影，不加此属性）  |
+| 属性        | 值                                                  |
+| ----------- | --------------------------------------------------- |
+| \* h-shadow | 水平阴影的位置。10px：阴影在右侧；-10px：阴影在左侧 |
+| \* v-shadow | 垂直阴影的位置。10px：阴影在下侧；-10px：阴影在上侧 |
+| blur        | 模糊距离。值越大，阴影越模糊                        |
+| spread      | 阴影的大小。值越大，阴影越大                        |
+| color       | 阴影的颜色。                                        |
+| inset       | 定义阴影为内部阴影（一般都是外侧阴影，不加此属性）  |
 
 常用：
 
@@ -21,31 +23,31 @@ sidebar: auto
 
 `box-shadow: 1px 1px 5px 5px rgba(0, 0, 0, 0.1);`
 
-## background属性
+## background 属性
 
->  定义背景效果: 
+> 定义背景效果:
 >
->  background-color 设置背景颜色
+> background-color 设置背景颜色
 >
->  background-image 设置背景图片
+> background-image 设置背景图片
 >
->  background-repeat 设置背景重复
+> background-repeat 设置背景重复
 >
->  background-attachment 设置背景图片是固定还是滚动
+> background-attachment 设置背景图片是固定还是滚动
 >
->  background-position   设置背景图像的起始位置 
+> background-position 设置背景图像的起始位置
 
 ```css
-background: #ffffff url('../assets/zcmap.png') no-repeat 5px 5px; //集合写法
+background: #ffffff url("../assets/zcmap.png") no-repeat 5px 5px; //集合写法
 
 background-color: #ffffff; //设置背景颜色 （可以16进制，也可以使rgb() rgba()）
 
-background-image: url('../assets/zcmap.png'); //图片链接
+background-image: url("../assets/zcmap.png"); //图片链接
 
-background-repeat:repeat; //默认。背景图像将在垂直方向和水平方向重复。
-background-repeat:repeat-x; //水平平铺，在水平方向重复
-background-repeat:repeat-y; //垂直平铺，在垂直方向重复
-background-repeat:no-repeat; //图片不重复，只显示一次
+background-repeat: repeat; //默认。背景图像将在垂直方向和水平方向重复。
+background-repeat: repeat-x; //水平平铺，在水平方向重复
+background-repeat: repeat-y; //垂直平铺，在垂直方向重复
+background-repeat: no-repeat; //图片不重复，只显示一次
 
 background-attachment: scroll; // 默认值。背景图像会随着页面其余部分的滚动而移动。
 background-attachment: fixed; // 当页面的其余部分滚动时，背景图像不会移动。
@@ -55,8 +57,6 @@ background-position: 5px 5px; //第一个值是水平位置，第二个值是垂
 background-position: 5% 5%; //第一个值是水平位置，第二个值是垂直，如果仅指定一个关键字，其他值将会是50%
 background-position: left top; //位置英文  如果仅指定一个关键字，其他值将会是"center"
 ```
-
-
 
 ## 平滑滚动
 
@@ -72,10 +72,10 @@ html {
 
 ```css
 .text-container h2 {
-  font-family: 'Lora', serif;
+  font-family: "Lora", serif;
   font-size: 1.25rem;
   font-weight: 400;
-  color: #1F313D;
+  color: #1f313d;
   /* The styles here are meant to truncate titles that are too long. The first line ensures long text doesn't overflow its container. The second one ensures we title gets truncated */
   overflow: hidden;
   white-space: nowrap;
@@ -104,16 +104,16 @@ header {
 }
 ```
 
-## CSS预处理器
+## CSS 预处理器
 
 ### sass
 
-> 世界上最成熟、最稳定、最强大的专业级CSS扩展语言！
+> 世界上最成熟、最稳定、最强大的专业级 CSS 扩展语言！
 
 定义变量 Variables
 
 ```scss
-$highlight-color: #F90;
+$highlight-color: #f90;
 ```
 
 支持嵌套 Nested Rules
@@ -139,7 +139,7 @@ $highlight-color: #F90;
 定义变量 Variables
 
 ```less
-@nice-blue: #5B83AD;
+@nice-blue: #5b83ad;
 ```
 
 支持嵌套 Nested Rules
@@ -191,4 +191,3 @@ $highlight-color: #F90;
   background: rgba(0, 0, 0, 0.1);
 }
 ```
-

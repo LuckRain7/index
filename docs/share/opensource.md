@@ -129,7 +129,7 @@ sidebar: auto
 
 [[ Tool ] percollate - 命令行抓取网页，生成 PDF 文件的工具。](https://github.com/danburzo/percollate)
 
-[ Tool ][ form-create - 一个可以通过 JSON 自动生成具有动态渲染、数据收集、验证和提交功能的表单生成器。结合内置多种常用表单组件和自定义组件，轻松搞定复杂的表单，支持 iview、element-ui、and-design-vue](https://github.com/xaboy/form-create)
+[ Tool ][ form-create - 一个可以通过 json 自动生成具有动态渲染、数据收集、验证和提交功能的表单生成器。结合内置多种常用表单组件和自定义组件，轻松搞定复杂的表单，支持 iview、element-ui、and-design-vue](https://github.com/xaboy/form-create)
 
 [ Tool ][ jexcel - 一个轻量级、功能强大的电子表格库。轻松实现复杂数据的表格管理，支持 js 数组、json、csv 等数据，并且可以实现 excel 文件的直接复制和粘贴](https://github.com/paulhodel/jexcel)
 
@@ -162,6 +162,12 @@ sidebar: auto
 [COVID-19 舆论新闻可视化 - 山东大学 VisLab 的一个可视化项目，分析疫情对舆论和新闻的影响。](https://github.com/pearmini/ncovis-2020)
 
 [js-cloudimage-360-view - 一个可以 360 度旋转观看图片的 JS 库，用于在网页上展示商品。](https://github.com/scaleflex/js-cloudimage-360-view)
+
+[Ciphey - 有时，我们有一段加密文本，但是不知道它使用什么加密方法。这个命令行工具，会根据人工智能算法，自动判断加密方法，能不能解密。](https://github.com/Ciphey/Ciphey)
+
+[Fast - 微软官方的 Web Components 组件库](https://fast.design/docs/introduction)
+
+[jimp - 一个 Node.js 的图像处理库，为图像加特效。](https://github.com/oliver-moran/jimp)
 
 ## 开源教程
 
