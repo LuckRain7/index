@@ -149,9 +149,9 @@ sidebar: auto
 
 [ JavaScript ][ 33 个 js 程序员需要知道的概念 - 按照主题，收集 js 学习资源的仓库。](https://github.com/leonardomso/33-js-concepts)
 
-[[ Java ] halo - 优秀的开源 Java 博客系统，国产软件，有良好的中文支持](https://github.com/halo-dev/halo)
+[ Java ][ halo - 优秀的开源 java 博客系统，国产软件，有良好的中文支持](https://github.com/halo-dev/halo)
 
-[[ React ] Base web - uber 公司开源的 React 组件库，风格比较简单干净](https://baseweb.design/)
+[ React ][ base web - uber 公司开源的 react 组件库，风格比较简单干净](https://baseweb.design/)
 
 [ TypeScript ][ prime - typescript 写的内容管理系统，最大特点是使用 graphql api](https://github.com/birkir/prime)
 
@@ -168,6 +168,8 @@ sidebar: auto
 [Fast - 微软官方的 Web Components 组件库](https://fast.design/docs/introduction)
 
 [jimp - 一个 Node.js 的图像处理库，为图像加特效。](https://github.com/oliver-moran/jimp)
+
+[MDClub - MDClub 是一个 轻量的开源社区系统，基于 PHP7.2+ MySQL。 支持 话题、问答和文章 功能， MIT 协议开源](https://github.com/zdhxiong/mdclub)
 
 ## 开源教程
 
