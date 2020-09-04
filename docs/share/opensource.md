@@ -153,9 +153,13 @@ sidebar: auto
 
 [ React ][ base web - uber 公司开源的 react 组件库，风格比较简单干净](https://baseweb.design/)
 
+[ React ][ react spectrum - adobe 公司的 react 组件库，用法非常简单干净。](https://react-spectrum.adobe.com/react-spectrum/index.html)
+
 [ TypeScript ][ prime - typescript 写的内容管理系统，最大特点是使用 graphql api](https://github.com/birkir/prime)
 
 [ TypeScript ][ ts-migrate - airbnb 公司新的开源项目，可以将 javascript 代码转成 typescript 代码。](https://github.com/airbnb/ts-migrate)
+
+[ Web Components ][ shoelace - 一个 web components 组件库，非常易用，很推荐。](https://shoelace.style/)
 
 [openbiox.org - 一个开源的生物信息学的中文社区，源码托管在 GitHub](https://community.openbiox.org/)
 
@@ -170,6 +174,8 @@ sidebar: auto
 [jimp - 一个 Node.js 的图像处理库，为图像加特效。](https://github.com/oliver-moran/jimp)
 
 [MDClub - MDClub 是一个 轻量的开源社区系统，基于 PHP7.2+ MySQL。 支持 话题、问答和文章 功能， MIT 协议开源](https://github.com/zdhxiong/mdclub)
+
+[zebra-editor-core - 一个开源的富文本编辑器，功能丰富](https://github.com/acccco/zebra-editor-core)
 
 ## 开源教程
 
