@@ -149,6 +149,8 @@ sidebar: auto
 
 [ JavaScript ][ 33 个 js 程序员需要知道的概念 - 按照主题，收集 js 学习资源的仓库。](https://github.com/leonardomso/33-js-concepts)
 
+[ JavaScript ][ pose-animator - 一个浏览器 js 库，通过摄像头，实时捕捉用户的动作，生成 2d 动画。](https://github.com/yemount/pose-animator)
+
 [ Java ][ halo - 优秀的开源 java 博客系统，国产软件，有良好的中文支持](https://github.com/halo-dev/halo)
 
 [ React ][ base web - uber 公司开源的 react 组件库，风格比较简单干净](https://baseweb.design/)
@@ -176,6 +178,8 @@ sidebar: auto
 [MDClub - MDClub 是一个 轻量的开源社区系统，基于 PHP7.2+ MySQL。 支持 话题、问答和文章 功能， MIT 协议开源](https://github.com/zdhxiong/mdclub)
 
 [zebra-editor-core - 一个开源的富文本编辑器，功能丰富](https://github.com/acccco/zebra-editor-core)
+
+[hanzi-writer - 一个演示汉字笔画顺序的 JS 库。](https://chanind.github.io/hanzi-writer/)
 
 ## 开源教程
 
@@ -236,6 +240,8 @@ sidebar: auto
 [An Introduction to Statistical Learning - 免费英文电子书，可以作为非数学专业学生的统计学教材，侧重机器学习的统计基础，提供 R 语言的例子。](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 
 [PC Assembly Language - 介绍汇编语言的本科生入门教材，有中文译本，免费下载。](https://pacman128.github.io/pcasm/)
+
+[神经网络与深度学习 - 复旦大学邱锡鹏老师的开源电子书，主要介绍神经网络与深度学习的基础知识、主要的模型，以及在计算机视觉、自然语言处理等领域的应用。](https://github.com/nndl/nndl.github.io)
 
 ## 有趣
 
