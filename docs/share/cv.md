@@ -28,10 +28,6 @@ CRDT 算法用于分布式服务实现数据同步，比如同一篇文档的多
 
 [web 图像技术：前端引入图片的各种方式及其优缺点](https://juejin.im/post/5ea22d15e51d45470c12d074)
 
-
-
-
-
 ## 待看
 
 [去大厂，你就应该了解前端监控和埋点!](https://juejin.im/post/5e9052916fb9a03c9843284f)
@@ -57,3 +53,5 @@ CRDT 算法用于分布式服务实现数据同步，比如同一篇文档的多
 [一份关于 vue-cli3 项目常用项配置](https://segmentfault.com/a/1190000022512358)
 
 [面试官一脸邪乎的问：一个 TCP 连接能发多少个 HTTP 请求？](https://segmentfault.com/a/1190000022549995)
+
+[苹果更换 ARM 芯片的解读 - 一篇很好的英文分析，苹果公司为 Mac 电脑更换 ARM 芯片，对整个行业会带来哪些变化。](https://zh.ifixit.com/News/42949/apple-arm-and-what-it-means)
