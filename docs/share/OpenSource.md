@@ -243,6 +243,12 @@ sidebar: auto
 
 [神经网络与深度学习 - 复旦大学邱锡鹏老师的开源电子书，主要介绍神经网络与深度学习的基础知识、主要的模型，以及在计算机视觉、自然语言处理等领域的应用。](https://github.com/nndl/nndl.github.io)
 
+[解决算法和数据结构问题（Python 版）- 免费的英文电子书， 使用 Python 语言介绍基本的算法和数据结构。](https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf)
+
+[Prob 140 - 加州大学伯克利分校的数据科学概率入门课程的教科书。](http://prob140.org/textbook/chapters/README)
+
+[面向机器学习的特征工程 - 开源的机器学习电子书的中文翻译，内容主要是关于如何找到数据集的特征。](http://fe4ml.apachecn.org/#/)
+
 ## 有趣
 
 [github-rank - Github 中国用户排名](https://github.com/jaywcjlove/github-rank)
