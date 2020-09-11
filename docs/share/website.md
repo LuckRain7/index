@@ -53,47 +53,37 @@ sidebar: auto
 
 ### 中文
 
-[淘系前端团队（FED）用技术为体验提供无限可能](https://fed.taobao.org/)
-
-[百度 EFE（Excellent FrontEnd）技术体系，前身是 ECOM 前端团队，后经过技术的发展，逐渐形成一套完善的前端技术体系。](https://efe.baidu.com/)
-
-[AlloyTeam|腾讯全端 AlloyTeam 团队](http://www.alloyteam.com/)
-
-[奇舞团 - 360](https://75.team/)
-| [凹凸实验室](https://aotu.io/)
-| [JDC 京东设计中心](http://jdc.jd.com/)
-| [携程 UED](http://ued.ctrip.com/)
-| [美团技术团队](https://tech.meituan.com/)
-
-[WecTeam](https://wecteam.io/)
-
 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
-
-[冴羽博客，包含： JavaScript 深入系列、JavaScript 专题系列、ES6 系列、React 系列。 ](https://github.com/mqyqingfeng/Blog)
 
 [GitHub 上整理 中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
 
-[Paper 安全技术精粹](https://paper.seebug.org/)
+[淘系前端团队(FED)](https://fed.taobao.org/)
+|[百度 EFE(Excellent FrontEnd)](https://efe.baidu.com/)
+|[腾讯 AlloyTeam](http://www.alloyteam.com/)
+|[WecTeam](https://wecteam.io/)
 
-[Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
+[奇舞团 - 360](https://75.team/)
+|[凹凸实验室](https://aotu.io/)
+|[JDC 京东设计中心](http://jdc.jd.com/)
+|[携程 UED](http://ued.ctrip.com/)
+|[美团技术团队](https://tech.meituan.com/)
+
+[Paper 安全技术精粹](https://paper.seebug.org/)
+|[Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 
 [木易杨前端进阶](https://www.muyiy.cn/)
-
-[张鑫旭个人主页](https://www.zhangxinxu.com/)
+|[张鑫旭个人主页](https://www.zhangxinxu.com/)
+|[神三元的博客](http://47.98.159.95/my_blog/)
+|[冴羽博客](https://github.com/mqyqingfeng/Blog)
 
 [awesome-coding-js 用 JavaScript 实现的算法和数据结构](http://www.conardli.top/docs/)
-
-[神三元的博客](http://47.98.159.95/my_blog/)
 
 [前端面试与进阶指南](https://www.cxymsg.com/)
 
 [全栈修炼](https://biaochenxuying.github.io/blog/)
-
-[前端小智](https://github.com/qq449245884/xiaozhi)
-
-[翁天信 · Dandy Weng 的个人网站主页](https://www.dandyweng.com/)
-
-[Barret 李靖 | 小胡子哥的个人网站](https://www.barretlee.com/)
+|[前端小智](https://github.com/qq449245884/xiaozhi)
+|[翁天信](https://www.dandyweng.com/)
+|[Barret 李靖](https://www.barretlee.com/)
 
 [云谦 - blog](https://github.com/sorrycc/blog)
 
@@ -111,11 +101,11 @@ sidebar: auto
 
 ### 英文
 
-[SciUrls.com](https://sciurls.com/) for all science fans. It's a fun little website that aggregates news from top 20 science websites and has a super fast search.
+[SciUrls.com - for all science fans. It's a fun little website that aggregates news from top 20 science websites and has a super fast search.](https://sciurls.com/)
 
-[TechUrls.com](https://techurls.com/). It's a fun little website that aggregates news from top 20 tech websites and has a super fast search.
+[TechUrls.com - It's a fun little website that aggregates news from top 20 tech websites and has a super fast search.](https://techurls.com/)
 
-[DevUrls.com](https://devurls.com/). It's a fun little website that aggregates news from top 30 programming websites and has a super fast search.
+[DevUrls.com - It's a fun little website that aggregates news from top 30 programming websites and has a super fast search.](https://devurls.com/)
 
 [Better Dev 周刊 - 每周一期的开发者周刊（英文）](https://betterdev.link/)
 
