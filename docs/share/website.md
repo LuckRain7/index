@@ -557,6 +557,10 @@ sidebar: auto
 
 [awesome-uikit - 该仓库收集前端各种 JS 框架，Web 组件库和后台管理模板。](https://github.com/jaywcjlove/awesome-uikit)
 
+[粉碎棱镜 - 该网站收集不对用户进行监控的开源桌面软件。](https://prism-break.org/zh-CN/all/)
+
+[网页骨架布局生成器 - 有些网页加载时，会显示一个骨架布局（上图），获取正式内容后再替换掉。这个在线工具就用来生成骨架布局，支持 React、React Native、Vue 和 普通 HTML。](https://skeletonreact.com/)
+
 Repl.it - The world's leading online coding platform https://repl.it/
 
 HTML Reference - A free guide to all HTML elements and attributes. （HTML 指南） https://htmlreference.io/

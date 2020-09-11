@@ -28,6 +28,16 @@ CRDT 算法用于分布式服务实现数据同步，比如同一篇文档的多
 
 [web 图像技术：前端引入图片的各种方式及其优缺点](https://juejin.im/post/5ea22d15e51d45470c12d074)
 
+[什么是暗网 - 针对新人的暗网基本知识，不涉及技术细节。](https://www.recordedfuture.com/dark-web-reality/)
+
+[ZIP 压缩算法详细分析 - 使用通俗的语言介绍 ZIP 算法，文章较长。](https://www.cnblogs.com/esingchan/p/3958962.html)
+
+[新人要学习的机器学习十大算法 - 本文介绍了机器学习最基本的十种算法，比如线性回归、朴素贝叶斯、KNN聚合等。](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
+
+[压缩算法的解释 - 压缩是最常用的功能之一，压缩算法一般分成两大类：基于熵的压缩和基于字典的压缩。本文简单解释这两类算法的原理，以及将它们合在一起的 deflate 算法。](http://www.codersnotes.com/notes/elegance-of-deflate/)
+
+
+
 ## 待看
 
 [去大厂，你就应该了解前端监控和埋点!](https://juejin.im/post/5e9052916fb9a03c9843284f)
@@ -55,3 +65,15 @@ CRDT 算法用于分布式服务实现数据同步，比如同一篇文档的多
 [面试官一脸邪乎的问：一个 TCP 连接能发多少个 HTTP 请求？](https://segmentfault.com/a/1190000022549995)
 
 [苹果更换 ARM 芯片的解读 - 一篇很好的英文分析，苹果公司为 Mac 电脑更换 ARM 芯片，对整个行业会带来哪些变化。](https://zh.ifixit.com/News/42949/apple-arm-and-what-it-means)
+
+[Gzip 格式和 DEFLATE 压缩算法](https://luyuhuang.github.io/2020/04/28/gzip-and-deflate.html)
+
+[创业公司如何才能不失败？ - 孵化器 YC 的创始人之一杰西卡·利文斯顿的演讲，列出她眼中创业公司成功的条件。](https://blog.ycombinator.com/how-not-to-fail/)
+
+[置信区间还是 P 值？ - 本文探讨了置信区间和 P 值，这两个统计学概念的异同。它们都用来评估统计发现的可信性。](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2689604/)
+
+[React Hooks 入门教程 - 一篇很好的 React Hooks 的入门介绍文章。](https://testdriven.io/blog/react-hooks-primer/)
+
+[如何计算月相 - 地球看到的月亮形状是不一样的，本文通过可视化图形，解释如何通过三角函数计算月相](http://witchy.co/trig/)
+
+[advanced-java - Java 互联网开发的知识笔记，涉及 MQ、ES、Redis 等周边工具。](https://github.com/doocs/advanced-java)

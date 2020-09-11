@@ -249,6 +249,12 @@ sidebar: auto
 
 [面向机器学习的特征工程 - 开源的机器学习电子书的中文翻译，内容主要是关于如何找到数据集的特征。](http://fe4ml.apachecn.org/#/)
 
+[计算机图形学教程 - 从数学基础开始教起的图形学教程，包含 C++ 源码](http://www.scratchapixel.com/)
+
+[DeepLearningProject - 哈佛大学深度学习开源教程，附有代码实例。](https://github.com/Spandan-Madan/DeepLearningProject)
+
+[基于模型的机器学习 - 开源电子书，通过真实案例掌握机器学习。](http://mbmlbook.com/)
+
 ## 有趣
 
 [github-rank - Github 中国用户排名](https://github.com/jaywcjlove/github-rank)
@@ -256,3 +262,9 @@ sidebar: auto
 [Dork-Admin - 这是一个中文仓库，盘点世界上比较重大的数据泄漏事件](https://github.com/No-Github/Dork-Admin)
 
 [chinese-programmer-wrong-pronunciation - 中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
+
+## 软件
+
+[Sweet Home 3D - 一个开源的室内设计 3D 软件](http://www.sweethome3d.com/)
+
+[Cedreo - 一个 3D 的家居建模渲染软件，还可以生成平面图，免费注册使用](https://cedreo.com/en/)
