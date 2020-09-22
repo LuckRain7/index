@@ -1,6 +1,7 @@
 ---
 sidebar: auto
 ---
+
 # JavaScript
 
 ## 一、应用
@@ -19,120 +20,110 @@ sidebar: auto
 
 ```js
 //浅拷贝
-const obj1 = { a: {a: "hello", b: 21} };
+const obj1 = { a: { a: "hello", b: 21 } };
 const obj2 = Object.assign({}, obj1);
 
 // 深拷贝
 function deepCloneByJson(obj) {
-    // 有缺陷 不能实现复杂的拷贝  function
-    return JSON.parse(JSON.stringify(obj))
+  // 有缺陷 不能实现复杂的拷贝  function
+  return JSON.parse(JSON.stringify(obj));
 }
 
 // 递归拷贝
 // hash的使用
 function deepClone(obj, hash = new WeakMap()) {
-    if (obj == null) return obj //判断空值
-    if (obj instanceof Date) return new Date(obj) //判断日期
-    if (obj instanceof RegExp) return new RegExp(obj)
-    // 如果是函数或者普通值的话 不需要深拷贝
-    if (typeof obj !== 'object') return obj
-    // 是对象的话就要进行深拷贝
-    if (hash.get(obj)) return hash.get(obj)
+  if (obj == null) return obj; //判断空值
+  if (obj instanceof Date) return new Date(obj); //判断日期
+  if (obj instanceof RegExp) return new RegExp(obj);
+  // 如果是函数或者普通值的话 不需要深拷贝
+  if (typeof obj !== "object") return obj;
+  // 是对象的话就要进行深拷贝
+  if (hash.get(obj)) return hash.get(obj);
 
-    let cloneObj = new obj.constructor
-    hash.set(obj, cloneObj)
-    for (let key in obj) {
-        if (obj.hasOwnProperty(key)) {
-            // 实现一个递归拷贝
-            cloneObj[key] = deepClone(obj[key], hash)
-        }
+  let cloneObj = new obj.constructor();
+  hash.set(obj, cloneObj);
+  for (let key in obj) {
+    if (obj.hasOwnProperty(key)) {
+      // 实现一个递归拷贝
+      cloneObj[key] = deepClone(obj[key], hash);
     }
-    return cloneObj
+  }
+  return cloneObj;
 }
 
-let obj = { name: 'zzy', age: 18 }
-obj.other = obj
-let d = deepClone(obj)
-d.age = 20
-console.log(obj)
-console.log(d.other)
+let obj = { name: "zzy", age: 18 };
+obj.other = obj;
+let d = deepClone(obj);
+d.age = 20;
+console.log(obj);
+console.log(d.other);
 ```
-
-
 
 ### 2、防抖和节流
 
->防抖：防止重复点击触发事件
+> 防抖：防止重复点击触发事件
 >
->节流：指定时间间隔内只会执行一次任务
+> 节流：指定时间间隔内只会执行一次任务
 
 ```html
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>节流防抖</title>
-</head>
+  </head>
 
-<body>
+  <body>
     <button id="f">防抖</button>
     <button id="j">节流</button>
 
     <script>
+      window.onload = function () {
+        let myDebounce = document.getElementById("f");
+        myDebounce.addEventListener("click", debounce(test, 1000));
+        let myThrottle = document.getElementById("j");
+        myThrottle.addEventListener("click", throttle(test, 1000, "zz"));
+      };
 
-        window.onload = function () {
-            let myDebounce = document.getElementById("f");
-            myDebounce.addEventListener("click", debounce(test, 1000))
-            let myThrottle = document.getElementById("j");
-            myThrottle.addEventListener("click", throttle(test, 1000, 'zz'))
-        }
+      // 防抖
+      function debounce(fn, time) {
+        let timeout = null;
+        return function () {
+          let _arguments = arguments;
+          if (timeout) {
+            clearTimeout(timeout);
+          }
+          timeout = setTimeout(() => {
+            fn.apply(this, _arguments);
+          }, time);
+        };
+      }
 
-        // 防抖
-        function debounce(fn, time) {
-            let _arguments = arguments
-            let timeout = null
-            return function () {
-                if (timeout) {
-                    clearTimeout(timeout)
-                }
-                timeout = setTimeout(() => {
-                    fn.call(this, _arguments)
-                }, time);
-            }
-        }
+      function test() {
+        console.log(" 防抖：防止重复点击触发事件");
+        console.log(" 节流：指定时间间隔内只会执行一次任务");
+        console.log(arguments);
+      }
 
-        function test() {
-            console.log(' 防抖：防止重复点击触发事件');
-            console.log(' 节流：指定时间间隔内只会执行一次任务');
-            console.log(arguments);
-        }
-
-        // 节流
-        function throttle(fn, time) {
-            let _arguments = arguments
-            let canRun = true
-            return function () {
-                if (!canRun) return
-                canRun = false
-                setTimeout(() => {
-                    fn.call(this, _arguments)
-                    canRun = true
-                }, time);
-            }
-        }
-
+      // 节流
+      function throttle(fn, time) {
+        let _arguments = arguments;
+        let canRun = true;
+        return function () {
+          if (!canRun) return;
+          canRun = false;
+          setTimeout(() => {
+            fn.call(this, _arguments);
+            canRun = true;
+          }, time);
+        };
+      }
     </script>
-</body>
-
+  </body>
 </html>
 ```
-
-
-
-
 
 ### 3、可拖动模态框
 
@@ -141,80 +132,79 @@ console.log(d.other)
 ```html
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Document</title>
-    <link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
+    <link
+      href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="css/index.css" />
-</head>
+  </head>
 
-<body>
+  <body>
     <!-- 设置遮罩  蒙层效果-->
     <div class="mask"></div>
 
     <!-- 模态框 -->
     <div id="model">
-        <div class="model-hd">
-            <h3><i class="fa fa-star"></i>可拖动的模态框</h3>
-            <a href="javascript:;" class="fa fa-times"></a>
-        </div>
+      <div class="model-hd">
+        <h3><i class="fa fa-star"></i>可拖动的模态框</h3>
+        <a href="javascript:;" class="fa fa-times"></a>
+      </div>
     </div>
 
-
     <script src="index.js"></script>
-</body>
-
+  </body>
 </html>
 ```
 
 `main.js`
 
 ```js
-let model = document.getElementById('model')
+let model = document.getElementById("model");
 
 // 居中显示
-model.style.left = (window.innerWidth - 450) / 2 + 'px'
-model.style.top = (window.innerHeight - 350) / 2 + 'px'
+model.style.left = (window.innerWidth - 450) / 2 + "px";
+model.style.top = (window.innerHeight - 350) / 2 + "px";
 
-let x, y,
-    isDrop = false //移动状态的判断鼠标按下才能移动
+let x,
+  y,
+  isDrop = false; //移动状态的判断鼠标按下才能移动
 
 model.onmousedown = function (event) {
-    let e = event || window.event
-    x = e.clientX - model.offsetLeft;
-    y = e.clientY - model.offsetTop;
-    isDrop = true; //设为true表示可以移动
-}
+  let e = event || window.event;
+  x = e.clientX - model.offsetLeft;
+  y = e.clientY - model.offsetTop;
+  isDrop = true; //设为true表示可以移动
+};
 
-document.onmousemove = function(event) {
-    //是否为可移动状态                　　　　　　　　　　　 　　　　　　　
-    if(isDrop) {　　　　
-        let e = event || window.event                   　　
-        let moveX = e.clientX - x //得到距离左边移动距离  
-        let moveY = e.clientY - y //得到距离上边移动距离
-        //可移动最大距离
-        let maxX = document.documentElement.clientWidth - model.offsetWidth
-        let maxY = document.documentElement.clientHeight - model.offsetHeight
+document.onmousemove = function (event) {
+  //是否为可移动状态
+  if (isDrop) {
+    let e = event || window.event;
+    let moveX = e.clientX - x; //得到距离左边移动距离
+    let moveY = e.clientY - y; //得到距离上边移动距离
+    //可移动最大距离
+    let maxX = document.documentElement.clientWidth - model.offsetWidth;
+    let maxY = document.documentElement.clientHeight - model.offsetHeight;
 
-        //范围限定
-        moveX=Math.min(maxX, Math.max(0,moveX))
-        moveY=Math.min(maxY, Math.max(0,moveY))
+    //范围限定
+    moveX = Math.min(maxX, Math.max(0, moveX));
+    moveY = Math.min(maxY, Math.max(0, moveY));
 
-        model.style.left = moveX + "px"　　
-        model.style.top = moveY + "px"　　　　　　　　　　
-    } else {
-        return;　　　　　　　　　　
-    }
+    model.style.left = moveX + "px";
+    model.style.top = moveY + "px";
+  } else {
+    return;
+  }
+};
 
-}
-
-document.onmouseup = function() {
-    isDrop = false; //设置为false不可移动
-}
-
+document.onmouseup = function () {
+  isDrop = false; //设置为false不可移动
+};
 
 // clientX、clientY 点击位置距离当前body可视区域的x，y坐标
 // pageX、pageY 对于整个页面来说，包括了被卷去的body部分的长度
@@ -297,23 +287,21 @@ div {
 
 ## API
 
-### 一、Object 
+### 一、Object
 
-#### [Object.values()]( https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/values )   返回给定对象自身可枚举值的数组。
+#### [Object.values()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/values) 返回给定对象自身可枚举值的数组。
 
 ```js
-var obj = { foo: 'bar', baz: 42 };
+var obj = { foo: "bar", baz: 42 };
 console.log(Object.values(obj)); // ['bar', 42]
 ```
 
-#### [Object.keys()]( https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/keys )：返回一个包含所有给定对象自身可枚举属性名称的数组。
+#### [Object.keys()](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)：返回一个包含所有给定对象自身可枚举属性名称的数组。
 
 ```js
-var obj = { 0: 'a', 1: 'b', 2: 'c' };
+var obj = { 0: "a", 1: "b", 2: "c" };
 console.log(Object.keys(obj)); // console: ['0', '1', '2']
 ```
-
-
 
 - Object.assign()
 
@@ -383,8 +371,8 @@ console.log(Object.keys(obj)); // console: ['0', '1', '2']
 
   设置对象的原型（即内部 `[[Prototype]]` 属性）。
 
--------
+---
 
 参考文章：
 
-[Javascript浅拷贝和深拷贝](https://segmentfault.com/a/1190000021239893)
+[Javascript 浅拷贝和深拷贝](https://segmentfault.com/a/1190000021239893)
