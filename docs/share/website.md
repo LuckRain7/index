@@ -335,6 +335,8 @@ sidebar: auto
 
 [Cool Backgrounds - 自动生成背景图片的工具网站，现在提供五种风格，每种都可以定制，看上去赏心悦目](https://coolbackgrounds.io/)
 
+[Toonify - 一个在线工具，可以将真人头像变成卡通头像。](https://toonify.justinpinkney.com/)
+
 ## HTML
 
 [HTML5UP + CSS 3 免费模版](https://html5up.net/)
@@ -561,6 +563,12 @@ sidebar: auto
 
 [网页骨架布局生成器 - 有些网页加载时，会显示一个骨架布局（上图），获取正式内容后再替换掉。这个在线工具就用来生成骨架布局，支持 React、React Native、Vue 和 普通 HTML。](https://skeletonreact.com/)
 
+[Aggie.io - 一个在线绘图工具，特点是可以多人实时协作绘制一幅作品。](https://aggie.io/)
+
+[Visual Mind AI - 一个在线工具，可以对网站的 UI 进行美学打分，告诉你百分之多少的人可能会喜欢你的网站。](https://myraah.io/visualmind)
+
+[Things come apart - 一个艺术项目，将各种东西拆开，零件放在一起，做成一张海报](https://www.toddmclellan.com/thingscomeapart)
+
 Repl.it - The world's leading online coding platform https://repl.it/
 
 HTML Reference - A free guide to all HTML elements and attributes. （HTML 指南） https://htmlreference.io/
@@ -603,11 +611,7 @@ https://www.gratisography.com
 
 https://skitterphoto.com
 
-https://picjumbo.com
-
-秀米
-
-135 编译器
+[Beautiful free stock photos](https://picjumbo.com)
 
 [XD 中文网](https://xd.94xy.com/)
 
