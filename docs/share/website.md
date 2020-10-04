@@ -575,6 +575,8 @@ sidebar: auto
 
 [Blacklight - 一个在线工具，可以检查某个网站使用了哪些追踪技术。](https://themarkup.org/blacklight)
 
+[Screely - 一个在线工具，可以生成网页展示效果的示意图。](https://www.screely.com/)
+
 Repl.it - The world's leading online coding platform https://repl.it/
 
 HTML Reference - A free guide to all HTML elements and attributes. （HTML 指南） https://htmlreference.io/
