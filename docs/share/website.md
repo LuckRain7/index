@@ -337,6 +337,8 @@ sidebar: auto
 
 [Toonify - 一个在线工具，可以将真人头像变成卡通头像。](https://toonify.justinpinkney.com/)
 
+[Wewatermark - 一个在线工具，可以为图片加上各种各样的水印。](https://wewatermark.com/)
+
 ## HTML
 
 [HTML5UP + CSS 3 免费模版](https://html5up.net/)
@@ -569,6 +571,10 @@ sidebar: auto
 
 [Things come apart - 一个艺术项目，将各种东西拆开，零件放在一起，做成一张海报](https://www.toddmclellan.com/thingscomeapart)
 
+[CurrentlyDown.com - 该网站可以查询，哪些服务现在正在宕机，以及宕机的历史记录。](http://currentlydown.com/)
+
+[Blacklight - 一个在线工具，可以检查某个网站使用了哪些追踪技术。](https://themarkup.org/blacklight)
+
 Repl.it - The world's leading online coding platform https://repl.it/
 
 HTML Reference - A free guide to all HTML elements and attributes. （HTML 指南） https://htmlreference.io/
@@ -634,4 +640,3 @@ https://www.ujpixels.com
 https://freebiesui.com
 
 https://uispace.net/
-

@@ -137,10 +137,10 @@ import HelloWorld from "./components/Cart";
         components: {
           default: Foo,
           a: Bar,
-          b: Baz
-        }
-      }
-    ]
+          b: Baz,
+        },
+      },
+    ],
   });
   ```
 
@@ -163,7 +163,7 @@ import HelloWorld from "./components/Cart";
       // 导航离开该组件的对应路由时调用
       // 可以访问组件实例 this
       // 通常用来禁止用户在还未保存修改前突然离开。该导航可以用过next（false）来取消
-    }
+    },
   };
   ```
 
@@ -183,12 +183,12 @@ export default {
       "increment", // 将 `this.increment()` 映射为 `this.$store.dispatch('increment')`
 
       // `mapActions` 也支持载荷：
-      "incrementBy" // 将 `this.incrementBy(amount)` 映射为 `this.$store.dispatch('incrementBy', amount)`
+      "incrementBy", // 将 `this.incrementBy(amount)` 映射为 `this.$store.dispatch('incrementBy', amount)`
     ]),
     ...mapActions({
-      add: "increment" // 将 `this.add()` 映射为 `this.$store.dispatch('increment')`
-    })
-  }
+      add: "increment", // 将 `this.add()` 映射为 `this.$store.dispatch('increment')`
+    }),
+  },
 };
 ```
 
@@ -215,7 +215,7 @@ router.beforeEach((to, from, next) => {
     } else {
       next({
         path: "/login",
-        query: { redirect: to.path }
+        query: { redirect: to.path },
       });
     }
   } else {
@@ -229,9 +229,9 @@ router.beforeEach((to, from, next) => {
 
 import axios from "axios";
 
-export default function(vm) {
+export default function (vm) {
   // 设置请求拦截器
-  axios.interceptors.request.use(config => {
+  axios.interceptors.request.use((config) => {
     // 获取token
     const token = localStorage.getItem("token");
     if (token) {
@@ -244,7 +244,7 @@ export default function(vm) {
   // 响应拦截器
   // 参数1表示成功响应
   // 这里只关心失败响应
-  axios.interceptors.response.use(null, err => {
+  axios.interceptors.response.use(null, (err) => {
     if (err.response.status === 401) {
       // 没有登录或者令牌过期
       // 清空vuex和localstorage
@@ -270,7 +270,7 @@ const secret = "it's a secret";
 const app = new Koa();
 const router = new Router();
 
-router.get("/api/login", async ctx => {
+router.get("/api/login", async (ctx) => {
   const { username, passwd } = ctx.query;
   console.log(username, passwd);
 
@@ -279,7 +279,7 @@ router.get("/api/login", async ctx => {
     const token = jwt.sign(
       {
         data: { name: "kaikeba" }, // 用户信息数据
-        exp: Math.floor(Date.now() / 1000) + 60 * 60 // 过期时间
+        exp: Math.floor(Date.now() / 1000) + 60 * 60, // 过期时间
       },
       secret
     );
@@ -290,7 +290,7 @@ router.get("/api/login", async ctx => {
   }
 });
 
-router.get("/api/userinfo", jwtAuth({ secret }), async ctx => {
+router.get("/api/userinfo", jwtAuth({ secret }), async (ctx) => {
   ctx.body = { code: 1, data: { name: "jerry", age: 20 } };
 });
 app.use(router.routes());
@@ -311,7 +311,7 @@ app.listen(3000);
   >
   > hash
 
-## Axios模块
+## Axios 模块
 
 ### 安装
 
@@ -326,94 +326,86 @@ yarn add axios
 ```js
 // 通过环境变量判断
 const BASEURL =
-  process.env.NODE_ENV === 'development'
-    ? '/data/'
-    : 'http://xxx.xxx.xxx.xxx:xxxx/xxx'
+  process.env.NODE_ENV === "development"
+    ? "/data/"
+    : "http://xxx.xxx.xxx.xxx:xxxx/xxx";
 
 // ajax请求地址
 const AJAX_PATH = {
-  getNavMenu: BASEURL + 'NavMenu', // 获取权限菜单信息
-  getUserInfo: BASEURL + 'UserInfo', //获取用户信息
-}
+  getNavMenu: BASEURL + "NavMenu", // 获取权限菜单信息
+  getUserInfo: BASEURL + "UserInfo", //获取用户信息
+};
 
-export default AJAX_PATH
+export default AJAX_PATH;
 ```
 
-2、封装axios模块 src\utils\http.js
+2、封装 axios 模块 src\utils\http.js
 
 ```js
-import axios from 'axios'
-import router from '../router/index.js'
+import axios from "axios";
+import router from "../router/index.js";
 
 const service = axios.create({
   timeout: 1000 * 30,
   withCredentials: true,
   headers: {
-    'Content-Type': 'application/json; charset=utf-8',
-    'Access-Control-Allow-Origin': '*'
-  }
-})
+    "Content-Type": "application/json; charset=utf-8",
+    "Access-Control-Allow-Origin": "*",
+  },
+});
 
 /*
  * 请求拦截
  */
 service.interceptors.request.use(
-  config => {
+  (config) => {
     // 在请求头添加与服务端协商好的token字段
-    config.headers['token'] = JSON.parse(localStorage.getItem('xxx-token'))
-    return config
+    config.headers["token"] = JSON.parse(localStorage.getItem("xxx-token"));
+    return config;
   },
-  error => {
-    return Promise.reject(error)
+  (error) => {
+    return Promise.reject(error);
   }
-)
+);
 
 /**
  * 响应拦截
  */
 service.interceptors.response.use(
-  response => {
+  (response) => {
     if (response.data && response.data.code === 401) {
       // 401, token失效
-      localStorage.removeItem('xxxx-token')
-      router.push({ name: 'Login' })
+      localStorage.removeItem("xxxx-token");
+      router.push({ name: "Login" });
     }
     if (response.data && response.data.code === 302) {
-      router.push('/')
+      router.push("/");
     }
-    return response
+    return response;
   },
-  error => {
+  (error) => {
     if (error.status === 404) {
-      router.push({ name: '404' })
+      router.push({ name: "404" });
     }
-    return Promise.reject(error)
+    return Promise.reject(error);
   }
-)
+);
 
-export default service
+export default service;
 ```
 
-3、在Vue中引入 src\main.js
+3、在 Vue 中引入 src\main.js
 
 ```js
-import Http from './utils/http.js'
-Vue.prototype.$http = Http
+import Http from "./utils/http.js";
+Vue.prototype.$http = Http;
 ```
 
 ## API
 
+## 解决 v-for 操作 DOM 后不更新问题
 
-
-
-
-
-
-
-
-
-
-
+对变量进行置空，再重新进行复制操作
 
 ---
 
