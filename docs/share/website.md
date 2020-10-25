@@ -303,9 +303,13 @@ sidebar: auto
 
 [Coolors - The super fast color schemes generator! - 创建完美的调色板或得到灵感来自成千上万的漂亮的配色方案](https://coolors.co/)
 
-[登录页设计 - 登录页的各种页面设计，可以免费下载模板。](https://cruip.com/)
+[登录页设计 - 登录页的各种页面设计，可以免费下载模板](https://cruip.com/)
 
-[CSS 渐变魔法 - 该网站收集各种 CSS 渐变图像，可以复制到自己的项目。](https://www.gradientmagic.com/)
+[CSS 渐变魔法 - 该网站收集各种 CSS 渐变图像，可以复制到自己的项目](https://www.gradientmagic.com/)
+
+[CSSfx - 该网站收集各种 CSS 特效，可以复制粘贴到自己的项目](https://cssfx.dev/)
+
+[CSS 3D - 该网页收集一些常用 CSS 3D 示例](https://polypane.app/css-3d-transform-examples/)
 
 ## 图片
 
@@ -576,6 +580,8 @@ sidebar: auto
 [Blacklight - 一个在线工具，可以检查某个网站使用了哪些追踪技术。](https://themarkup.org/blacklight)
 
 [Screely - 一个在线工具，可以生成网页展示效果的示意图。](https://www.screely.com/)
+
+[鲁迅资料在线检索系统 - 北京鲁迅博物馆的鲁迅资料检索工具，包括鲁迅著作和研究资料](http://cx.luxunmuseum.com.cn/)
 
 Repl.it - The world's leading online coding platform https://repl.it/
 
