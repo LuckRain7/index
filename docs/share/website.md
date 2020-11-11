@@ -583,6 +583,12 @@ sidebar: auto
 
 [鲁迅资料在线检索系统 - 北京鲁迅博物馆的鲁迅资料检索工具，包括鲁迅著作和研究资料](http://cx.luxunmuseum.com.cn/)
 
+[Profile Pic Maker - 一个在线工具，上传人像照片，可以自动提取头像，生成大头照图片。](https://pfpmaker.com/)
+
+[H5-Dooring - 一个可视化制作 H5 页面的在线工具。](https://github.com/MrXujiang/h5-Dooring)
+
+[Draw On PDF - 一个在 PDF 文件上作图的在线工具。](https://www.goodannotations.com/tools/draw-on-pdf)
+
 Repl.it - The world's leading online coding platform https://repl.it/
 
 HTML Reference - A free guide to all HTML elements and attributes. （HTML 指南） https://htmlreference.io/
