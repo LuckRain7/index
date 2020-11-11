@@ -255,6 +255,8 @@ sidebar: auto
 
 [基于模型的机器学习 - 开源电子书，通过真实案例掌握机器学习。](http://mbmlbook.com/)
 
+[计算机科学的数学基础 - 麻省理工学院的初等数学教材。](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+
 ## 有趣
 
 [github-rank - Github 中国用户排名](https://github.com/jaywcjlove/github-rank)
@@ -262,6 +264,8 @@ sidebar: auto
 [Dork-Admin - 这是一个中文仓库，盘点世界上比较重大的数据泄漏事件](https://github.com/No-Github/Dork-Admin)
 
 [chinese-programmer-wrong-pronunciation - 中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
+
+[ChineseBQB - 开源表情包搜索工具](https://www.v2fy.com/asset/0i/ChineseBQB/)
 
 ## 软件
 
