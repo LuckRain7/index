@@ -257,6 +257,8 @@ sidebar: auto
 
 [计算机科学的数学基础 - 麻省理工学院的初等数学教材。](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 
+[命令行的艺术 - 一篇命令行的详细介绍，各种任务可以使用什么命令。](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+
 ## 有趣
 
 [github-rank - Github 中国用户排名](https://github.com/jaywcjlove/github-rank)
