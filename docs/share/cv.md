@@ -32,11 +32,9 @@ CRDT 算法用于分布式服务实现数据同步，比如同一篇文档的多
 
 [ZIP 压缩算法详细分析 - 使用通俗的语言介绍 ZIP 算法，文章较长。](https://www.cnblogs.com/esingchan/p/3958962.html)
 
-[新人要学习的机器学习十大算法 - 本文介绍了机器学习最基本的十种算法，比如线性回归、朴素贝叶斯、KNN聚合等。](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
+[新人要学习的机器学习十大算法 - 本文介绍了机器学习最基本的十种算法，比如线性回归、朴素贝叶斯、KNN 聚合等。](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
 
 [压缩算法的解释 - 压缩是最常用的功能之一，压缩算法一般分成两大类：基于熵的压缩和基于字典的压缩。本文简单解释这两类算法的原理，以及将它们合在一起的 deflate 算法。](http://www.codersnotes.com/notes/elegance-of-deflate/)
-
-
 
 ## 待看
 
@@ -77,3 +75,9 @@ CRDT 算法用于分布式服务实现数据同步，比如同一篇文档的多
 [如何计算月相 - 地球看到的月亮形状是不一样的，本文通过可视化图形，解释如何通过三角函数计算月相](http://witchy.co/trig/)
 
 [advanced-java - Java 互联网开发的知识笔记，涉及 MQ、ES、Redis 等周边工具。](https://github.com/doocs/advanced-java)
+
+## 待整理
+
+[Benchmarks Game - 常用编程语言（27 种）的两两性能对比，发现哪种语言最快。](https://benchmarksgame-team.pages.debian.net/benchmarksgame/)
+
+[Dependabot 服务介绍 - 最近，GitHub 收购了 Dependabot，并将它的服务完全免费了。本文介绍如何使用这个非常好的依赖管理工具](https://nimbleindustries.io/2019/05/26/dependabot-is-now-free-and-its-amazing/)

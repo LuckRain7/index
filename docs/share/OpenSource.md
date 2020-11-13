@@ -67,19 +67,19 @@ sidebar: auto
 
 [Gitea - 类似于 GitHub 和 GitLab 的开源项目，用于个人架设 Git 代码托管服务，使用 Go 语言实现。](https://gitea.io/en-us/)
 
-[Chakra UI - 一个 React 组件库，UI 很优雅。](https://chakra-ui.com/)
+[ React ][chakra ui - 一个 react 组件库，ui 很优雅。](https://chakra-ui.com/)
 
 [roughViz.js - 一个生成手绘风格的网页图表的 JS 库。](https://github.com/jwilber/roughViz)
 
-[Mac 系统免费软件 - 有人整理出了一份 Mac 系统免费软件清单。](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md)
+[ Mac ][mac 系统免费软件 - 有人整理出了一份 mac 系统免费软件清单。](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md)
 
 [fusuma - 直接将 Markdown 文档转换生成幻灯片。](https://github.com/hiroppy/fusuma)
 
-[markdown-it - markdown-it 算是最好用的 markdown parse 之一了。markdown 解析看起来简单，其实细节挺多。比如代码需要高亮，链接需要识别。markdown-it 的插件可以搞定这些。](https://github.com/markdown-it/markdown-it)
+[ JavaScript ][ markdown-it - markdown-it 算是最好用的 markdown parse 之一了。markdown 解析看起来简单，其实细节挺多。比如代码需要高亮，链接需要识别。markdown-it 的插件可以搞定这些。](https://github.com/markdown-it/markdown-it)
 
 [PicGo - PicGo 是一个不错的图床工具，天天在用。除了使用 eletron 编写比较耗内存，以及只能上传图标不能上传其他文件外，没啥毛病，挺好的。](https://github.com/Molunerfinn/PicGo)
 
-[chroma.js - 一个处理颜色的 JS 库。](https://github.com/gka/chroma.js)
+[ JavaScript ][ chroma.js - 一个处理颜色的 js 库。](https://github.com/gka/chroma.js)
 
 [lightify - 一个反向代理服务器，主要特点是进行了各种优化和压缩，号称可以把网站速度提高 3 到 4 倍。](https://medium.com/@alash3al/speed-any-website-by-3-4x-without-any-hassle-97ab34974dbc)
 
@@ -87,7 +87,7 @@ sidebar: auto
 
 [i-hate-regex](https://github.com/geongeorge/i-hate-regex)
 
-[word_cloud - 基于 Python 的词云库](https://github.com/amueller/word_cloud)
+[ Python ][ word_cloud - 基于 python 的词云库](https://github.com/amueller/word_cloud)
 
 [HoServer 是基于 Node.js 开发开箱即用的后台服务和管理平台脚手架，可视化对象定义，一行代码实现增删改查所有接口，内置用户、权限等基本功能。基于 HoServer 可在短时间内开发出高质量的 RESTful API 服务和管理平台，助您大幅缩短项目开发周期，降低开发成本。是您产品占领窗口快速推向市场、接项目提升客户满意度的利器。](https://github.com/hello-react/HoServer)
 
@@ -95,7 +95,7 @@ sidebar: auto
 
 [TablePlus(一个支持多种关系型数据库的图形界面的数据库管理工具)](https://tableplus.com/)
 
-[[ CSS ] pattern.css(一个纯 CSS 库，提供各种形状的背景图案)](https://github.com/bansal-io/pattern.css)
+[ CSS ][ pattern.css(一个纯 css 库，提供各种形状的背景图案)](https://github.com/bansal-io/pattern.css)
 
 [Hero Patterns | Free repeatable SVG background patterns for your web projects](http://www.heropatterns.com/)
 
@@ -117,7 +117,7 @@ sidebar: auto
 
 [booster - 滴滴推出的针对移动应用的质量优化工具包](https://github.com/didi/booster)
 
-[[ VuePress ] vdoing - VuePress 的一款主题，可以用于个人博客或知识管理。](https://github.com/xugaoyi/vuepress-theme-vdoing)
+[ VuePress ][ vdoing - vuepress 的一款主题，可以用于个人博客或知识管理。](https://github.com/xugaoyi/vuepress-theme-vdoing)
 
 [ WebGIS ][ arcgis-api-for-javacsript - ](https://github.com/CarpenterGISer/ArcGIS-API-For-Javacsript)
 
@@ -125,11 +125,11 @@ sidebar: auto
 
 [ Node ][ node.js best practices (node.js 最佳实践)](https://github.com/goldbergyoni/nodebestpractices)
 
-[[ Deno ] Deno 官方仓库](https://github.com/denoland/deno)
+[ Deno ][ deno 官方仓库](https://github.com/denoland/deno)
 
-[[ Tool ] percollate - 命令行抓取网页，生成 PDF 文件的工具。](https://github.com/danburzo/percollate)
+[ Tool ][percollate - 命令行抓取网页，生成 pdf 文件的工具。](https://github.com/danburzo/percollate)
 
-[ Tool ][ form-create - 一个可以通过 json 自动生成具有动态渲染、数据收集、验证和提交功能的表单生成器。结合内置多种常用表单组件和自定义组件，轻松搞定复杂的表单，支持 iview、element-ui、and-design-vue](https://github.com/xaboy/form-create)
+[ Tool ][form-create - 一个可以通过 json 自动生成具有动态渲染、数据收集、验证和提交功能的表单生成器。结合内置多种常用表单组件和自定义组件，轻松搞定复杂的表单，支持 iview、element-ui、and-design-vue](https://github.com/xaboy/form-create)
 
 [ Tool ][ jexcel - 一个轻量级、功能强大的电子表格库。轻松实现复杂数据的表格管理，支持 js 数组、json、csv 等数据，并且可以实现 excel 文件的直接复制和粘贴](https://github.com/paulhodel/jexcel)
 
@@ -146,6 +146,8 @@ sidebar: auto
 [ CSS ][ instagram.css - 一个 css 开源库，提供纯 css 的 instagram 滤镜实现](https://github.com/picturepan2/instagram.css)
 
 [ JavaScript ][ danfo.js - 一个提供跟 pandas 相同功能的 js 数学计算库](https://github.com/opensource9ja/danfojs)
+
+[ JavaScript ][ presenta-software/presenta-lib - js 的网页幻灯片库](https://github.com/presenta-software/presenta-lib)
 
 [ JavaScript ][ 33 个 js 程序员需要知道的概念 - 按照主题，收集 js 学习资源的仓库。](https://github.com/leonardomso/33-js-concepts)
 
@@ -258,6 +260,8 @@ sidebar: auto
 [计算机科学的数学基础 - 麻省理工学院的初等数学教材。](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 
 [命令行的艺术 - 一篇命令行的详细介绍，各种任务可以使用什么命令。](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+
+[线性代数 - 《线性代数》的英文免费教材，针对初学者。](https://hefferon.net/linearalgebra/)
 
 ## 有趣
 
