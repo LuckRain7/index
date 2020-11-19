@@ -121,7 +121,7 @@ sidebar: auto
 
     - 文件上传
 
-    - Axios源码分析
+    - [Axios源码分析](https://github.com/LuckRain7/Knowledge-Sharing/blob/master/translate/axios.md)
 
   - WebSocket
 
