@@ -216,7 +216,7 @@ sidebar: auto
 
 > lodash 是一套工具库，内部封装了字符串、数组、对象等常见数据类型的处理函数。
 >
-> 网址：[[ https://lodash.com/ ]](https://lodash.com/)
+> 网址：[[https://lodash.com/]](https://lodash.com/)
 
 #### purifycss
 
@@ -290,13 +290,13 @@ sidebar: auto
 
 > 主要用来解决移动端触摸滑动，像什么轮播图啊，上下滑动啊，用它就对了~
 >
-> 网址：[[ https://swiperjs.com/ ]](https://swiperjs.com/)
+> 网址：[[https://swiperjs.com/]](https://swiperjs.com/)
 
 #### fullPage
 
 > 非常好用的全屏滑动库，去官网看 demo 就能感受到了~
 >
-> 网址： [[ https://alvarotrigo.com/fullPage/zh/#page2 ]](https://alvarotrigo.com/fullPage/zh/#page2)
+> 网址： [[https://alvarotrigo.com/fullPage/zh/#page2]](https://alvarotrigo.com/fullPage/zh/#page2)
 
 #### PhotoSwipe
 
@@ -304,13 +304,13 @@ sidebar: auto
 >
 > **Swiper + PhotoSwipe + fullPage** 这 3 个一配合，微信里常见的 H5 页完全不是问题哒！！！😝
 >
-> 网址：[[ https://github.com/dimsemenov/photoswipe ]](https://github.com/dimsemenov/photoswipe)
+> 网址：[[https://github.com/dimsemenov/photoswipe]](https://github.com/dimsemenov/photoswipe)
 
 #### HAMMER. JS
 
 > 移动端手势库，挺不错滴~
 >
-> 网址：[[ https://github.com/hammerjs/hammer.js ]](https://github.com/hammerjs/hammer.js)
+> 网址：[[https://github.com/hammerjs/hammer.js]](https://github.com/hammerjs/hammer.js)
 
 ## 13. Node
 

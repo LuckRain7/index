@@ -247,6 +247,8 @@ sidebar: auto
 
 [isoflow - 一个绘制示意图的在线工具](https://isoflow.io/)
 
+[Wireflow - 一个开源的在线工具，用来画流程图和线框图](https://wireflow.co/)
+
 ## 设计
 
 [uiGradients - Beautiful colored gradients 一个收集渐变色样式的网站](https://uigradients.com/)
@@ -463,6 +465,8 @@ sidebar: auto
 
 [航班实时追踪 - 国内做的全球航班实时位置展示，国内航班的覆盖是全球最好的](http://flightadsb.variflight.com/)
 
+[世界海底光缆 - 该网站是世界海底光缆的互动式地图。](https://www.submarinecablemap.com/)
+
 ## 学习
 
 [SQL Teaching(英文) - 一个针对初学者的 SQL 简单教程，通过在网页上运行示例来学习 SQL。](https://www.sqlteaching.com/)
@@ -589,11 +593,13 @@ sidebar: auto
 
 [Draw On PDF - 一个在 PDF 文件上作图的在线工具。](https://www.goodannotations.com/tools/draw-on-pdf)
 
+[Coded Mails - 响应式电子邮件模版下载](https://codedmails.com/)
 
+[VS Code can do that?! - 该网站收集 VS Code 能够实现的各种高级功能教程](https://www.vscodecandothat.com/)
 
-Repl.it - The world's leading online coding platform https://repl.it/
+[Repl.it - 在线编辑器](https://repl.it/)
 
-HTML Reference - A free guide to all HTML elements and attributes. （HTML 指南） https://htmlreference.io/
+[HTML Reference - A free guide to all HTML elements and attributes. （HTML 指南）](https://htmlreference.io/)
 
 https://www.pexels.com
 
@@ -633,12 +639,6 @@ https://www.gratisography.com
 
 https://skitterphoto.com
 
-[Beautiful free stock photos](https://picjumbo.com)
-
-[XD 中文网](https://xd.94xy.com/)
-
-[XD 资源网 - 提供 AdobeXD 最新软件,素材模板下载,教程视频,工具插件](https://www.xdccpro.com/)
-
 https://www.xdguru.com/
 
 https://psdrepo.com/
@@ -656,3 +656,9 @@ https://www.ujpixels.com
 https://freebiesui.com
 
 https://uispace.net/
+
+[Beautiful free stock photos](https://picjumbo.com)
+
+[XD 中文网](https://xd.94xy.com/)
+
+[XD 资源网 - 提供 AdobeXD 最新软件,素材模板下载,教程视频,工具插件](https://www.xdccpro.com/)

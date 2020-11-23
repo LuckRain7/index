@@ -2,18 +2,27 @@
 sidebar: auto
 ---
 
+<style>
+.icon.outbound{
+    display:none;
+}
+</style>
+
 # 开源项目
 
-<!--
+## 1. 图像类项目
 
-[JavaScript]
-[   CSS    ]
-[   HTML   ]
-[   Deno   ]
-[  NodeJS  ]
-[Vue]
+[benhowdle89/grade](https://github.com/benhowdle89/grade) - This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images.(这个 JS 库可以从图像提取两种主要颜色，然后生成渐变色背景 (npm install grade-js))
 
--->
+## 2. 资源类项目
+
+[free-api - 收集免费的接口服务, 做一个 api 的搬运工](https://github.com/fangzesheng/free-api)
+
+[谷粒-Chrome 插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
+
+## 待整理
+
+[transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers 🐶（一个文件上传的 JS 库）
 
 [Luckysheet - 一个网页表格库，类似 Excel 的效果。](https://github.com/mengshukeji/Luckysheet)
 
@@ -27,11 +36,7 @@ sidebar: auto
 
 [📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++](https://github.com/CyC2018/CS-Notes)
 
-[free-api - 收集免费的接口服务, 做一个 api 的搬运工](https://github.com/fangzesheng/free-api)
-
 [JavaScript 进阶问题列表](https://github.com/lydiahallie/javascript-questions/blob/master/zh-CN/README-zh_CN.md)
-
-[谷粒-Chrome 插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
 
 [TNFE-Weekly - 每周为你提供高质量的关于小程序、h5 等前端领域的文章和项目](https://github.com/Tnfe/TNFE-Weekly)
 
