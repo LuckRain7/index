@@ -7,21 +7,20 @@ sidebar: auto
 ## 常用网站
 
 [Google](https://www.google.com/)
-| [前端开发日报-前端开发博客](http://caibaojian.com/c/news)
 | [龙猫学术导航](http://www.6453.net/)
 | [MDN Web 文档](https://developer.mozilla.org/zh-CN/)
 | [有道词典](http://dict.youdao.com/)
 
 [奶牛快传](https://cowtransfer.com/)
-| [pc6-下载站](http://www.pc6.com/)
+| [pc6 下载站](http://www.pc6.com/)
 | [扩展迷](https://extfans.com/)
-| [BootCDN - CDN 加速服务](http://www.bootcdn.cn/)
+| [BootCDN](http://www.bootcdn.cn/)
 | [百度脑图](https://naotu.baidu.com/)
 
 [精准云工具](https://jingzhunyun.com/)
 | [微词云](https://www.weiciyun.com/)
 | [有道云笔记](http://note.youdao.com/)
-| [Magi - 搜索](https://magi.com/)
+| [Magi 搜索](https://magi.com/)
 | [NPM](https://www.npmjs.com/)
 
 [VS Code](https://marketplace.visualstudio.com/vscode)
@@ -29,23 +28,20 @@ sidebar: auto
 | [InfoQ](http://www.infoq.com/cn/)
 | [HelloGitHub 分享](https://hellogithub.com/)
 
-[i Hate Regex - 可快速检索并匹配到合适的正则表达式，帮你完成如用户名、邮箱、日期、手机号码、密码等常见规则的验证。](https://ihateregex.io/)
-
-[MarkDown 排版](https://mdnice.com/)
+[i Hate Regex](https://ihateregex.io/)
+| [MarkDown 排版](https://mdnice.com/)
 
 ## 查询
 
 [wiby - 一个极简的搜索引擎，加载速度很快。](https://wiby.org/)
 
-[MDN 最强前端 API 查询！](https://developer.mozilla.org/zh-CN/)
-
 [在线手册中心](https://docs.pythontab.com/)
 
 [Devdocs](https://devdocs.io/)
 
-[Gitenberg - 一个公共领域的英文电子书的搜索引擎](https://www.gitenberg.org/)
+[Gitenberg - 公共领域的英文电子书的搜索引擎](https://www.gitenberg.org/)
 
-[Yandex 图片搜索 - 俄罗斯的搜索引擎 Yandex，我觉得体验不错，尤其是相似图片搜索，比谷歌好用。国内好像还没有被屏蔽](https://yandex.com/images/)
+[Yandex - 图片搜索引擎](https://yandex.com/images/)
 
 [Tools for FrontEnd developers - 收集前端开发各方面的工具](http://frontendtools.com/)
 
@@ -58,34 +54,33 @@ sidebar: auto
 [GitHub 上整理 中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
 
 [淘系前端团队(FED)](https://fed.taobao.org/)
-|[百度 EFE(Excellent FrontEnd)](https://efe.baidu.com/)
-|[腾讯 AlloyTeam](http://www.alloyteam.com/)
-|[WecTeam](https://wecteam.io/)
+| [百度 EFE(Excellent FrontEnd)](https://efe.baidu.com/)
+| [腾讯 AlloyTeam](http://www.alloyteam.com/)
+|[ WecTeam](https://wecteam.io/)
 
 [奇舞团 - 360](https://75.team/)
-|[凹凸实验室](https://aotu.io/)
-|[JDC 京东设计中心](http://jdc.jd.com/)
-|[携程 UED](http://ued.ctrip.com/)
-|[美团技术团队](https://tech.meituan.com/)
+| [凹凸实验室](https://aotu.io/)
+| [JDC 京东设计中心](http://jdc.jd.com/)
+| [携程 UED](http://ued.ctrip.com/)
+| [美团技术团队](https://tech.meituan.com/)
 
 [Paper 安全技术精粹](https://paper.seebug.org/)
-|[Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
+| [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 
 [木易杨前端进阶](https://www.muyiy.cn/)
-|[张鑫旭个人主页](https://www.zhangxinxu.com/)
-|[神三元的博客](http://47.98.159.95/my_blog/)
-|[冴羽博客](https://github.com/mqyqingfeng/Blog)
+| [张鑫旭个人主页](https://www.zhangxinxu.com/)
+| [神三元的博客](http://47.98.159.95/my_blog/)
+| [冴羽博客](https://github.com/mqyqingfeng/Blog)
 
 [awesome-coding-js 用 JavaScript 实现的算法和数据结构](http://www.conardli.top/docs/)
 
 [前端面试与进阶指南](https://www.cxymsg.com/)
 
 [全栈修炼](https://biaochenxuying.github.io/blog/)
-|[前端小智](https://github.com/qq449245884/xiaozhi)
-|[翁天信](https://www.dandyweng.com/)
-|[Barret 李靖](https://www.barretlee.com/)
-
-[云谦 - blog](https://github.com/sorrycc/blog)
+| [前端小智](https://github.com/qq449245884/xiaozhi)
+| [翁天信](https://www.dandyweng.com/)
+| [Barret 李靖](https://www.barretlee.com/)
+| [云谦](https://github.com/sorrycc/blog)
 
 [程序员开发学习博客](https://www.maiyewang.com/)
 
@@ -177,7 +172,7 @@ sidebar: auto
 
 [Squoosh - 谷歌在线图片压缩](https://squoosh.app/)
 
-[ProcessOn 在线画图](https://www.processon.com/)
+[ProcessOn - 在线画图](https://www.processon.com/)
 
 [CodeLF 变量取名字网站](https://unbug.github.io/codelf)
 
@@ -293,9 +288,9 @@ sidebar: auto
 
 [Feature Icons - 开源图标库 提供一些 24x24 的常用图标](https://github.com/feathericons/feather)
 
-[稿定设计 - 做图做视频必备*在线设计神器*海量版权素材模板](https://www.gaoding.com/)
+[稿定设计 - 做图做视频必备在线设计神器海量版权素材模板](https://www.gaoding.com/)
 
-[微 Fotor 在线设计工具*免费设计素材和模板*在线平面设计网站](https://www.fotor.com.cn/templates/wxcode/)
+[微 Fotor 在线设计工具免费设计素材和模板在线平面设计网站](https://www.fotor.com.cn/templates/wxcode/)
 
 [Pxcook - 高效易用的自动标注工具, 生成前端代码, 设计研发协作利器](https://www.fancynode.com.cn/pxcook)
 
@@ -367,7 +362,7 @@ sidebar: auto
 
 [JavaScript Fun - 代码库集合](https://www.javascript.fun/)
 
-[JS Bin - 另一个轻量级在线编辑器网站，界面简洁干净，临时想调试简单的 HTML 或 JS 代码可以考虑去这里试一试。](https://jsbin.com/)
+[JS Bin - 轻量级在线编辑器网站](https://jsbin.com/)
 
 [《Node.js 技术栈》，旨在为大家提供一个较详细的学习教程，侧重点更倾向于 Node.js 服务端所涉及的技术栈](https://www.nodejs.red/#/)
 
@@ -381,11 +376,15 @@ sidebar: auto
 
 [A Visual Guide to CSS3 Flexbox Properties ― Scotch.io （可视化布局）](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 
-[css-protips (CSS 专业技巧)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
+[css-protips - CSS 专业技巧](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
 
-[CSS-Tricks （学习 CSS）](https://css-tricks.com/)
+[CSS-Tricks - 学习 CSS）](https://css-tricks.com/)
 
 ## 有趣的网站
+
+[Things come apart - 一个艺术项目，将各种东西拆开，零件放在一起，做成一张海报](https://www.toddmclellan.com/thingscomeapart)
+
+[timelineofearth - 网页展示地球演化的 46 亿年](http://timelineofearth.com/)
 
 > 以下网站希望大家自己去探索
 
@@ -407,17 +406,15 @@ sidebar: auto
 
 [土味情话](https://github.com/zerosoul/honeyed-words-generator)
 
+## 其他
+
 [Shakespearean Insulter](http://www.pangloss.com/seidel/Shaker/index.html?)
 
-[Topbook | 高效生活视频书](https://topbook.cc/overview)
+[Topbook - 高效生活视频书](https://topbook.cc/overview)
 
 [codefence - an easily embeddable interactive code editor（截图不错）](https://codefence.io/)
 
-[timelineofearth - 网页展示地球演化的 46 亿年](http://timelineofearth.com/)
-
 [QRpicture - 一个在线工具，把图片变成可以扫描的二维码。](https://www.qrpicture.com/)
-
-## 其他
 
 [成都 Web 开发者大会](https://web-conf.dev/#2020/)
 
@@ -465,11 +462,15 @@ sidebar: auto
 
 [航班实时追踪 - 国内做的全球航班实时位置展示，国内航班的覆盖是全球最好的](http://flightadsb.variflight.com/)
 
-[世界海底光缆 - 该网站是世界海底光缆的互动式地图。](https://www.submarinecablemap.com/)
+[世界海底光缆 - 世界海底光缆的互动式地图](https://www.submarinecablemap.com/)
+
+[木材数据库 - 该网站收集全世界各种木材的信息](https://www.wood-database.com/wood-articles/top-ten-hardest-woods/)
 
 ## 学习
 
 [SQL Teaching(英文) - 一个针对初学者的 SQL 简单教程，通过在网页上运行示例来学习 SQL。](https://www.sqlteaching.com/)
+
+[深度学习 - fast.ai 免费的深度学习课程。（英文）](https://www.kdnuggets.com/2018/07/fast-ai-deep-learning-part-1-notes.html)
 
 ## 待整理
 
@@ -500,8 +501,6 @@ sidebar: auto
 [Science Fiction Interfaces - 该网站收集科幻影视作品里面出现的计算机界面设计。](http://sciencefictioninterfaces.tumblr.com/)
 
 [计算机科学家 Tim Bray 的博客](https://www.tbray.org/ongoing/)
-
-[木材数据库 - 该网站收集全世界各种木材的信息。链接给出的是全世界硬度最高的十种木材。](https://www.wood-database.com/wood-articles/top-ten-hardest-woods/)
 
 [漫威 API - 漫威公司将自己的漫画资源做成 API 开放。](https://developer.marvel.com/)
 
@@ -557,8 +556,6 @@ sidebar: auto
 
 [Sketch 2 Code - 微软的在线工具，将手绘草图转成 HTML 代码。](https://sketch2code.azurewebsites.net/)
 
-[深度学习 - fast.ai 免费的深度学习课程。（英文）](https://www.kdnuggets.com/2018/07/fast-ai-deep-learning-part-1-notes.html)
-
 [Compiler Explorer - 一个在线的编译器学习工具，可以显示高级语言对应的汇编代码，支持多种语言。](https://godbolt.org/)
 
 [COVID-19 舆论新闻可视化 - 山东大学 VisLab 的一个可视化项目，分析疫情对舆论和新闻的影响。](https://pearmini.gitee.io/ncovis-2020/#/)
@@ -576,8 +573,6 @@ sidebar: auto
 [Aggie.io - 一个在线绘图工具，特点是可以多人实时协作绘制一幅作品。](https://aggie.io/)
 
 [Visual Mind AI - 一个在线工具，可以对网站的 UI 进行美学打分，告诉你百分之多少的人可能会喜欢你的网站。](https://myraah.io/visualmind)
-
-[Things come apart - 一个艺术项目，将各种东西拆开，零件放在一起，做成一张海报](https://www.toddmclellan.com/thingscomeapart)
 
 [CurrentlyDown.com - 该网站可以查询，哪些服务现在正在宕机，以及宕机的历史记录。](http://currentlydown.com/)
 
@@ -600,6 +595,12 @@ sidebar: auto
 [Repl.it - 在线编辑器](https://repl.it/)
 
 [HTML Reference - A free guide to all HTML elements and attributes. （HTML 指南）](https://htmlreference.io/)
+
+[Beautiful free stock photos](https://picjumbo.com)
+
+[XD 中文网](https://xd.94xy.com/)
+
+[XD 资源网 - 提供 AdobeXD 最新软件,素材模板下载,教程视频,工具插件](https://www.xdccpro.com/)
 
 https://www.pexels.com
 
@@ -656,9 +657,3 @@ https://www.ujpixels.com
 https://freebiesui.com
 
 https://uispace.net/
-
-[Beautiful free stock photos](https://picjumbo.com)
-
-[XD 中文网](https://xd.94xy.com/)
-
-[XD 资源网 - 提供 AdobeXD 最新软件,素材模板下载,教程视频,工具插件](https://www.xdccpro.com/)
