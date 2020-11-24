@@ -340,6 +340,8 @@ sidebar: auto
 
 [Wewatermark - 一个在线工具，可以为图片加上各种各样的水印。](https://wewatermark.com/)
 
+[Calligrapher.ai - 一个在线工具，可以将英文输入变成手写体，并具有动画效果，提供 SVG 格式下载](https://www.calligrapher.ai/)
+
 ## HTML
 
 [HTML5UP + CSS 3 免费模版](https://html5up.net/)
@@ -382,6 +384,8 @@ sidebar: auto
 
 ## 有趣的网站
 
+[宇宙模型 - 一个浏览器的 3D 显示实验项目，在网页上展示 10 万颗恒星，讲解宇宙知识。](http://stars.chromeexperiments.com/)
+
 [Things come apart - 一个艺术项目，将各种东西拆开，零件放在一起，做成一张海报](https://www.toddmclellan.com/thingscomeapart)
 
 [timelineofearth - 网页展示地球演化的 46 亿年](http://timelineofearth.com/)
@@ -405,6 +409,8 @@ sidebar: auto
 [斗图啦 - 真正的斗图网站 ](https://www.doutula.com/)
 
 [土味情话](https://github.com/zerosoul/honeyed-words-generator)
+
+[Sharkle - 随机打开一个有趣的网站](https://sharkle.com/)
 
 ## 其他
 
@@ -465,6 +471,8 @@ sidebar: auto
 [世界海底光缆 - 世界海底光缆的互动式地图](https://www.submarinecablemap.com/)
 
 [木材数据库 - 该网站收集全世界各种木材的信息](https://www.wood-database.com/wood-articles/top-ten-hardest-woods/)
+
+[A List of Post-mortems - 收集各大互联网公司网络事故的事后分析报告](https://github.com/danluu/post-mortems)
 
 ## 学习
 

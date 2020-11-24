@@ -16,6 +16,8 @@ sudo chmod -R 777 . ## 为当前目录及子目录搜于读写权限
 
 [Rectangle - 窗口管理神器](https://github.com/rxhanson/Rectangle)
 
+[duf - 磁盘空间占用统计工具](https://github.com/muesli/duf)
+
 New File Menu - 右键快捷新建文件软件
 
 Parallesls Desktop 15 - 虚拟机
