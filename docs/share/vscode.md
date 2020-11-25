@@ -4,7 +4,15 @@ sidebar: auto
 
 # VS Code 插件推荐
 
-## 1. 前端插件
+## 1 ~ 前端插件
+
+### Highlight Matching Tag <a style="font-size:1px;" target="_blank" href="https://github.com/vincaslt/vscode-highlight-matching-tag">github</a>
+
+HTML 标签的高亮匹配插件
+
+![demo](https://images2.imgbox.com/71/2a/zIA1XCzK_o.gif)
+
+---
 
 ### Snipsnap
 
