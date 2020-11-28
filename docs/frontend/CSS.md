@@ -36,6 +36,8 @@ sidebar: auto
 > background-attachment 设置背景图片是固定还是滚动
 >
 > background-position 设置背景图像的起始位置
+>
+> background-size 设置背景图像的大小
 
 ```css
 background: #ffffff url("../assets/zcmap.png") no-repeat 5px 5px; //集合写法
@@ -53,9 +55,14 @@ background-attachment: scroll; // 默认值。背景图像会随着页面其余�
 background-attachment: fixed; // 当页面的其余部分滚动时，背景图像不会移动。
 background-attachment: inherit; // 规定应该从父元素继承 background-attachment 属性的设置。
 
-background-position: 5px 5px; //第一个值是水平位置，第二个值是垂直，如果仅指定一个关键字，其他值将会是50%
-background-position: 5% 5%; //第一个值是水平位置，第二个值是垂直，如果仅指定一个关键字，其他值将会是50%
-background-position: left top; //位置英文  如果仅指定一个关键字，其他值将会是"center"
+background-position: 5px 5px; // 第一个值是水平位置，第二个值是垂直，如果仅指定一个关键字，其他值将会是50%
+background-position: 5% 5%; // 第一个值是水平位置，第二个值是垂直，如果仅指定一个关键字，其他值将会是50%
+background-position: left top; // 位置英文  如果仅指定一个关键字，其他值将会是"center"
+
+background-size: 80px 60px; // 设置背景图片高度和宽度。第一个值设置宽度，第二个值设置的高度。如果只给出一个值，第二个是设置为 auto(自动)
+background-size: 80 60; // 将计算相对于背景定位区域的百分比
+background-size: cover; // 	保持图像的纵横比并将图像缩放成将完全覆盖背景定位区域的最小大小
+background-size: contain; // 保持图像的纵横比并将图像缩放成将适合背景定位区域的最大大小
 ```
 
 ## 平滑滚动
