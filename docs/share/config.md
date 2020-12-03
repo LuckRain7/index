@@ -9,6 +9,8 @@ sidebar: auto
 > 官网：[ https://prettier.io/ ](https://prettier.io/)
 >
 > 代码格式化配置
+>
+> 配置 prettier 忽略：`// prettier-ignore`
 
 ```json
 {
