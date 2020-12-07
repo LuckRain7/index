@@ -198,3 +198,28 @@ $highlight-color: #f90;
   background: rgba(0, 0, 0, 0.1);
 }
 ```
+
+## Y 轴为中心 css 旋转动画
+
+```css
+@-webkit-keyframes rotate {
+  from {
+    -webkit-transform: rotateY(360deg);
+  }
+  to {
+    -webkit-transform: rotateY(0deg);
+  }
+}
+@keyframes rotate {
+  from {
+    -webkit-transform: rotateY(360deg);
+  }
+  to {
+    -webkit-transform: rotateY(0deg);
+  }
+}
+.xuanzhuan {
+  animation: rotate 1.5s infinite;
+  -webkit-animation: rotate 1.5s infinite;
+}
+```
