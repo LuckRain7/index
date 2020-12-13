@@ -49,3 +49,7 @@ export NVM_DIR="$HOME/.nvm"
 **Yarn 配置**
 
 export PATH="$PATH:/Users/rain/APP/yarn-v1.22.4/bin/"
+
+## 文件位置
+
+Git 配置文件地址: ~/.gitconfig

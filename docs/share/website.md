@@ -390,8 +390,6 @@ sidebar: auto
 
 [timelineofearth - 网页展示地球演化的 46 亿年](http://timelineofearth.com/)
 
-> 以下网站希望大家自己去探索
-
 [The Wick Editor（纯英文）](https://www.wickeditor.com/#/)
 
 [毒鸡汤 - 壮士可要来一碗！](http://www.nows.fun/)
