@@ -2,29 +2,28 @@
 sidebar: auto
 ---
 
-<style>
-.icon.outbound{
-    display:none;
-}
-</style>
-
 # 开源项目
 
 ## 1. 图像类项目
 
-[benhowdle89/grade](https://github.com/benhowdle89/grade) - This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images.(这个 JS 库可以从图像提取两种主要颜色，然后生成渐变色背景 (npm install grade-js))
+[benhowdle89/grad - 从图像提取两种主要颜色，然后生成渐变色背景 npm install grade-js](https://github.com/benhowdle89/grade)
 
 ## 2. 资源类项目
 
-[free-api - 收集免费的接口服务, 做一个 api 的搬运工](https://github.com/fangzesheng/free-api)
+[fangzesheng/free-api - 收集免费的接口服务, 做一个 api 的搬运工](https://github.com/fangzesheng/free-api)
 
-[谷粒-Chrome 插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
+[zhaoolee/ChromeAppHeroes - 谷粒-Chrome 插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
+
+## JavaScript
+
+[transloadit/uppy - 文件上传的 JS 库](https://github.com/transloadit/uppy)
+[mengshukeji/Luckysheet - 一个网页表格库，类似 Excel 的效果](https://github.com/mengshukeji/Luckysheet)
+
+## 软件工具类
+
+[serhii-londar/open-source-mac-os-apps - mac 系统免费软件清单](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md)
 
 ## 待整理
-
-[transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers 🐶（一个文件上传的 JS 库）
-
-[Luckysheet - 一个网页表格库，类似 Excel 的效果。](https://github.com/mengshukeji/Luckysheet)
 
 [Plausible Insights - Simple, lightweight analytics for your website (一个 Google Analytics 的开源替代品，可以自己架设网站访问统计。)](https://github.com/plausible-insights/plausible)
 
@@ -75,8 +74,6 @@ sidebar: auto
 [ React ][chakra ui - 一个 react 组件库，ui 很优雅。](https://chakra-ui.com/)
 
 [roughViz.js - 一个生成手绘风格的网页图表的 JS 库。](https://github.com/jwilber/roughViz)
-
-[ Mac ][mac 系统免费软件 - 有人整理出了一份 mac 系统免费软件清单。](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md)
 
 [fusuma - 直接将 Markdown 文档转换生成幻灯片。](https://github.com/hiroppy/fusuma)
 

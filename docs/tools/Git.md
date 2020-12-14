@@ -53,7 +53,7 @@ git checkout [分支名] # 切换到指定分支
 git checkout -b [本地分支名] origin/[远程分支名] # 拉取远程分支
 git branch -d [本地分支名] # 删除本地分支
 
-#查看项目中git配置
+# 查看项目中git配置
 git config --list
 # 配置全局信息
 git config --global user.name "[name]"
@@ -69,6 +69,7 @@ git reset --hard [commitId] #取消回退，commitId为你想要回到的未来�
 git rm --cached "[filepath]" # 将该文件从缓存中删除
 
 git push --all origin -u # 推送所有分支到远程仓库
+
 
 git push origin --delete rain # 删除远程分支 rain
 git branch -d rain            # 删除本地分支 rain
