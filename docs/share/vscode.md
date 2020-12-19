@@ -226,6 +226,18 @@ Vue 代码段提示
 
 ![one darl pro](https://ww2.sinaimg.cn/large/006tNbRwgy1fvwk4ach5bj31kw16o0uw.jpg)
 
+### [Winter is Coming Theme](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming)
+
+一款蓝色系的主题
+
+![Winter is Coming Theme Demo](https://raw.githubusercontent.com/johnpapa/vscode-winteriscoming/master/images/dark-blue-html.png)
+
+### [Cobalt2 Theme Official](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
+
+一款非常不错蓝色系的主题
+
+![Cobalt2 Theme Official Demo](https://raw.githubusercontent.com/wesbos/cobalt2-vscode/cobalt2-updates/images/ss.png)
+
 ## 3. 字体推荐
 
 - Monaco https://github.com/todylu/monaco.ttf
