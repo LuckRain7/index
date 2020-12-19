@@ -6,6 +6,19 @@ sidebar: auto
 
 ## 1 ~ 前端插件
 
+### advanced-new-file <a style="font-size:1px;" target="_blank" href="https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file">Marketplace</a>
+
+在工作区进行快捷文件创建
+
+进行快捷键配置 [Mac] ⌘ + N
+
+```
+{
+"key": "cmd+n",
+"command": "extension.advancedNewFile"
+}
+```
+
 ### Highlight Matching Tag <a style="font-size:1px;" target="_blank" href="https://github.com/vincaslt/vscode-highlight-matching-tag">github</a>
 
 HTML 标签的高亮匹配插件
