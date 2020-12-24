@@ -123,7 +123,7 @@ git reset --hard [origin/master]
 git pull
 ```
 
-#### 3、Git 忽略规则(.gitignore 配置）不生效解决方案
+### 3、Git 忽略规则(.gitignore 配置）不生效解决方案
 
 清除缓存 重新提交
 
@@ -145,6 +145,10 @@ refactor：重构（即不是新增功能，也不是修改bug的代码变动）
 test：增加测试
 chore：构建过程或辅助工具的变动
 ```
+
+## Git 配置文件地址
+
+.gitconfig
 
 ## 参考文章
 

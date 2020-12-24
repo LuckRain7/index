@@ -22,12 +22,12 @@ git add -A
 git commit -m 'deploy'
 
 # Gitee
-git push -f git@gitee.com:LuckRain/index.git master:gh-pages
+git push -f git@gitee.com:LuckRain7/index.git master:gh-pages
 
 # GitHub
 git push -f git@github.com:LuckRain7/index.git master:gh-pages
 
 # 打开浏览器
-open https://gitee.com/LuckRain/index/pages
+open https://gitee.com/LuckRain7/index/pages
 
 cd -

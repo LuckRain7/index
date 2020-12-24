@@ -874,7 +874,7 @@ sidebar: auto
 
   - 适配器模式(Adapter)
 
-  - 外观模式(Facade)
+  - [外观模式(Facade)](https://github.com/LuckRain7/growth-record/tree/master/design-patterns/facade-ts)
 
   - 桥接模式(Bridge)
 
