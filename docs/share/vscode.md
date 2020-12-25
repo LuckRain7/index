@@ -213,6 +213,10 @@ Vue 代码段提示
 
 项目管理切换插件
 
+[Cyberbrain](https://github.com/laike9m/Cyberbrain)
+
+一个 VS Code 插件，提供 Python 程序的可视化调试环境。
+
 ## 2. 主题美化插件
 
 ### Darcula Theme - WebStorm Edition
