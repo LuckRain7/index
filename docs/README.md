@@ -14,7 +14,7 @@ features:
     details: 清缓存！重启！
 ---
 
-<a id="out-link">备案号：鲁 ICP 备 19058623 号</a>
+<a id="out-link">备案号：鲁 ICP 备 19058623 号-1</a>
 
 <style>
   #out-link{
@@ -26,7 +26,7 @@ export default {
   mounted () {
     var outLink = document.getElementById("out-link")
     outLink.addEventListener("click",function(){
-        window.open("http://www.beian.miit.gov.cn/")
+        window.open("https://beian.miit.gov.cn")
     })
   }
 }

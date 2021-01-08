@@ -105,6 +105,4 @@ docker version
 
 `docker pull nginx:latest`
 
-
 ### 启动实例
-
