@@ -109,10 +109,10 @@ console.log(d.other);
 
       // 节流
       function throttle(fn, time) {
-        let _arguments = arguments;
         let canRun = true;
         return function () {
           if (!canRun) return;
+          et _arguments = arguments;
           canRun = false;
           setTimeout(() => {
             fn.call(this, _arguments);

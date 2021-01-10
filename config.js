@@ -3,13 +3,13 @@
  *  Author: LuckRain7
  *  Date: 2020-03-15 17:40:55
  */
-
+const BASEPATH = require('./base.js')
 
 module.exports = {
   title: "震雨 luckrain7's 博客",
   description: "震雨LuckRain7的博客,Webgis,arcgis,openlayer,css,javascript",
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
-  base: "/index/",
+  base: BASEPATH,
   markdown: {
     // lineNumbers: true // 代码块显示行号
   },
