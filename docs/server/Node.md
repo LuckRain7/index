@@ -11,25 +11,34 @@ sidebar: auto
 
 :::
 
-## 1、Node基础
+## 1、Node 基础
 
-### 1-1、什么是Node.js
+### 1-1、什么是 Node.js
 
- Node.js® 是一个基于 [Chrome V8 引擎](https://v8.dev/) 的 JavaScript 运行时。 
+Node.js® 是一个基于 [Chrome V8 引擎](https://v8.dev/) 的 JavaScript 运行时。
 
- Node.js 特性：
+Node.js 特性：
 
-- 非阻塞I/O
+- 非阻塞 I/O
 - 事件驱动
 
-[Node.js 发展史]( https://www.jianshu.com/p/4e45641123dc )
+[Node.js 发展史](https://www.jianshu.com/p/4e45641123dc)
 
 与前端的不同
 
 - JS 核心语法不变
-- 前端 BOM DOM  后端 fs http buffer event  os
+- 前端 BOM DOM 后端 fs http buffer event os
 
+### 判断文件是否存在，如果不存则新建
 
+```javascript
+// 判断文件夹是否存在
+try {
+  fs.statSync(FILEPATH);
+} catch (err) {
+  fs.mkdirSync(FILEPATH);
+}
+```
 
 ## 2、webSocket
 
@@ -57,8 +66,8 @@ let pad = null,
   pcReady = false;
 
 // 连接socket.io
-socket.listen(server).on("connection", conn => {
-  conn.on("message", str => {
+socket.listen(server).on("connection", (conn) => {
+  conn.on("message", (str) => {
     if (str === "Pad") {
       pad = conn;
       padReady = true;
@@ -82,13 +91,11 @@ socket.listen(server).on("connection", conn => {
 });
 ```
 
-
-
 ## 3、Node 实现 ZIP 压缩文件
 
->  JSZip 工具的使用
+> JSZip 工具的使用
 
-下载  JSZip
+下载 JSZip
 
 ```bash
 yarn add jszip
@@ -107,28 +114,27 @@ zip.file("Hello.txt", "Hello World\n");
 var img = zip.folder("images");
 
 // 在img文件夹中 创建 smile.gif 并传入数据
-img.file("smile.gif", imgData, {base64: true});
+img.file("smile.gif", imgData, { base64: true });
 
 // 进行压缩
-zip.generateAsync({type:"blob"})
-.then(function(content) {
-    // 将压缩后的内容导入指定文件中
-    saveAs(content, "example.zip");
+zip.generateAsync({ type: "blob" }).then(function (content) {
+  // 将压缩后的内容导入指定文件中
+  saveAs(content, "example.zip");
 });
 ```
 
 简单使用
 
 ```js
-const ZIP = require('jszip')
+const ZIP = require("jszip");
 
 async function createZIP(data, filename) {
   //初始化 jszip
-  const zip = new ZIP()
+  const zip = new ZIP();
 
   // 读取文件内容
-  const packageJSON = await readFile(getFilePath('./package.ejs'))
-  const indexJSTemplate = await readFile(getFilePath('./index.ejs'))
+  const packageJSON = await readFile(getFilePath("./package.ejs"));
+  const indexJSTemplate = await readFile(getFilePath("./index.ejs"));
 
   // index.js 模板渲染
   const renderData = {
@@ -136,27 +142,26 @@ async function createZIP(data, filename) {
     // cmd: "cd C:\\APP\\MyWorkLoad && git pull",
     cmd: `cd ${data.file} && ${data.cmd}`,
     path: data.url,
-    port: data.port
-  }
-  const indexJS = ejs.render(indexJSTemplate, renderData)
+    port: data.port,
+  };
+  const indexJS = ejs.render(indexJSTemplate, renderData);
 
   // 创建文件 并将数据传入文件
-  zip.file('package.json', packageJSON)
-  zip.file('index.js', indexJS)
+  zip.file("package.json", packageJSON);
+  zip.file("index.js", indexJS);
   // 进行文件压缩 content即压缩后的数据
   const content = await zip.generateAsync({
-    type: 'nodebuffer', // node压缩类型
+    type: "nodebuffer", // node压缩类型
     compressionOptions: {
-      level: 5 // 压缩级别 1-9级
-    }
-  })
+      level: 5, // 压缩级别 1-9级
+    },
+  });
 
   // 将压缩文件存储到静态文件中
-  await fs.writeFile(getFilePath(`../../static/${filename}`), content)
+  await fs.writeFile(getFilePath(`../../static/${filename}`), content);
 
-  return `${filename}`
+  return `${filename}`;
 }
 ```
 
-## 
-
+##

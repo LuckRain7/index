@@ -285,6 +285,18 @@ div {
 }
 ```
 
+### 4、原生 JS 实现平滑滚动
+
+```JavaScript
+var jump = function (_id) {
+  const el = document.querySelector(`#${_id}`);
+  window.scrollTo({
+    top: el.offsetTop - 120,
+    behavior: "smooth",
+  });
+};
+```
+
 ## API
 
 ### 一、Object
